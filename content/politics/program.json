@@ -1,0 +1,50 @@
+{
+  "title": "Wahlprogramm 2026–2031",
+  "subtitle": "Stark für Büdingen",
+  "status": "source-summary",
+  "reviewedAt": "2026-11-12",
+  "sourceTitle": "SPD Büdingen: Wahlprogramm 2026",
+  "sourceUrl": "https://www.spd-buedingen.de/wahlprogramm-2026/",
+  "pdfUrl": null,
+  "notice": "Zusammenfassung des veröffentlichten Programms. Ziele sind politische Vorhaben; ihr Beschluss oder ihre Umsetzung wird damit nicht behauptet. Eine PDF-Datei liegt für diesen Prototyp nicht vor.",
+  "chapters": [
+    {
+      "id": "familien",
+      "title": "Kinder, Jugend, Senioren und Familien",
+      "summary": "Das Programm nennt Kita-Angebote, die Förderung des Kinder- und Jugendbeirats und Begegnungsräume. Auch Seniorenbeirat, Barrierefreiheit, Familienzentrum und Kulturangebote werden angesprochen.",
+      "topicIds": [
+        "bildung-jugend",
+        "soziales"
+      ]
+    },
+    {
+      "id": "zusammenleben",
+      "title": "Mitmenschlichkeit und Sicherheit",
+      "summary": "Schwerpunkte sind bezahlbarer kommunaler Wohnraum, Ehrenamt, Bürgerbeteiligung, Vereine und wohnortnahe medizinische Versorgung.",
+      "topicIds": [
+        "wohnen",
+        "ehrenamt",
+        "soziales"
+      ]
+    },
+    {
+      "id": "umwelt",
+      "title": "Umwelt und Nachhaltigkeit",
+      "summary": "Die SPD beschreibt erneuerbare Energien, Energieberatung und die Zusammenarbeit mit den Stadtwerken als Handlungsfelder. Öffentliche Verantwortung für Wasser ist ein weiteres Anliegen.",
+      "topicIds": [
+        "umwelt"
+      ]
+    },
+    {
+      "id": "entwicklung",
+      "title": "Wirtschaft, Finanzen, Beteiligung und Stadtentwicklung",
+      "summary": "Genannt werden Unterstützung für Gründungen und Ausbildung, kommunale Kooperationen sowie Mobilitätsangebote im ländlichen Raum. Die finanzielle Handlungsfähigkeit der Stadt soll gesichert werden.",
+      "topicIds": [
+        "wirtschaft",
+        "finanzen",
+        "verkehr",
+        "stadtentwicklung"
+      ]
+    }
+  ]
+}

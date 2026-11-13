@@ -1,0 +1,707 @@
+[
+  {
+    "id": "bundesgesetz",
+    "title": "Wie entsteht ein Bundesgesetz?",
+    "intro": "Vom politischen Anliegen zum geltenden Recht: Der typische Weg eines Bundesgesetzes.",
+    "source": [
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      },
+      {
+        "title": "Deutscher Bundestag: Weg der Gesetzgebung",
+        "url": "https://www.bundestag.de/parlament/aufgaben/gesetzgebung_neu/gesetzgebung/weg-255468"
+      },
+      {
+        "title": "Deutscher Bundestag: Vermittlungsverfahren",
+        "url": "https://www.bundestag.de/parlament/aufgaben/gesetzgebung_neu/gesetzgebung/verm-255464"
+      }
+    ],
+    "steps": [
+      {
+        "id": "bundesgesetz-1",
+        "title": "Gesetzesidee",
+        "summary": "Ein Problem wird zum politischen Thema.",
+        "detail": "Menschen, Verbände, Forschung und Politik können Änderungen anregen. Eine Idee allein eröffnet noch kein förmliches Gesetzgebungsverfahren.",
+        "glossaryIds": [
+          "demokratie",
+          "petition"
+        ]
+      },
+      {
+        "id": "bundesgesetz-2",
+        "title": "Gesetzesinitiative",
+        "summary": "Nur Berechtigte können einen Entwurf einbringen.",
+        "detail": "Die Bundesregierung, der Bundesrat und die Mitte des Bundestages haben das Initiativrecht. Für Entwürfe aus dem Bundestag gelten die Voraussetzungen seiner Geschäftsordnung.",
+        "glossaryIds": [
+          "gesetzesentwurf",
+          "bundesrat",
+          "bundestag"
+        ]
+      },
+      {
+        "id": "bundesgesetz-3",
+        "title": "Gesetzentwurf",
+        "summary": "Die Idee wird als Regelungstext formuliert.",
+        "detail": "Der Text beschreibt das vorgeschlagene Recht. Begründung, Auswirkungen und der jeweilige Initiativweg gehören zur Vorbereitung; Regierungsvorlagen werden grundsätzlich zuerst dem Bundesrat zugeleitet.",
+        "glossaryIds": [
+          "gesetzesentwurf",
+          "gesetzgebungsverfahren"
+        ]
+      },
+      {
+        "id": "bundesgesetz-4",
+        "title": "Erste Lesung",
+        "summary": "Der Bundestag befasst sich erstmals mit der Vorlage.",
+        "detail": "In dieser Beratungsphase steht meist die grundsätzliche Richtung im Mittelpunkt. Der Entwurf wird in der Regel an zuständige Ausschüsse überwiesen.",
+        "glossaryIds": [
+          "bundestag",
+          "ausschuss"
+        ]
+      },
+      {
+        "id": "bundesgesetz-5",
+        "title": "Ausschussberatung",
+        "summary": "Fachfragen und mögliche Änderungen werden beraten.",
+        "detail": "Der federführende Ausschuss erarbeitet eine Empfehlung für das Plenum. Anhörungen können Wissen von Sachverständigen und Interessenvertretungen einbeziehen.",
+        "glossaryIds": [
+          "ausschuss",
+          "aenderungsantrag"
+        ]
+      },
+      {
+        "id": "bundesgesetz-6",
+        "title": "Zweite Lesung",
+        "summary": "Das Plenum berät den Text und Änderungen.",
+        "detail": "Die Abgeordneten können über einzelne Bestimmungen und Änderungsanträge entscheiden. Maßgeblich sind die Geschäftsordnung und die jeweiligen Abstimmungsregeln.",
+        "glossaryIds": [
+          "aenderungsantrag",
+          "abstimmung"
+        ]
+      },
+      {
+        "id": "bundesgesetz-7",
+        "title": "Dritte Lesung",
+        "summary": "Die abschließende Beratung folgt.",
+        "detail": "Eine weitere Aussprache ist nach den Verfahrensregeln möglich. Änderungsanträge unterliegen in dieser Phase engeren Voraussetzungen als in der zweiten Lesung.",
+        "glossaryIds": [
+          "geschaeftsordnung",
+          "mehrheit"
+        ]
+      },
+      {
+        "id": "bundesgesetz-8",
+        "title": "Beschlussfassung",
+        "summary": "Der Bundestag stimmt abschließend ab.",
+        "detail": "Nur wenn die erforderliche Mehrheit erreicht ist, liegt ein Gesetzesbeschluss vor. Die notwendige Mehrheit kann bei besonderen Gesetzesarten von der allgemeinen Regel abweichen.",
+        "glossaryIds": [
+          "beschluss",
+          "mehrheit"
+        ]
+      },
+      {
+        "id": "bundesgesetz-9",
+        "title": "Beteiligung des Bundesrates",
+        "summary": "Die Länder wirken am Gesetz mit.",
+        "detail": "Bei Zustimmungsgesetzen ist eine ausdrückliche Zustimmung nötig. Bei Einspruchsgesetzen kann der Bundesrat nach den verfassungsrechtlichen Regeln Einspruch erheben; beide Wege unterscheiden sich.",
+        "glossaryIds": [
+          "bundesrat",
+          "zustimmungsgesetz",
+          "einspruchsgesetz"
+        ]
+      },
+      {
+        "id": "bundesgesetz-10",
+        "title": "Gegebenenfalls Vermittlung",
+        "summary": "Ein gemeinsames Gremium sucht einen Kompromiss.",
+        "detail": "Der Vermittlungsausschuss kann Änderungsvorschläge erarbeiten. Er erlässt selbst kein Gesetz; erforderliche erneute Beschlüsse von Bundestag und Bundesrat bleiben notwendig.",
+        "glossaryIds": [
+          "vermittlungsausschuss",
+          "gesetzgebungsverfahren"
+        ]
+      },
+      {
+        "id": "bundesgesetz-11",
+        "title": "Ausfertigung und Verkündung",
+        "summary": "Das abgeschlossene Gesetz wird amtlich bekannt gemacht.",
+        "detail": "Nach den weiteren verfassungsrechtlichen Schritten, darunter Gegenzeichnung und Ausfertigung durch den Bundespräsidenten, wird das Gesetz im Bundesgesetzblatt verkündet.",
+        "glossaryIds": [
+          "gesetzgebungsverfahren",
+          "gewaltenteilung"
+        ]
+      },
+      {
+        "id": "bundesgesetz-12",
+        "title": "Inkrafttreten",
+        "summary": "Die Regelung gilt ab dem vorgesehenen Zeitpunkt.",
+        "detail": "Das Gesetz legt häufig selbst fest, wann es gilt. Verkündung und Geltungsbeginn sind deshalb nicht immer derselbe Tag; ohne Sonderregel greift die Regel des Grundgesetzes.",
+        "glossaryIds": [
+          "gesetzgebungsverfahren",
+          "wahlrecht"
+        ]
+      }
+    ],
+    "branches": [
+      {
+        "title": "Zustimmungsgesetz",
+        "text": "Ohne die erforderliche Zustimmung des Bundesrates kommt das Gesetz nicht zustande. Der Bundestag kann eine verweigerte Zustimmung nicht überstimmen."
+      },
+      {
+        "title": "Einspruchsgesetz",
+        "text": "Ein Bundesratseinspruch kann vom Bundestag nach Artikel 77 Absatz 4 Grundgesetz mit der dafür erforderlichen Mehrheit zurückgewiesen werden."
+      },
+      {
+        "title": "Vermittlung ist kein Pflichtschritt für jedes Gesetz",
+        "text": "Das Vermittlungsverfahren wird nur bei einer entsprechenden Anrufung relevant; ein Gesetz kann auch ohne Vermittlung zustande kommen."
+      }
+    ],
+    "reviewStatus": "Vereinfachtes Grundlagenwissen; keine Abbildung eines konkreten laufenden Verfahrens. Örtliche Einzelheiten und Rechtsstand vor Veröffentlichung abschließend prüfen."
+  },
+  {
+    "id": "kommunaler-beschluss",
+    "title": "Wie entsteht ein Beschluss in Büdingen?",
+    "intro": "Ein typischer Beratungsweg. Die Zuständigkeit bestimmt, welche Stationen tatsächlich erforderlich sind.",
+    "source": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Geschäftsordnung der Stadtverordnetenversammlung",
+        "url": "https://www.stadt-buedingen.de/media/custom/3139_1064_1.PDF?1718280934="
+      },
+      {
+        "title": "Stadt Büdingen: Stadtpolitik",
+        "url": "https://www.stadt-buedingen.de/B%C3%BCrgerservice/Stadtpolitik/"
+      }
+    ],
+    "steps": [
+      {
+        "id": "kommunaler-beschluss-1",
+        "title": "Anliegen und Initiative",
+        "summary": "Ein örtliches Problem wird benannt.",
+        "detail": "Einwohnerinnen und Einwohner, Fraktionen, Ortsbeiräte oder die Verwaltung können ein Anliegen aufgreifen. Für einen förmlichen Antrag gelten die jeweiligen Antragsrechte.",
+        "glossaryIds": [
+          "buergerbeteiligung",
+          "antrag"
+        ]
+      },
+      {
+        "id": "kommunaler-beschluss-2",
+        "title": "Antrag oder Vorlage",
+        "summary": "Ein konkreter Entscheidungsgegenstand entsteht.",
+        "detail": "Ein Antrag formuliert den gewünschten Beschluss. Eine Verwaltungsvorlage kann Sachverhalt, rechtliche Voraussetzungen und finanzielle Folgen aufbereiten.",
+        "glossaryIds": [
+          "antrag",
+          "beschlussvorlage"
+        ]
+      },
+      {
+        "id": "kommunaler-beschluss-3",
+        "title": "Zuständigkeit und Vorbereitung",
+        "summary": "Verwaltung und Magistrat prüfen und bereiten vor.",
+        "detail": "Nicht jedes Anliegen gehört zur Stadtverordnetenversammlung. HGO, Fachrecht, Hauptsatzung und zulässige Übertragungen legen fest, welches Organ entscheiden darf.",
+        "glossaryIds": [
+          "magistrat",
+          "hauptsatzung",
+          "verwaltung"
+        ]
+      },
+      {
+        "id": "kommunaler-beschluss-4",
+        "title": "Beratung in Ausschüssen",
+        "summary": "Fachliche Fragen können vorberaten werden.",
+        "detail": "Ausschüsse geben häufig Empfehlungen. Eine Empfehlung ist noch kein abschließender Beschluss, sofern dem Ausschuss keine entsprechende Entscheidungskompetenz übertragen ist.",
+        "glossaryIds": [
+          "ausschuss",
+          "beschluss"
+        ]
+      },
+      {
+        "id": "kommunaler-beschluss-5",
+        "title": "Entscheidung des zuständigen Gremiums",
+        "summary": "Beratung und Abstimmung führen zum Beschluss.",
+        "detail": "Bei Zuständigkeit der Stadtverordnetenversammlung entscheidet sie nach den gesetzlichen und örtlichen Verfahrensregeln. Auch Ablehnung, Änderung oder Vertagung sind mögliche Ergebnisse.",
+        "glossaryIds": [
+          "stadtverordnetenversammlung",
+          "abstimmung"
+        ]
+      },
+      {
+        "id": "kommunaler-beschluss-6",
+        "title": "Dokumentation",
+        "summary": "Der Entscheidungsstand wird nachvollziehbar.",
+        "detail": "Die Niederschrift dokumentiert das Ergebnis. Öffentliche Unterlagen sind nach den jeweiligen Veröffentlichungsregeln im Gremieninfosystem zugänglich.",
+        "glossaryIds": [
+          "sitzungsprotokoll",
+          "gremieninformationssystem"
+        ]
+      },
+      {
+        "id": "kommunaler-beschluss-7",
+        "title": "Umsetzung und Kontrolle",
+        "summary": "Ein rechtmäßiger Beschluss wird praktisch bearbeitet.",
+        "detail": "Magistrat und Verwaltung handeln im gesetzlichen Zuständigkeitsrahmen. Vergabe, Haushaltsmittel, Genehmigungen und Planung können weitere Schritte erfordern; beschlossen bedeutet noch nicht umgesetzt.",
+        "glossaryIds": [
+          "magistrat",
+          "verwaltung",
+          "haushaltsplan"
+        ]
+      }
+    ],
+    "branches": [
+      {
+        "title": "Kein immer gleicher Durchlauf",
+        "text": "Anhörungsrechte der Ortsbeiräte, besondere Zuständigkeiten und die örtliche Geschäftsordnung können den Ablauf verändern."
+      },
+      {
+        "title": "Vorbereitung ist keine Vorentscheidung",
+        "text": "Eine fachliche Vorlage oder Ausschussempfehlung ersetzt nicht den Beschluss des zuständigen Organs."
+      }
+    ],
+    "reviewStatus": "Vereinfachtes Grundlagenwissen; keine Abbildung eines konkreten laufenden Verfahrens. Örtliche Einzelheiten und Rechtsstand vor Veröffentlichung abschließend prüfen."
+  },
+  {
+    "id": "gremien",
+    "title": "Wer entscheidet in Büdingen?",
+    "intro": "Organe und Beteiligte haben unterschiedliche Aufgaben. Wähle eine Station für die Einordnung.",
+    "source": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Stadtpolitik",
+        "url": "https://www.stadt-buedingen.de/B%C3%BCrgerservice/Stadtpolitik/"
+      },
+      {
+        "title": "Büdingen: öffentliches Gremieninfosystem",
+        "url": "https://rim.ekom21.de/buedingen/gremien"
+      }
+    ],
+    "steps": [
+      {
+        "id": "gremien-1",
+        "title": "Bürgerschaft",
+        "summary": "Wählt Vertretungen und kann sich beteiligen.",
+        "detail": "Wahlberechtigte bestimmen kommunale Vertretungen und in einer gesonderten Wahl die Verwaltungsspitze. Weitere Beteiligungsrechte bestehen nach den gesetzlichen Voraussetzungen.",
+        "glossaryIds": [
+          "wahlrecht",
+          "buergerbeteiligung"
+        ]
+      },
+      {
+        "id": "gremien-2",
+        "title": "Stadtverordnetenversammlung",
+        "summary": "Entscheidet im gesetzlichen Zuständigkeitsrahmen.",
+        "detail": "Sie beschließt über die Stadtangelegenheiten, soweit das Gesetz nichts anderes regelt, und überwacht die Verwaltung. Sie ist kein Verwaltungsamt für einzelne Genehmigungen.",
+        "glossaryIds": [
+          "stadtverordnetenversammlung",
+          "kommunale-selbstverwaltung"
+        ]
+      },
+      {
+        "id": "gremien-3",
+        "title": "Magistrat",
+        "summary": "Kollegiales Verwaltungsorgan der Stadt.",
+        "detail": "Der Magistrat bereitet Entscheidungen vor und führt rechtmäßige Beschlüsse im Rahmen seiner Aufgaben aus. Er hat daneben eigene gesetzliche Zuständigkeiten.",
+        "glossaryIds": [
+          "magistrat",
+          "gemeindevorstand"
+        ]
+      },
+      {
+        "id": "gremien-4",
+        "title": "Bürgermeisteramt",
+        "summary": "Leitet Verwaltung und Geschäftsgang.",
+        "detail": "Die direkt gewählte Verwaltungsspitze führt den Vorsitz im Magistrat und organisiert die Verwaltung nach den gesetzlichen Regeln. Nicht alle Entscheidungen fallen allein in ihre Zuständigkeit.",
+        "glossaryIds": [
+          "buergermeisterin-buergermeister",
+          "direktwahl"
+        ]
+      },
+      {
+        "id": "gremien-5",
+        "title": "Ausschüsse",
+        "summary": "Beraten Fachfragen und bereiten Entscheidungen vor.",
+        "detail": "Die Stadtverordnetenversammlung bildet Ausschüsse nach den geltenden Regeln. Diese können rechtmäßig übertragene Aufgaben auch abschließend entscheiden.",
+        "glossaryIds": [
+          "ausschuss",
+          "beschlussvorlage"
+        ]
+      },
+      {
+        "id": "gremien-6",
+        "title": "Ortsbeiräte",
+        "summary": "Vertreten Anliegen der Ortsbezirke.",
+        "detail": "Sie haben insbesondere Anhörungs- und Vorschlagsrechte für ihren Ortsbezirk. Weitergehende Aufgaben hängen von zulässigen örtlichen Regelungen ab.",
+        "glossaryIds": [
+          "ortsbeirat",
+          "ortsvorsteherin-ortsvorsteher"
+        ]
+      },
+      {
+        "id": "gremien-7",
+        "title": "Stadtverwaltung",
+        "summary": "Bearbeitet Aufgaben fachlich und rechtlich.",
+        "detail": "Die Beschäftigten erbringen Dienstleistungen, prüfen Sachverhalte und setzen rechtmäßige Entscheidungen um. Die Verwaltung ist an geltendes Recht gebunden.",
+        "glossaryIds": [
+          "verwaltung",
+          "hgo"
+        ]
+      }
+    ],
+    "branches": [],
+    "reviewStatus": "Vereinfachtes Grundlagenwissen; keine Abbildung eines konkreten laufenden Verfahrens. Örtliche Einzelheiten und Rechtsstand vor Veröffentlichung abschließend prüfen."
+  },
+  {
+    "id": "haushalt",
+    "title": "Wie funktioniert der städtische Haushalt?",
+    "intro": "Zwei Blickwinkel auf dieselbe Stadt: Ressourcenverbrauch und tatsächliche Zahlungen. Ohne erfundene Haushaltszahlen.",
+    "source": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Gemeindehaushaltsverordnung Hessen, amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemHVOHE2006rahmen"
+      },
+      {
+        "title": "Hessisches Innenministerium: Kommunale Finanzen",
+        "url": "https://innen.hessen.de/Kommunales/Kommunale-Finanzen/Kommunale-Finanzen"
+      },
+      {
+        "title": "Regierungspräsidium Darmstadt: Kommunaler Finanzausgleich",
+        "url": "https://rp-darmstadt.hessen.de/sicherheit-und-kommunales/kommunalaufsicht/finanzausgleich"
+      }
+    ],
+    "steps": [
+      {
+        "id": "haushalt-1",
+        "title": "Finanzierung",
+        "summary": "Steuern, Gebühren und Zuweisungen tragen zu Einnahmen bei.",
+        "detail": "Grund- und Gewerbesteuer, Anteile an Gemeinschaftsteuern sowie Zuweisungen sind wichtige Finanzierungsarten. Gebühren sind an die jeweilige rechtliche Grundlage gebunden; hier werden keine örtlichen Beträge oder Anteile gezeigt.",
+        "glossaryIds": [
+          "grundsteuer",
+          "gewerbesteuer",
+          "schluesselzuweisungen"
+        ]
+      },
+      {
+        "id": "haushalt-2",
+        "title": "Ergebnishaushalt",
+        "summary": "Erträge und Aufwendungen zeigen den Ressourcenverbrauch.",
+        "detail": "Der Ergebnishaushalt bildet auch Vorgänge ohne gleichzeitige Zahlung ab. Eine Abschreibung erfasst beispielsweise Werteverzehr eines bereits bezahlten Vermögenswerts.",
+        "glossaryIds": [
+          "ergebnishaushalt",
+          "abschreibung"
+        ]
+      },
+      {
+        "id": "haushalt-3",
+        "title": "Finanzhaushalt",
+        "summary": "Einzahlungen und Auszahlungen zeigen Zahlungsströme.",
+        "detail": "Hier werden laufende Zahlungen, Investitionen und Finanzierung getrennt betrachtet. Eine Kreditaufnahme schafft Liquidität, ist jedoch kein Ertrag.",
+        "glossaryIds": [
+          "finanzhaushalt",
+          "kredit"
+        ]
+      },
+      {
+        "id": "haushalt-4",
+        "title": "Investitionen",
+        "summary": "Neue Vermögenswerte wirken über mehrere Jahre.",
+        "detail": "Der Erwerb oder Bau wird als Investition geplant. Laufende Folgekosten und Abschreibungen müssen zusätzlich bedacht werden; eine Förderung deckt nicht automatisch alle späteren Kosten.",
+        "glossaryIds": [
+          "investition",
+          "abschreibung"
+        ]
+      },
+      {
+        "id": "haushalt-5",
+        "title": "Plan und Satzung",
+        "summary": "Die Vertretung berät und beschließt den Haushaltsrahmen.",
+        "detail": "Haushaltsplan und Haushaltssatzung haben unterschiedliche Funktionen. Gesetzlich genehmigungspflichtige Teile werden der Kommunalaufsicht vorgelegt; örtliche Verfahrensschritte sind zusätzlich zu beachten.",
+        "glossaryIds": [
+          "haushaltsplan",
+          "haushaltssatzung",
+          "kommunalaufsicht"
+        ]
+      },
+      {
+        "id": "haushalt-6",
+        "title": "Vollzug und Risiken",
+        "summary": "Die tatsächliche Entwicklung kann vom Plan abweichen.",
+        "detail": "Weniger Erträge oder höhere Ausgaben können Gegenmaßnahmen notwendig machen. Ein Defizit muss nach seiner Bezugsgröße erklärt werden; eine Haushaltssperre ist eine mögliche haushaltsrechtliche Maßnahme.",
+        "glossaryIds": [
+          "haushaltsdefizit",
+          "haushaltssperre"
+        ]
+      },
+      {
+        "id": "haushalt-7",
+        "title": "Jahresabschluss",
+        "summary": "Die spätere Rechnung zeigt den tatsächlichen Verlauf.",
+        "detail": "Ergebnis, Zahlungsströme und Vermögenslage werden dokumentiert und geprüft. Die Rechnung erlaubt den Vergleich mit dem beschlossenen Plan.",
+        "glossaryIds": [
+          "jahresabschluss",
+          "haushaltsplan"
+        ]
+      }
+    ],
+    "branches": [
+      {
+        "title": "Ressourcensicht",
+        "text": "Erträge → Ergebnishaushalt ← Aufwendungen. Auch nicht zahlungswirksame Vorgänge zählen."
+      },
+      {
+        "title": "Zahlungssicht",
+        "text": "Einzahlungen → Finanzhaushalt ← Auszahlungen. Eine Investitionsauszahlung kann vor ihrer späteren Abschreibung liegen."
+      }
+    ],
+    "reviewStatus": "Vereinfachtes Grundlagenwissen; keine Abbildung eines konkreten laufenden Verfahrens. Örtliche Einzelheiten und Rechtsstand vor Veröffentlichung abschließend prüfen."
+  },
+  {
+    "id": "kommunalwahl",
+    "title": "Wie funktionieren Kommunalwahlen in Hessen?",
+    "intro": "Stimmen verteilen, Personen auswählen und Vertretungen wählen. Grundlagen für die allgemeinen Kommunalwahlen.",
+    "source": [
+      {
+        "title": "Land Hessen: Wahlsystem der Kommunalwahlen",
+        "url": "https://wahlen.hessen.de/kommunalwahlen/allgemeine-kommunalwahlen/wahlsystem"
+      },
+      {
+        "title": "Land Hessen: Informationen und Rechtsgrundlagen der Kommunalwahlen",
+        "url": "https://wahlen.hessen.de/kommunalwahlen/allgemeine-kommunalwahlen/allgemeine-informationen-und-rechtsgrundlagen"
+      },
+      {
+        "title": "Hessisches Statistisches Landesamt: Wahlberechtigung 2026",
+        "url": "https://statistik.hessen.de/presse/kommunalwahlen-am-15-maerz-2026-in-hessen-wahlberechtigte"
+      }
+    ],
+    "steps": [
+      {
+        "id": "kommunalwahl-1",
+        "title": "Wahlberechtigung",
+        "summary": "Die Voraussetzungen hängen von der konkreten Wahl ab.",
+        "detail": "Für die allgemeinen Kommunalwahlen sind grundsätzlich Deutsche und andere EU-Staatsangehörige ab 18 Jahren mit dem erforderlichen Wohnsitz oder Aufenthalt wahlberechtigt. Die hessische Landesinformation nennt mindestens sechs Wochen im jeweiligen Wahlgebiet; gesetzliche Ausnahmen sind zu beachten.",
+        "glossaryIds": [
+          "wahlrecht",
+          "waehlerverzeichnis"
+        ]
+      },
+      {
+        "id": "kommunalwahl-2",
+        "title": "Stimmzettel verstehen",
+        "summary": "Für verschiedene Vertretungen gibt es unterschiedliche Wahlen.",
+        "detail": "Gemeindevertretung beziehungsweise Stadtverordnetenversammlung, Kreistag und gegebenenfalls Ortsbeirat werden gesondert gewählt. Die jeweilige Stimmenzahl entspricht grundsätzlich der Zahl der zu vergebenden Sitze.",
+        "glossaryIds": [
+          "stadtverordnetenversammlung",
+          "kreistag",
+          "ortsbeirat"
+        ]
+      },
+      {
+        "id": "kommunalwahl-3",
+        "title": "Kumulieren",
+        "summary": "Bis zu drei Stimmen auf eine Person häufen.",
+        "detail": "Die zulässige Gesamtzahl der Stimmen darf nicht überschritten werden. Das Beispiel benennt keine realen Kandidierenden und ersetzt nicht die Anleitung auf dem konkreten Stimmzettel.",
+        "glossaryIds": [
+          "kumulieren",
+          "wahlrecht"
+        ]
+      },
+      {
+        "id": "kommunalwahl-4",
+        "title": "Panaschieren",
+        "summary": "Personen aus mehreren Listen auswählen.",
+        "detail": "Stimmen können auf Kandidierende verschiedener Wahlvorschläge verteilt werden. Ein Listenkreuz kann nach den gesetzlichen Regeln verbleibende Stimmen verteilen.",
+        "glossaryIds": [
+          "panaschieren",
+          "verhaeltniswahl"
+        ]
+      },
+      {
+        "id": "kommunalwahl-5",
+        "title": "Sitzverteilung",
+        "summary": "Stimmen werden in Sitze und persönliche Reihenfolgen übersetzt.",
+        "detail": "Nach der aktuellen Landesinformation gilt bei mehreren Listen das Hare/Niemeyer-Verfahren. Personenstimmen bestimmen die Reihenfolge innerhalb des Wahlvorschlags; es gibt keine allgemeine Fünf-Prozent-Sperrklausel. Bei nur einer Liste gilt ein anderes Wahlverfahren.",
+        "glossaryIds": [
+          "verhaeltniswahl",
+          "mandat"
+        ]
+      },
+      {
+        "id": "kommunalwahl-6",
+        "title": "Ortsbeiratswahl",
+        "summary": "Der eigene Ortsbezirk erhält eine Vertretung.",
+        "detail": "Besteht ein Ortsbeirat, wird er gesondert gewählt. Für die Wahlberechtigung ist der betreffende Ortsbezirk maßgeblich; Aufgaben und Rechte unterscheiden sich von denen der Stadtverordnetenversammlung.",
+        "glossaryIds": [
+          "ortsbeirat",
+          "ortsvorsteherin-ortsvorsteher"
+        ]
+      },
+      {
+        "id": "kommunalwahl-7",
+        "title": "Bürgermeisterwahl",
+        "summary": "Die Verwaltungsspitze wird gesondert direkt gewählt.",
+        "detail": "Die Direktwahl folgt eigenen Terminen und Mehrheitsregeln und ist nicht automatisch mit jeder allgemeinen Kommunalwahl verbunden. Kumulieren und Panaschieren gelten nicht für diese Personenwahl.",
+        "glossaryIds": [
+          "direktwahl",
+          "buergermeisterin-buergermeister"
+        ]
+      }
+    ],
+    "branches": [],
+    "reviewStatus": "Vereinfachtes Grundlagenwissen; keine Abbildung eines konkreten laufenden Verfahrens. Örtliche Einzelheiten und Rechtsstand vor Veröffentlichung abschließend prüfen."
+  },
+  {
+    "id": "ebenen",
+    "title": "Kommune, Land und Bund",
+    "intro": "Wer ist wofür zuständig? Ein Anliegen gehört nicht automatisch zu der politischen Ebene, die am nächsten ist.",
+    "source": [
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      },
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Hessische Landkreisordnung, amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-LKrOHE2005rahmen"
+      },
+      {
+        "title": "Hessischer Landtag: Aufgaben des Landtags",
+        "url": "https://hessischer-landtag.de/"
+      }
+    ],
+    "steps": [
+      {
+        "id": "ebenen-1",
+        "title": "Kommune",
+        "summary": "Örtliche Angelegenheiten und gesetzlich zugewiesene Aufgaben.",
+        "detail": "Gemeinden regeln eigene örtliche Angelegenheiten im gesetzlichen Rahmen. Landkreise übernehmen überörtliche Aufgaben; einzelne Zuständigkeiten ergeben sich aus dem jeweiligen Fachrecht.",
+        "glossaryIds": [
+          "kommunale-selbstverwaltung",
+          "landkreis"
+        ]
+      },
+      {
+        "id": "ebenen-2",
+        "title": "Land",
+        "summary": "Landesgesetze und eigene Verwaltung.",
+        "detail": "Hessen gestaltet beispielsweise viele Fragen des Schulrechts und der inneren Organisation der Kommunen. Außerdem führen die Länder viele Bundesgesetze aus.",
+        "glossaryIds": [
+          "landtag",
+          "landesregierung",
+          "hgo"
+        ]
+      },
+      {
+        "id": "ebenen-3",
+        "title": "Bund",
+        "summary": "Bundesgesetze und gesamtstaatliche Aufgaben.",
+        "detail": "Das Grundgesetz bestimmt, welche Regelungsbefugnisse beim Bund liegen. Bundestag und Bundesrat wirken im Bundesgesetzgebungsverfahren in unterschiedlicher Weise mit.",
+        "glossaryIds": [
+          "bundestag",
+          "bundesrat",
+          "gesetzgebungsverfahren"
+        ]
+      },
+      {
+        "id": "ebenen-4",
+        "title": "Zusammenwirken",
+        "summary": "Politische Aufgaben überschreiten oft eine einzelne Ebene.",
+        "detail": "Ein örtliches Bauvorhaben kann kommunale Planung, Landesförderung und bundesgesetzliche Vorgaben verbinden. Zuständigkeit, Finanzierung und Ausführung müssen deshalb getrennt betrachtet werden.",
+        "glossaryIds": [
+          "foederalismus",
+          "bauleitplanung",
+          "kommunaler-finanzausgleich"
+        ]
+      }
+    ],
+    "branches": [],
+    "reviewStatus": "Vereinfachtes Grundlagenwissen; keine Abbildung eines konkreten laufenden Verfahrens. Örtliche Einzelheiten und Rechtsstand vor Veröffentlichung abschließend prüfen."
+  },
+  {
+    "id": "beteiligung",
+    "title": "Wie kann ich mich beteiligen?",
+    "intro": "Vom Informieren bis zur verbindlichen Abstimmung: Jede Beteiligungsform hat eine andere Wirkung.",
+    "source": [
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      },
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Baugesetzbuch, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/bbaug/"
+      },
+      {
+        "title": "Stadt Büdingen: Stadtpolitik",
+        "url": "https://www.stadt-buedingen.de/B%C3%BCrgerservice/Stadtpolitik/"
+      }
+    ],
+    "steps": [
+      {
+        "id": "beteiligung-1",
+        "title": "Informieren",
+        "summary": "Öffentliche Unterlagen und Beratungen nutzen.",
+        "detail": "Tagesordnungen, Vorlagen und Niederschriften helfen, den Stand eines Vorhabens zu verstehen. Die Teilnahme als Zuhörerin oder Zuhörer bedeutet nicht automatisch ein Rederecht in der Sitzung.",
+        "glossaryIds": [
+          "gremieninformationssystem",
+          "oeffentlichkeit"
+        ]
+      },
+      {
+        "id": "beteiligung-2",
+        "title": "Anliegen ansprechen",
+        "summary": "Mit zuständigen Stellen und gewählten Mitgliedern Kontakt aufnehmen.",
+        "detail": "Ein Gespräch, ein Hinweis oder eine schriftliche Bitte kann ein Thema auf die Tagesordnung politischer Arbeit bringen. Es ersetzt keine formelle Entscheidung und löst nicht automatisch einen verbindlichen Auftrag aus.",
+        "glossaryIds": [
+          "petition",
+          "mandat"
+        ]
+      },
+      {
+        "id": "beteiligung-3",
+        "title": "Planungen begleiten",
+        "summary": "Gesetzliche Beteiligungsfristen beachten.",
+        "detail": "Bei der Bauleitplanung können Stellungnahmen nach den gesetzlichen Vorgaben abgegeben werden. Die Gemeinde muss relevante Belange prüfen und abwägen; eine Stellungnahme ist kein Vetorecht.",
+        "glossaryIds": [
+          "bauleitplanung",
+          "buergerbeteiligung"
+        ]
+      },
+      {
+        "id": "beteiligung-4",
+        "title": "Bürgerbegehren prüfen",
+        "summary": "Für bestimmte Fragen ist eine direkte Entscheidung möglich.",
+        "detail": "§ 8b HGO regelt Gegenstände, Ausschlüsse und Verfahrensvoraussetzungen. Vor einer Initiative sind Fristen und formelle Anforderungen anhand des aktuellen Rechts zu prüfen.",
+        "glossaryIds": [
+          "buergerbegehren",
+          "buergerentscheid"
+        ]
+      },
+      {
+        "id": "beteiligung-5",
+        "title": "Wählen und engagieren",
+        "summary": "Mitwirkung kann dauerhaft werden.",
+        "detail": "Wahlen bestimmen die gewählten Vertretungen. Vereine, Initiativen und politische Organisationen ermöglichen weitere Formen des Engagements; niemand muss einer Partei angehören, um ein öffentliches Anliegen zu äußern.",
+        "glossaryIds": [
+          "wahlrecht",
+          "ehrenamt",
+          "demokratie"
+        ]
+      }
+    ],
+    "branches": [],
+    "reviewStatus": "Vereinfachtes Grundlagenwissen; keine Abbildung eines konkreten laufenden Verfahrens. Örtliche Einzelheiten und Rechtsstand vor Veröffentlichung abschließend prüfen."
+  }
+]

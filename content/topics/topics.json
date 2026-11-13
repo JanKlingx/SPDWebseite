@@ -1,0 +1,127 @@
+[
+  {
+    "id": "bildung-jugend",
+    "title": "Bildung und Jugend",
+    "intro": "Kinder und junge Menschen brauchen gute Bedingungen zum Lernen und zur Beteiligung.",
+    "localRelevance": "Viele Bildungsaufgaben werden zwischen Stadt, Kreis und Land geteilt.",
+    "position": "Begegnungsräume und Jugendbeirat stärken.",
+    "programChapterId": "familien",
+    "status": "source-summary",
+    "sourceTitle": "SPD Büdingen: Wahlprogramm 2026",
+    "sourceUrl": "https://www.spd-buedingen.de/wahlprogramm-2026/",
+    "relatedNewsIds": [
+      "jusos-jugendpolitik-2018"
+    ],
+    "measuresNotice": "Zum Umsetzungsstand liegen hier keine geprüften Beschlüsse oder Nachweise vor."
+  },
+  {
+    "id": "wohnen",
+    "title": "Wohnen",
+    "intro": "Wohnen ist eine zentrale Frage des Zusammenlebens.",
+    "localRelevance": "Kommunaler Grundbesitz und Bauleitplanung betreffen die örtlichen Wohnmöglichkeiten.",
+    "position": "Bezahlbaren kommunalen Wohnraum erhalten.",
+    "programChapterId": "zusammenleben",
+    "status": "source-summary",
+    "sourceTitle": "SPD Büdingen: Wahlprogramm 2026",
+    "sourceUrl": "https://www.spd-buedingen.de/wahlprogramm-2026/",
+    "relatedNewsIds": [
+      "sozialer-wohnraum-duedelsheim"
+    ],
+    "measuresNotice": "Zum Umsetzungsstand liegen hier keine geprüften Beschlüsse oder Nachweise vor."
+  },
+  {
+    "id": "stadtentwicklung",
+    "title": "Stadtentwicklung",
+    "intro": "Wie sich eine Stadt verändert, betrifft den Alltag in ihren Stadtteilen.",
+    "localRelevance": "Die Stadt entscheidet im Rahmen des geltenden Rechts über örtliche Planungen.",
+    "position": "Kommunale Zusammenarbeit ausbauen.",
+    "programChapterId": "entwicklung",
+    "status": "source-summary",
+    "sourceTitle": "SPD Büdingen: Wahlprogramm 2026",
+    "sourceUrl": "https://www.spd-buedingen.de/wahlprogramm-2026/",
+    "relatedNewsIds": [
+      "gartenschau-oberhessen-2021"
+    ],
+    "measuresNotice": "Zum Umsetzungsstand liegen hier keine geprüften Beschlüsse oder Nachweise vor."
+  },
+  {
+    "id": "finanzen",
+    "title": "Finanzen",
+    "intro": "Der Haushalt beschreibt, welche Aufgaben die Stadt finanzieren kann.",
+    "localRelevance": "Haushaltsentscheidungen verbinden laufende Aufgaben und Investitionen.",
+    "position": "Finanzielle Handlungsfähigkeit sichern.",
+    "programChapterId": "entwicklung",
+    "status": "source-summary",
+    "sourceTitle": "SPD Büdingen: Wahlprogramm 2026",
+    "sourceUrl": "https://www.spd-buedingen.de/wahlprogramm-2026/",
+    "relatedNewsIds": [],
+    "measuresNotice": "Zum Umsetzungsstand liegen hier keine geprüften Beschlüsse oder Nachweise vor."
+  },
+  {
+    "id": "verkehr",
+    "title": "Verkehr",
+    "intro": "Mobilität verbindet Menschen, Angebote und Arbeitsplätze.",
+    "localRelevance": "Für Straßen und Verkehrsangebote können unterschiedliche Stellen zuständig sein.",
+    "position": "Ländliche Mobilitätskonzepte entwickeln.",
+    "programChapterId": "entwicklung",
+    "status": "source-summary",
+    "sourceTitle": "SPD Büdingen: Wahlprogramm 2026",
+    "sourceUrl": "https://www.spd-buedingen.de/wahlprogramm-2026/",
+    "relatedNewsIds": [],
+    "measuresNotice": "Zum Umsetzungsstand liegen hier keine geprüften Beschlüsse oder Nachweise vor."
+  },
+  {
+    "id": "umwelt",
+    "title": "Umwelt",
+    "intro": "Umwelt- und Klimaschutz haben auch eine örtliche Dimension.",
+    "localRelevance": "Kommunale Gebäude, Energieversorgung und Grünflächen sind wichtige Handlungsfelder.",
+    "position": "Erneuerbare Energien und Energieberatung fördern.",
+    "programChapterId": "umwelt",
+    "status": "source-summary",
+    "sourceTitle": "SPD Büdingen: Wahlprogramm 2026",
+    "sourceUrl": "https://www.spd-buedingen.de/wahlprogramm-2026/",
+    "relatedNewsIds": [
+      "gartenschau-oberhessen-2021"
+    ],
+    "measuresNotice": "Zum Umsetzungsstand liegen hier keine geprüften Beschlüsse oder Nachweise vor."
+  },
+  {
+    "id": "wirtschaft",
+    "title": "Wirtschaft",
+    "intro": "Unternehmen, Handwerk und Beschäftigte prägen das örtliche Leben.",
+    "localRelevance": "Gewerbeflächen und örtliche Infrastruktur sind kommunalpolitische Themen.",
+    "position": "Gründungen und Ausbildung unterstützen.",
+    "programChapterId": "entwicklung",
+    "status": "source-summary",
+    "sourceTitle": "SPD Büdingen: Wahlprogramm 2026",
+    "sourceUrl": "https://www.spd-buedingen.de/wahlprogramm-2026/",
+    "relatedNewsIds": [],
+    "measuresNotice": "Zum Umsetzungsstand liegen hier keine geprüften Beschlüsse oder Nachweise vor."
+  },
+  {
+    "id": "ehrenamt",
+    "title": "Ehrenamt",
+    "intro": "Freiwilliges Engagement schafft Begegnung und Zusammenhalt.",
+    "localRelevance": "Vereine und Initiativen machen Angebote in der Kernstadt und den Stadtteilen.",
+    "position": "Vereine und Ehrenamt stärken.",
+    "programChapterId": "zusammenleben",
+    "status": "source-summary",
+    "sourceTitle": "SPD Büdingen: Wahlprogramm 2026",
+    "sourceUrl": "https://www.spd-buedingen.de/wahlprogramm-2026/",
+    "relatedNewsIds": [],
+    "measuresNotice": "Zum Umsetzungsstand liegen hier keine geprüften Beschlüsse oder Nachweise vor."
+  },
+  {
+    "id": "soziales",
+    "title": "Soziales",
+    "intro": "Soziale Teilhabe betrifft Menschen in unterschiedlichen Lebenslagen.",
+    "localRelevance": "Örtliche Angebote können Zugang, Beratung und Begegnung erleichtern.",
+    "position": "Barrierefreiheit und Familienzentrum stärken.",
+    "programChapterId": "familien",
+    "status": "source-summary",
+    "sourceTitle": "SPD Büdingen: Wahlprogramm 2026",
+    "sourceUrl": "https://www.spd-buedingen.de/wahlprogramm-2026/",
+    "relatedNewsIds": [],
+    "measuresNotice": "Zum Umsetzungsstand liegen hier keine geprüften Beschlüsse oder Nachweise vor."
+  }
+]

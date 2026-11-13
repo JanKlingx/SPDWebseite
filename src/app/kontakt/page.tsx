@@ -1,0 +1,4 @@
+import { PageIntro } from '@/components/ui/PageIntro';
+import { ContactDraft } from '@/components/ContactDraft';
+export const metadata={title:'Kontakt'};
+export default function Contact(){return <><PageIntro title="Was bewegt dich?" description="Fragen, Ideen und Hinweise für Büdingen. Bereite hier deine Nachricht vor."/><div className="container page-content split-page"><ContactDraft/><aside><h2>Kontakt aufnehmen</h2><div className="notice"><h3>Nachricht vorbereiten</h3><p>Das Formular erstellt einen persönlichen Entwurf zum Herunterladen. Für die tatsächliche Kontaktaufnahme nutze das Kontaktangebot der bestehenden Website.</p></div><a className="button quiet" href="https://www.spd-buedingen.de/">Aktuelle SPD-Website</a><p className="small muted">Geprüfte lokale E-Mail-Adresse und Postanschrift werden vor der Veröffentlichung ergänzt.</p></aside></div></>}

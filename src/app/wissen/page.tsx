@@ -1,0 +1,11 @@
+import type { Metadata } from 'next';
+import Link from 'next/link';
+import { ArrowUpRight, BookOpen, Route } from 'lucide-react';
+import '@/styles/education.css';
+export const metadata:Metadata={title:'Politik verstehen'};
+export default function KnowledgePage(){return <>
+ <section className="education-hero"><div className="container"><nav className="education-breadcrumb" aria-label="Brotkrumen"><Link href="/">Startseite</Link><span>Politik verstehen</span></nav><div className="education-hero-layout"><div><h1>Politik beginnt<br/>mit Verstehen.</h1><p>Begriffe nachschlagen. Abläufe entdecken. Vor Ort mitreden.</p></div><span className="education-signature" aria-hidden="true">Aa</span></div></div></section>
+ <section className="section container"><div className="education-portals"><Link className="education-portal" href="/wissen/lexikon"><BookOpen size={34} aria-hidden="true"/><h2>Ein Wort.<br/>Mehr Durchblick.</h2><p>Das Politik-Lexikon erklärt Begriffe aus Kommune, Land und Bund.</p><span>Lexikon öffnen<ArrowUpRight size={22} aria-hidden="true"/></span></Link><Link className="education-portal education-portal-red" href="/wissen/ablaeufe"><Route size={34} aria-hidden="true"/><h2>Von der Idee<br/>zur Entscheidung.</h2><p>Erkunde Schritt für Schritt, wie politische Entscheidungen entstehen.</p><span>Abläufe entdecken<ArrowUpRight size={22} aria-hidden="true"/></span></Link></div></section>
+ <section className="section surface"><div className="container education-questions"><h2>Deine Stadt.<br/>Deine Fragen.</h2><div><p>Wer entscheidet in Büdingen? Was macht der Magistrat? Und wie kommt ein Vorschlag zur Abstimmung?</p><Link className="text-link" href="/wissen/ablaeufe?modul=gremien">Gremien kennenlernen<ArrowUpRight size={20} aria-hidden="true"/></Link><Link className="text-link" href="/wissen/ablaeufe?modul=beteiligung">Beteiligung verstehen<ArrowUpRight size={20} aria-hidden="true"/></Link></div></div></section>
+ <div className="container education-note">Diese Wissensangebote erklären allgemeine Grundlagen. Konkrete politische Positionen findest du unter <Link href="/politik">Unsere Politik</Link>. Die abschließende fachliche und rechtliche Prüfung der Entwurfsinhalte steht noch aus.</div>
+ </>}

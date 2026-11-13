@@ -1,0 +1,108 @@
+/* Hallmark · SPD CD (by request) · genre: editorial · shape: civic reference and process workbench · signature: Aa and selectable decision pathways · v2.0.0 */
+/* Hallmark · critique: reading density belongs inside opened entries; controls stay calm and the active process leads */
+/* Hallmark · answered F4 · A–Z and process controls display selection states rather than competing primary actions */
+.education-hero h1,.education-portals h2,.education-guide-panels h2 { text-wrap: balance; }
+.education-workspace { padding-top: var(--space-3xl); }
+.education-explorer button:active,.education-guides button:active { transform: translateY(1px); }
+.education-hero { padding-block: var(--space-xl) var(--space-3xl); background: var(--color-paper-2); }
+.education-breadcrumb { display: flex; flex-wrap: wrap; gap: var(--space-sm) var(--space-lg); font-size: var(--text-sm); color: var(--color-muted); margin-bottom: var(--space-3xl); }
+.education-breadcrumb a { min-height: 44px; display: inline-flex; align-items: center; }
+.education-breadcrumb span { display: inline-flex; align-items: center; }
+.education-hero-layout { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); gap: var(--gap-columns); align-items: center; }
+.education-hero h1 { font-size: clamp(3rem, 7.5vw, 7rem); }
+.education-hero p { font-size: var(--text-lg); margin-top: var(--space-xl); margin-bottom: var(--space-0); }
+.education-signature { color: var(--color-ink); font-size: clamp(8rem, 24vw, 23rem); line-height: .8; font-weight: 800; letter-spacing: -.09em; text-align: right; padding-right: var(--space-lg); }
+.education-hero-compact { padding-bottom: var(--space-2xl); }
+.education-hero-compact h1 { font-size: clamp(3rem, 6.5vw, 6rem); max-width: 16ch; }
+.education-portals { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--gap-columns); }
+.education-portal { padding: var(--space-2xl); background: var(--color-paper-2); text-decoration: none; display: flex; flex-direction: column; align-items: flex-start; gap: var(--space-xl); }
+.education-portal h2 { font-size: clamp(2.2rem, 4vw, 4rem); }
+.education-portal p { margin: var(--space-0); }
+.education-portal>span { display: inline-flex; align-items: center; gap: var(--space-lg); margin-top: auto; text-decoration: underline; text-underline-offset: .25em; font-weight: 700; }
+.education-portal:hover>span { text-decoration-thickness: 2px; }
+.education-portal-red { background: var(--color-accent); color: var(--color-paper); }
+.education-portal-red:focus-visible { outline-color: var(--color-focus); }
+.education-questions { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--gap-columns); }
+.education-questions .text-link { display: flex; margin-top: var(--space-lg); }
+.education-note { font-size: var(--text-sm); color: var(--color-muted); margin-block: var(--space-2xl); max-width: 90ch; }
+.education-filters { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 1fr); gap: var(--gap-columns); }
+.education-filters label { display: block; font-size: var(--text-sm); margin-bottom: var(--space-xs); font-weight: 600; }
+.education-input-wrap { position: relative; }
+.education-input-wrap>svg { position: absolute; top: 50%; left: var(--space-md); transform: translateY(-50%); pointer-events: none; }
+.education-filters input,.education-filters select { width: 100%; min-width: 0; min-height: 54px; background: var(--color-paper); color: var(--color-ink); border: 1px solid var(--color-muted); padding: var(--space-sm) var(--space-md); outline-offset: -4px; }
+.education-filters input { padding-left: var(--space-3xl); }
+.education-filters input:hover,.education-filters select:hover { background: var(--color-paper-2); }
+.education-alphabet { display: flex; flex-wrap: wrap; gap: var(--space-2xs); padding-block: var(--space-xl); border-bottom: 1px solid var(--color-rule); }
+.education-alphabet button { min-width: 44px; min-height: 44px; border: 1px solid var(--color-transparent); background: var(--color-transparent); color: var(--color-ink); padding: var(--space-xs); font-weight: 600; }
+.education-alphabet button:hover:not(:disabled) { background: var(--color-paper-2); }
+.education-alphabet button[aria-pressed='true'] { background: var(--color-accent); color: var(--color-paper); }
+.education-alphabet button:disabled { color: var(--color-muted); text-decoration: line-through; }
+.education-results-heading { display: flex; align-items: center; flex-wrap: wrap; justify-content: space-between; gap: var(--space-md); padding-block: var(--space-lg); font-size: var(--text-sm); }
+.education-results-heading p { margin: var(--space-0); }
+.education-reset { display: inline-flex; align-items: center; gap: var(--space-xs); min-height: 44px; background: var(--color-transparent); border: 0; text-decoration: underline; }
+.glossary-entry { border-top: 1px solid var(--color-rule); scroll-margin-top: var(--space-xl); }
+.glossary-entry:last-child { border-bottom: 1px solid var(--color-rule); }
+.glossary-entry summary { display: grid; grid-template-columns: 2.5rem minmax(0, 1fr) 28px; align-items: start; gap: var(--space-lg); padding-block: var(--space-xl); cursor: pointer; list-style: none; }
+.glossary-entry summary::-webkit-details-marker { display: none; }
+.glossary-entry summary:hover strong { color: var(--color-accent); }
+.glossary-letter { color: var(--color-accent); font-size: var(--text-title); font-weight: 800; line-height: 1.25; }
+.glossary-entry summary strong { display: block; font-size: clamp(1.2rem, 2.3vw, 1.8rem); line-height: 1.3; letter-spacing: -.025em; }
+.glossary-definition { display: block; color: var(--color-muted); font-size: var(--text-md); margin-top: var(--space-xs); }
+.glossary-plus { margin-top: var(--space-2xs); }
+.glossary-entry[open] .glossary-plus { transform: rotate(45deg); }
+.glossary-body { padding: var(--space-0) var(--space-3xl) var(--space-2xl) var(--space-3xl); max-width: 90ch; }
+.glossary-example { background: var(--color-paper-2); padding: var(--space-lg); }
+.glossary-related { display: flex; flex-wrap: wrap; gap: var(--space-xs) var(--space-lg); font-size: var(--text-sm); margin-block: var(--space-xl); }
+.glossary-related>span { width: 100%; font-weight: 700; }
+.glossary-related>a { min-height: 44px; display: inline-flex; align-items: center; }
+.education-sources { font-size: var(--text-sm); margin-top: var(--space-xl); }
+.education-sources ul { margin-top: var(--space-xs); padding-left: var(--space-lg); }
+.education-sources li { margin-block: var(--space-xs); overflow-wrap: anywhere; }
+.education-review { font-size: var(--text-xs); color: var(--color-muted); margin-top: var(--space-lg); }
+.education-permalink { display: inline-flex; align-items: center; min-height: 44px; font-size: var(--text-sm); }
+.education-empty { padding-block: var(--space-3xl); }
+.education-empty h2 { font-size: var(--text-title); margin-bottom: var(--space-lg); }
+.education-guides { display: grid; grid-template-columns: minmax(0, .75fr) minmax(0, 2fr); gap: var(--space-3xl); align-items: start; }
+.education-mobile-controls { display: none; }
+.education-guide-tabs { border-top: 1px solid var(--color-rule); }
+.education-guide-tabs button { width: 100%; min-height: 80px; text-align: left; display: flex; align-items: flex-start; gap: var(--space-md); padding: var(--space-lg) var(--space-sm); border: 0; border-bottom: 1px solid var(--color-rule); background: var(--color-transparent); font-size: var(--text-sm); }
+.education-guide-tabs button>span { color: var(--color-muted); font-variant-numeric: tabular-nums; }
+.education-guide-tabs button:hover { background: var(--color-paper-2); }
+.education-guide-tabs button[aria-selected='true'] { color: var(--color-ink); font-weight: 700; border-bottom-color: var(--color-accent); background: var(--color-paper-2); }
+.education-guide-panels h2 { font-size: clamp(2rem, 3.5vw, 3.5rem); }
+.guide-intro { margin-top: var(--space-lg); color: var(--color-muted); }
+.education-process { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--space-sm); list-style: none; padding: var(--space-0); margin-block: var(--space-2xl); }
+.education-process li { min-width: 0; }
+.education-process button { height: 100%; width: 100%; border: 1px solid var(--color-rule); background: var(--color-paper); padding: var(--space-md); text-align: left; display: flex; flex-direction: column; gap: var(--space-sm); min-height: 100px; }
+.education-process button:hover { background: var(--color-paper-2); }
+.education-process button>span { color: var(--color-muted); font-size: var(--text-sm); font-variant-numeric: tabular-nums; }
+.education-process button>strong { font-weight: 600; font-size: var(--text-sm); }
+.education-process button[aria-current='step'] { border-color: var(--color-accent); background: var(--color-accent); color: var(--color-paper); }
+.education-process button[aria-current='step']>span { color: var(--color-paper); }
+.education-process button[aria-current='step']:focus-visible { outline-color: var(--color-focus); }
+.education-step { display: grid; grid-template-columns: 5rem minmax(0, 1fr); gap: var(--space-xl); padding-block: var(--space-2xl); border-top: 2px solid var(--color-accent); }
+.education-step[hidden] { display: none; }
+.glossary-entry summary>span:nth-child(2) { min-width: 0; overflow-wrap: break-word; }
+.education-step-marker { font-size: 3.5rem; font-weight: 800; line-height: 1; color: var(--color-ink); letter-spacing: -.04em; }
+.education-step-marker>span { display: block; font-size: var(--text-md); font-weight: 400; color: var(--color-muted); margin-top: var(--space-sm); letter-spacing: normal; }
+.education-step h3 { margin-bottom: var(--space-lg); }
+.education-step-summary { font-weight: 600; }
+.education-step-navigation { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: var(--space-md); padding-bottom: var(--space-xl); border-bottom: 1px solid var(--color-rule); }
+.education-step-navigation>p { font-size: var(--text-sm); margin: var(--space-0); }
+.education-branches { margin-block: var(--space-2xl); }
+.education-branches h3 { margin-bottom: var(--space-lg); }
+.education-branches details { border-top: 1px solid var(--color-rule); }
+.education-branches details:last-child { border-bottom: 1px solid var(--color-rule); }
+.education-branches summary { padding-block: var(--space-md); cursor: pointer; font-weight: 600; }
+.education-branches p { padding-top: var(--space-sm); }
+.education-budget { margin: var(--space-2xl) var(--space-0); }
+.education-budget figcaption { font-weight: 700; font-size: var(--text-lg); margin-bottom: var(--space-lg); }
+.education-budget>div { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: center; gap: var(--space-md); margin-block: var(--space-md); padding: var(--space-lg); background: var(--color-paper-2); font-size: var(--text-sm); }
+.education-budget>div>strong { color: var(--color-accent); }
+.education-budget p { font-size: var(--text-xs); color: var(--color-muted); }
+.education-noscript { grid-column: 1 / -1; }
+.education-noscript h2,.education-noscript h3 { margin-block: var(--space-xl); }
+@media(max-width: 1000px) { .education-guides { grid-template-columns: minmax(0, 1fr); gap: var(--space-2xl); } .education-guide-tabs { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--space-0) var(--space-lg); } .education-guide-tabs button { min-height: 72px; } }
+@media(max-width: 650px) { .education-hero { padding-block: var(--space-lg) var(--space-2xl); } .education-breadcrumb { margin-bottom: var(--space-xl); } .education-hero-layout,.education-portals,.education-questions,.education-filters { grid-template-columns: minmax(0, 1fr); } .education-signature { display: none; } .education-hero h1 { font-size: clamp(2.8rem, 12vw, 4.5rem); } .education-portal { padding: var(--space-xl); } .education-guide-tabs { grid-template-columns: minmax(0, 1fr); } .education-guide-tabs button { min-height: 56px; } .education-process { grid-template-columns: repeat(2, minmax(0, 1fr)); } .education-step { grid-template-columns: minmax(0, 1fr); gap: var(--space-lg); } .education-step-marker { display: flex; align-items: baseline; gap: var(--space-sm); font-size: 2.5rem; } .glossary-entry summary { grid-template-columns: 1.5rem minmax(0, 1fr) 24px; gap: var(--space-sm); } .glossary-body { padding-left: var(--space-0); padding-right: var(--space-0); } .education-step-navigation>p { order: 3; width: 100%; text-align: center; } .education-budget>div { grid-template-columns: minmax(0, 1fr); gap: var(--space-sm); } }
+@media(max-width: 700px) { .education-mobile-controls { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--space-lg); } .education-mobile-controls label { display: block; font-size: var(--text-sm); font-weight: 600; margin-bottom: var(--space-xs); } .education-mobile-controls select { width: 100%; min-width: 0; min-height: 52px; border: 1px solid var(--color-muted); background: var(--color-paper); color: var(--color-ink); padding: var(--space-sm) var(--space-md); outline-offset: -4px; } .education-mobile-controls select:hover { background: var(--color-paper-2); } .education-guide-tabs,.education-process { display: none; } .education-guides { gap: var(--space-xl); } }
+@media(prefers-reduced-motion: reduce) { .education-explorer *,.education-guides * { animation: none; transition: none; } }

@@ -1,0 +1,46 @@
+[
+ {
+  "date": "2026-11-13",
+  "mode": "build",
+  "theme": "brand: SPD CD (by request)",
+  "shape": "local political magazine",
+  "axes": "light/grotesk-heavy/warm",
+  "hero": "red typographic poster with Büdingen and documented history since 1893",
+  "nav": "two-level editorial masthead with responsive menu",
+  "footer": "civic directory",
+  "imagery": "explicit replaceable image and logo placeholders requested by user; no invented photographs",
+  "photos": [],
+  "entry": "src/app/page.tsx",
+  "fingerprint": "5930e6c359e5f4af7ac8d06c8239b849d8bac91ffd011a8dc7464efbc8d50f20",
+  "sections": [
+   "Büdingen hero",
+   "sourced news",
+   "local policy topics",
+   "Jusos",
+   "political education",
+   "interactive local chronicle",
+   "people and events directory",
+   "civic footer"
+  ],
+  "signature": "interactive Büdingen chronicle grounded in the supplied source since 1893",
+  "waived": [
+   "7b: official absolute colours",
+   "22: official neutral surfaces",
+   "39b: timeline and process selectors",
+   "49b: complete article titles and official terms"
+  ],
+  "userOverrides": [
+   "1: Open Sans as the sole family explicitly required by supplied SPD manual and master brief"
+  ],
+  "prompt": "Complete functioning SPD Büdingen website, official CD, sources, responsive education and history portals, repository-only delivery without production deployment",
+  "verification": {
+   "floorFailures": 0,
+   "homeReflexFindings": 2,
+   "homeReflexReason": "same mandatory font detected twice",
+   "heroReview": "3 resolved",
+   "finishReview": "5 resolved",
+   "browserCases": 37,
+   "axeViews": 12
+  }
+ }
+]

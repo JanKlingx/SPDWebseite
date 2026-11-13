@@ -1,0 +1,2000 @@
+[
+  {
+    "term": "Abschreibung",
+    "category": "Finanzen",
+    "definition": "Die rechnerische Verteilung eines Werteverzehrs über die Nutzungsdauer.",
+    "explanation": "Kommunales Vermögen wird nicht nur beim Kauf betrachtet: Seine Nutzung kann jährlich Aufwand verursachen. Eine Abschreibung ist deshalb grundsätzlich von einer Auszahlung im selben Jahr zu unterscheiden.",
+    "example": "Beispiel zur Veranschaulichung: Ein kommunales Fahrzeug wird über seine angenommene Nutzungsdauer abgeschrieben.",
+    "sources": [
+      {
+        "title": "Gemeindehaushaltsverordnung Hessen, amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemHVOHE2006rahmen"
+      }
+    ],
+    "id": "abschreibung",
+    "letter": "A",
+    "relatedIds": [
+      "investition",
+      "ergebnishaushalt"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Absolute Mehrheit",
+    "category": "Demokratie",
+    "definition": "Mehr als die Hälfte einer festgelegten Gesamtzahl.",
+    "explanation": "Entscheidend ist, auf welche Grundzahl sich die Vorschrift bezieht, etwa alle gesetzlichen Mitglieder. Die absolute Mehrheit unterscheidet sich damit von der Mehrheit der abgegebenen gültigen Stimmen.",
+    "example": "Beispiel zur Veranschaulichung: Bei einer ausdrücklich angenommenen Grundzahl von 20 sind mindestens 11 Zustimmungen nötig.",
+    "sources": [
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      },
+      {
+        "title": "Deutscher Bundestag: Parlamentsbegriffe A–Z",
+        "url": "https://www.bundestag.de/services/glossar"
+      }
+    ],
+    "id": "absolute-mehrheit",
+    "letter": "A",
+    "relatedIds": [
+      "mehrheit",
+      "abstimmung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Abstimmung",
+    "category": "Demokratie",
+    "definition": "Die förmliche Entscheidung über eine Sachfrage.",
+    "explanation": "Gremien bringen dabei Zustimmung, Ablehnung oder Enthaltung zum Ausdruck. Welche Mehrheit erforderlich ist und wie Enthaltungen wirken, hängt von der jeweiligen Rechtsgrundlage ab. Eine Personenwahl folgt eigenen Regeln.",
+    "example": "Beispiel zur Veranschaulichung: Ein Gremium stimmt nach der Beratung über einen Antrag ab.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Geschäftsordnung der Stadtverordnetenversammlung",
+        "url": "https://www.stadt-buedingen.de/media/custom/3139_1064_1.PDF?1718280934="
+      }
+    ],
+    "id": "abstimmung",
+    "letter": "A",
+    "relatedIds": [
+      "mehrheit",
+      "beschluss"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Anfrage",
+    "category": "Kommune",
+    "definition": "Eine politische Frage, mit der Auskunft verlangt wird.",
+    "explanation": "In der Stadtverordnetenversammlung dienen Anfragen der Information und Kontrolle. Wer sie in welcher Form stellen kann und wann geantwortet wird, regeln HGO und örtliche Geschäftsordnung. Eine Anfrage ist noch kein Auftrag zur Umsetzung.",
+    "example": "Beispiel zur Veranschaulichung: Eine Fraktion fragt nach dem Stand einer geplanten Straßensanierung.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Geschäftsordnung der Stadtverordnetenversammlung",
+        "url": "https://www.stadt-buedingen.de/media/custom/3139_1064_1.PDF?1718280934="
+      }
+    ],
+    "id": "anfrage",
+    "letter": "A",
+    "relatedIds": [
+      "antrag",
+      "magistrat"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Antrag",
+    "category": "Kommune",
+    "definition": "Ein Vorschlag, über den ein zuständiges Gremium entscheiden soll.",
+    "explanation": "Ein Antrag enthält meist einen konkreten Beschlusstext und eine Begründung. Seine Einbringung bedeutet weder Zustimmung noch Finanzierung; zunächst folgen die zuständigen Beratungs- und Entscheidungsverfahren.",
+    "example": "Beispiel zur Veranschaulichung: Eine Fraktion beantragt, einen barrierefreien Zugang zu prüfen.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Geschäftsordnung der Stadtverordnetenversammlung",
+        "url": "https://www.stadt-buedingen.de/media/custom/3139_1064_1.PDF?1718280934="
+      }
+    ],
+    "id": "antrag",
+    "letter": "A",
+    "relatedIds": [
+      "beschluss",
+      "aenderungsantrag"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Aufwandsentschädigung",
+    "category": "Kommune",
+    "definition": "Ein Ausgleich für bestimmte Kosten und Belastungen eines Ehrenamts.",
+    "explanation": "Kommunale Mandate werden grundsätzlich ehrenamtlich ausgeübt. Die Entschädigung richtet sich nach den gesetzlichen Vorgaben und der örtlichen Entschädigungssatzung; konkrete Beträge sind dort nachzulesen.",
+    "example": "Beispiel zur Veranschaulichung: Ein ehrenamtliches Gremienmitglied erhält ein Sitzungsgeld nach der Satzung.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Stadtpolitik",
+        "url": "https://www.stadt-buedingen.de/B%C3%BCrgerservice/Stadtpolitik/"
+      }
+    ],
+    "id": "aufwandsentschaedigung",
+    "letter": "A",
+    "relatedIds": [
+      "ehrenamt",
+      "satzung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Ausschuss",
+    "category": "Kommune",
+    "definition": "Eine kleinere Gruppe eines Parlaments oder einer Vertretung für bestimmte Aufgaben.",
+    "explanation": "Ausschüsse beraten Fachfragen und bereiten häufig Entscheidungen des Plenums vor. Eine eigene abschließende Entscheidung dürfen sie nur treffen, soweit ihnen die Zuständigkeit rechtmäßig übertragen wurde.",
+    "example": "Beispiel zur Veranschaulichung: Ein Fachausschuss berät eine Vorlage zur Verkehrsplanung.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Geschäftsordnung der Stadtverordnetenversammlung",
+        "url": "https://www.stadt-buedingen.de/media/custom/3139_1064_1.PDF?1718280934="
+      }
+    ],
+    "id": "ausschuss",
+    "letter": "A",
+    "relatedIds": [
+      "stadtverordnetenversammlung",
+      "beschlussvorlage"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Änderungsantrag",
+    "category": "Kommune",
+    "definition": "Ein Vorschlag, den Text eines vorliegenden Antrags zu verändern.",
+    "explanation": "Ein Änderungsantrag kann etwas ergänzen, streichen oder neu formulieren. Über ihn wird nach den geltenden Verfahrensregeln entschieden, bevor gegebenenfalls der so geänderte Hauptantrag zur Abstimmung steht.",
+    "example": "Beispiel zur Veranschaulichung: Ein vorgeschlagener Prüfauftrag soll zusätzlich die Kosten benennen.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Geschäftsordnung der Stadtverordnetenversammlung",
+        "url": "https://www.stadt-buedingen.de/media/custom/3139_1064_1.PDF?1718280934="
+      }
+    ],
+    "id": "aenderungsantrag",
+    "letter": "Ä",
+    "relatedIds": [
+      "antrag",
+      "abstimmung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Bauleitplanung",
+    "category": "Planung",
+    "definition": "Die kommunale Planung der Nutzung von Grundstücken.",
+    "explanation": "Sie umfasst den vorbereitenden Flächennutzungsplan und den verbindlichen Bebauungsplan. Öffentliche und private Belange werden nach dem Baugesetzbuch ermittelt, beteiligt und gegeneinander abgewogen.",
+    "example": "Beispiel zur Veranschaulichung: Eine Gemeinde plant, welche Flächen künftig Wohnen oder Grünflächen dienen sollen.",
+    "sources": [
+      {
+        "title": "Baugesetzbuch, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/bbaug/"
+      }
+    ],
+    "id": "bauleitplanung",
+    "letter": "B",
+    "relatedIds": [
+      "bebauungsplan",
+      "flaechennutzungsplan"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Bebauungsplan",
+    "category": "Planung",
+    "definition": "Ein verbindlicher Bauleitplan für einen Teil des Gemeindegebiets.",
+    "explanation": "Er kann unter anderem Art und Maß der baulichen Nutzung festlegen. Die Gemeinde stellt ihn in einem gesetzlich geregelten Verfahren mit Beteiligung auf und beschließt ihn als Satzung.",
+    "example": "Beispiel zur Veranschaulichung: Ein Plan legt fest, wo ein Wohngebiet entstehen darf.",
+    "sources": [
+      {
+        "title": "Baugesetzbuch, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/bbaug/"
+      }
+    ],
+    "id": "bebauungsplan",
+    "letter": "B",
+    "relatedIds": [
+      "bauleitplanung",
+      "flaechennutzungsplan",
+      "satzung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Befangenheit",
+    "category": "Kommune",
+    "definition": "Ein gesetzlicher Grund, an Beratung oder Entscheidung nicht mitzuwirken.",
+    "explanation": "Bei einem möglichen persönlichen Interessenkonflikt können Mitwirkungsverbote greifen. Maßgeblich sind die gesetzlichen Tatbestände und das dafür vorgesehene Verfahren, nicht nur eine politische Meinungsverschiedenheit.",
+    "example": "Beispiel zur Veranschaulichung: Vor einer Beratung wird ein möglicher unmittelbarer persönlicher Vorteil geprüft.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      }
+    ],
+    "id": "befangenheit",
+    "letter": "B",
+    "relatedIds": [
+      "mandat",
+      "abstimmung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Beschluss",
+    "category": "Kommune",
+    "definition": "Das förmliche Ergebnis einer Entscheidung eines zuständigen Gremiums.",
+    "explanation": "Ein Beschluss hält fest, was entschieden wurde. Er ist vom ursprünglichen Antrag, einer Ausschussempfehlung und seiner späteren praktischen Umsetzung zu unterscheiden; diese Schritte können zeitlich auseinanderliegen.",
+    "example": "Beispiel zur Veranschaulichung: Ein Prüfauftrag ist beschlossen, die Prüfung aber noch nicht abgeschlossen.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Geschäftsordnung der Stadtverordnetenversammlung",
+        "url": "https://www.stadt-buedingen.de/media/custom/3139_1064_1.PDF?1718280934="
+      }
+    ],
+    "id": "beschluss",
+    "letter": "B",
+    "relatedIds": [
+      "antrag",
+      "ausschuss",
+      "sitzungsprotokoll"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Beschlussvorlage",
+    "category": "Kommune",
+    "definition": "Eine schriftliche Grundlage für Beratung und Entscheidung.",
+    "explanation": "Sie enthält üblicherweise Sachverhalt, Begründung und einen Beschlussvorschlag, häufig auch finanzielle Auswirkungen. Erst das zuständige Gremium entscheidet über Annahme, Änderung oder Ablehnung.",
+    "example": "Beispiel zur Veranschaulichung: Die Verwaltung legt eine Vorlage zu einer geplanten Baumaßnahme vor.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Geschäftsordnung der Stadtverordnetenversammlung",
+        "url": "https://www.stadt-buedingen.de/media/custom/3139_1064_1.PDF?1718280934="
+      }
+    ],
+    "id": "beschlussvorlage",
+    "letter": "B",
+    "relatedIds": [
+      "beschluss",
+      "verwaltung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Briefwahl",
+    "category": "Wahlen",
+    "definition": "Die Stimmabgabe mit Wahlschein und Briefwahlunterlagen außerhalb des Wahllokals.",
+    "explanation": "Der Antrag und die Rücksendung folgen festen Regeln; der Wahlbrief muss rechtzeitig eingehen. Die persönliche und geheime Wahl ist auch bei der Briefwahl zu gewährleisten.",
+    "example": "Beispiel zur Veranschaulichung: Eine Person gibt ihre ausgefüllten Unterlagen rechtzeitig beim zuständigen Wahlamt ab.",
+    "sources": [
+      {
+        "title": "Land Hessen: Informationen und Rechtsgrundlagen der Kommunalwahlen",
+        "url": "https://wahlen.hessen.de/kommunalwahlen/allgemeine-kommunalwahlen/allgemeine-informationen-und-rechtsgrundlagen"
+      }
+    ],
+    "id": "briefwahl",
+    "letter": "B",
+    "relatedIds": [
+      "waehlerverzeichnis",
+      "wahlrecht"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Bundesrat",
+    "category": "Bund",
+    "definition": "Das Verfassungsorgan, durch das die Länder im Bund mitwirken.",
+    "explanation": "Seine Mitglieder gehören den Landesregierungen an. Der Bundesrat beteiligt sich nach dem Grundgesetz insbesondere an Gesetzgebung und Verwaltung des Bundes sowie an Angelegenheiten der Europäischen Union.",
+    "example": "Beispiel zur Veranschaulichung: Ein Land gibt seine Stimmen im Bundesrat einheitlich ab.",
+    "sources": [
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      }
+    ],
+    "id": "bundesrat",
+    "letter": "B",
+    "relatedIds": [
+      "foederalismus",
+      "landesregierung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Bundestag",
+    "category": "Bund",
+    "definition": "Das vom Volk gewählte Parlament des Bundes.",
+    "explanation": "Er beschließt Bundesgesetze, wählt die Bundeskanzlerin oder den Bundeskanzler und kontrolliert die Bundesregierung. Seine Aufgaben und Grenzen folgen aus dem Grundgesetz.",
+    "example": "Beispiel zur Veranschaulichung: Abgeordnete beraten einen Bundesgesetzentwurf im Plenum.",
+    "sources": [
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      },
+      {
+        "title": "Deutscher Bundestag: Weg der Gesetzgebung",
+        "url": "https://www.bundestag.de/parlament/aufgaben/gesetzgebung_neu/gesetzgebung/weg-255468"
+      }
+    ],
+    "id": "bundestag",
+    "letter": "B",
+    "relatedIds": [
+      "gesetzgebungsverfahren",
+      "mandat"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Bürgerbegehren",
+    "category": "Beteiligung",
+    "definition": "Ein gesetzlich geregelter Antrag der Bürgerschaft auf einen Bürgerentscheid.",
+    "explanation": "Zulässige Gegenstände, Unterschriften, Fristen und weitere Voraussetzungen ergeben sich in Hessen aus § 8b HGO. Nicht jede kommunale Frage kann so entschieden werden; insbesondere bestehen gesetzliche Ausschlüsse.",
+    "example": "Beispiel zur Veranschaulichung: Eine Initiative prüft, ob zu einer kommunalen Sachfrage ein Bürgerbegehren zulässig ist.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      }
+    ],
+    "id": "buergerbegehren",
+    "letter": "B",
+    "relatedIds": [
+      "buergerentscheid",
+      "buergerbeteiligung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Bürgerbeteiligung",
+    "category": "Beteiligung",
+    "definition": "Möglichkeiten für Menschen, öffentliche Entscheidungen mitzugestalten.",
+    "explanation": "Dazu zählen informelle Gespräche und Werkstätten ebenso wie gesetzlich geregelte Beteiligungsverfahren. Die Wirkung reicht von einer beratenden Stellungnahme bis zu einer verbindlichen Abstimmung; das jeweilige Format muss klar benannt sein.",
+    "example": "Beispiel zur Veranschaulichung: Einwohnerinnen und Einwohner geben Hinweise zu einer Planung.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Baugesetzbuch, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/bbaug/"
+      }
+    ],
+    "id": "buergerbeteiligung",
+    "letter": "B",
+    "relatedIds": [
+      "buergerbegehren",
+      "petition",
+      "bauleitplanung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Bürgerentscheid",
+    "category": "Beteiligung",
+    "definition": "Eine verbindliche kommunale Sachabstimmung unter gesetzlichen Voraussetzungen.",
+    "explanation": "Stimmberechtigte entscheiden über eine konkrete Frage. Neben der Mehrheit können gesetzliche Mindestanforderungen an die Zustimmung gelten; die Voraussetzungen sind im jeweiligen Fall anhand der HGO zu prüfen.",
+    "example": "Beispiel zur Veranschaulichung: Die Bürgerschaft stimmt über eine zulässige kommunale Entscheidungsfrage ab.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      }
+    ],
+    "id": "buergerentscheid",
+    "letter": "B",
+    "relatedIds": [
+      "buergerbegehren",
+      "direktwahl"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Bürgermeisterin / Bürgermeister",
+    "category": "Kommune",
+    "definition": "Die direkt gewählte Leitung der Gemeindeverwaltung.",
+    "explanation": "In einer hessischen Stadt führt diese Person den Vorsitz im Magistrat und leitet den Geschäftsgang der Verwaltung. Sie entscheidet nicht allein über alle Angelegenheiten: Zuständigkeiten sind zwischen Organen gesetzlich verteilt.",
+    "example": "Beispiel zur Veranschaulichung: Die Verwaltungsleitung organisiert die Bearbeitung eines rechtmäßigen Beschlusses.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Stadtpolitik",
+        "url": "https://www.stadt-buedingen.de/B%C3%BCrgerservice/Stadtpolitik/"
+      }
+    ],
+    "id": "buergermeisterin-buergermeister",
+    "letter": "B",
+    "relatedIds": [
+      "magistrat",
+      "direktwahl",
+      "verwaltung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Demokratie",
+    "category": "Demokratie",
+    "definition": "Eine Staatsordnung, in der öffentliche Gewalt vom Volk ausgeht.",
+    "explanation": "Wahlen, politische Beteiligung, Grundrechte und die Bindung staatlichen Handelns an Recht gehören zusammen. Demokratische Mehrheiten müssen die Rechte von Minderheiten und die verfassungsmäßigen Regeln respektieren.",
+    "example": "Beispiel zur Veranschaulichung: Eine Regierung kann durch freie Wahlen abgelöst werden.",
+    "sources": [
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      },
+      {
+        "title": "Bundeszentrale für politische Bildung: Politiklexika",
+        "url": "https://www.bpb.de/kurz-knapp/lexika/"
+      }
+    ],
+    "id": "demokratie",
+    "letter": "D",
+    "relatedIds": [
+      "gewaltenteilung",
+      "wahlrecht",
+      "opposition"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Direktwahl",
+    "category": "Wahlen",
+    "definition": "Die unmittelbare Wahl einer Person durch die Wahlberechtigten.",
+    "explanation": "In Hessen werden Bürgermeisterinnen und Bürgermeister grundsätzlich direkt gewählt. Diese Personenwahl ist von der Wahl der kommunalen Vertretung zu unterscheiden; Wahltermine und Mehrheitsregeln richten sich nach dem jeweiligen Wahlrecht.",
+    "example": "Beispiel zur Veranschaulichung: Bürgerinnen und Bürger wählen die Verwaltungsspitze auf einem eigenen Stimmzettel.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Land Hessen: Informationen und Rechtsgrundlagen der Kommunalwahlen",
+        "url": "https://wahlen.hessen.de/kommunalwahlen/allgemeine-kommunalwahlen/allgemeine-informationen-und-rechtsgrundlagen"
+      }
+    ],
+    "id": "direktwahl",
+    "letter": "D",
+    "relatedIds": [
+      "buergermeisterin-buergermeister",
+      "verhaeltniswahl"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Ehrenamt",
+    "category": "Beteiligung",
+    "definition": "Eine Aufgabe, die überwiegend freiwillig und ohne reguläres Arbeitsentgelt übernommen wird.",
+    "explanation": "Auch kommunale Vertretungsmandate sind Ehrenämter mit gesetzlichen Rechten und Pflichten. Ein Auslagenersatz oder eine Aufwandsentschädigung macht daraus kein hauptamtliches Beschäftigungsverhältnis.",
+    "example": "Beispiel zur Veranschaulichung: Ein Mitglied eines Ortsbeirats bereitet sich in seiner Freizeit auf eine Sitzung vor.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Stadtpolitik",
+        "url": "https://www.stadt-buedingen.de/B%C3%BCrgerservice/Stadtpolitik/"
+      }
+    ],
+    "id": "ehrenamt",
+    "letter": "E",
+    "relatedIds": [
+      "aufwandsentschaedigung",
+      "mandat"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Einspruchsgesetz",
+    "category": "Bund",
+    "definition": "Ein Bundesgesetz, das keine ausdrückliche Zustimmung des Bundesrates benötigt.",
+    "explanation": "Der Bundesrat kann nach einem Vermittlungsverfahren Einspruch einlegen. Der Bundestag kann ihn mit den im Grundgesetz vorgesehenen Mehrheiten zurückweisen; deren Höhe richtet sich auch nach der Stärke des Einspruchs.",
+    "example": "Beispiel zur Veranschaulichung: Nach erfolgloser Vermittlung prüft der Bundestag, ob die Mehrheit zur Zurückweisung erreicht wird.",
+    "sources": [
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      },
+      {
+        "title": "Deutscher Bundestag: Weg der Gesetzgebung",
+        "url": "https://www.bundestag.de/parlament/aufgaben/gesetzgebung_neu/gesetzgebung/weg-255468"
+      },
+      {
+        "title": "Deutscher Bundestag: Vermittlungsverfahren",
+        "url": "https://www.bundestag.de/parlament/aufgaben/gesetzgebung_neu/gesetzgebung/verm-255464"
+      }
+    ],
+    "id": "einspruchsgesetz",
+    "letter": "E",
+    "relatedIds": [
+      "zustimmungsgesetz",
+      "vermittlungsausschuss"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Ergebnishaushalt",
+    "category": "Finanzen",
+    "definition": "Der Teil des Haushalts, der geplante Erträge und Aufwendungen zeigt.",
+    "explanation": "Er bildet den Ressourcenverbrauch eines Haushaltsjahres ab, etwa auch Abschreibungen. Deshalb ist er nicht mit dem Finanzhaushalt gleichzusetzen, der Ein- und Auszahlungen betrachtet.",
+    "example": "Beispiel zur Veranschaulichung: Die jährliche Abschreibung eines Gebäudes ist Aufwand, ohne im selben Jahr eine Auszahlung zu sein.",
+    "sources": [
+      {
+        "title": "Gemeindehaushaltsverordnung Hessen, amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemHVOHE2006rahmen"
+      },
+      {
+        "title": "Hessisches Innenministerium: Kommunale Finanzen",
+        "url": "https://innen.hessen.de/Kommunales/Kommunale-Finanzen/Kommunale-Finanzen"
+      }
+    ],
+    "id": "ergebnishaushalt",
+    "letter": "E",
+    "relatedIds": [
+      "finanzhaushalt",
+      "haushaltsplan",
+      "abschreibung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Finanzhaushalt",
+    "category": "Finanzen",
+    "definition": "Der Teil des Haushalts, der geplante Ein- und Auszahlungen zeigt.",
+    "explanation": "Er macht Zahlungsströme aus laufender Verwaltung, Investitionen und Finanzierung sichtbar. Die Aufnahme eines Kredits bringt Geld auf das Konto, ist aber kein Ertrag im Ergebnishaushalt.",
+    "example": "Beispiel zur Veranschaulichung: Die Bezahlung eines neuen Fahrzeugs erscheint als Investitionsauszahlung.",
+    "sources": [
+      {
+        "title": "Gemeindehaushaltsverordnung Hessen, amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemHVOHE2006rahmen"
+      },
+      {
+        "title": "Hessisches Innenministerium: Kommunale Finanzen",
+        "url": "https://innen.hessen.de/Kommunales/Kommunale-Finanzen/Kommunale-Finanzen"
+      }
+    ],
+    "id": "finanzhaushalt",
+    "letter": "F",
+    "relatedIds": [
+      "ergebnishaushalt",
+      "investition",
+      "kredit"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Flächennutzungsplan",
+    "category": "Planung",
+    "definition": "Der vorbereitende Bauleitplan für das gesamte Gemeindegebiet.",
+    "explanation": "Er zeigt die beabsichtigte Bodennutzung in Grundzügen. Anders als ein Bebauungsplan schafft er grundsätzlich kein unmittelbares Baurecht für einzelne Grundstücke; gesetzliche Sonderwirkungen bleiben zu beachten.",
+    "example": "Beispiel zur Veranschaulichung: Eine größere Fläche wird im Plan als künftige Wohnbaufläche dargestellt.",
+    "sources": [
+      {
+        "title": "Baugesetzbuch, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/bbaug/"
+      }
+    ],
+    "id": "flaechennutzungsplan",
+    "letter": "F",
+    "relatedIds": [
+      "bebauungsplan",
+      "bauleitplanung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Föderalismus",
+    "category": "Demokratie",
+    "definition": "Die Aufteilung staatlicher Aufgaben zwischen Bund und Ländern.",
+    "explanation": "Deutschland besteht aus Ländern mit eigenen Parlamenten und Regierungen. Das Grundgesetz verteilt Gesetzgebung und Verwaltung; die Länder wirken außerdem über den Bundesrat an Bundesangelegenheiten mit.",
+    "example": "Beispiel zur Veranschaulichung: Das Schulrecht ist vor allem eine Angelegenheit der Länder.",
+    "sources": [
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      }
+    ],
+    "id": "foederalismus",
+    "letter": "F",
+    "relatedIds": [
+      "landtag",
+      "landesregierung",
+      "bundesrat"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Fraktion",
+    "category": "Kommune",
+    "definition": "Ein Zusammenschluss von Mitgliedern einer parlamentarischen Vertretung.",
+    "explanation": "Fraktionen stimmen politische Arbeit ab und nehmen Verfahrensrechte wahr. Voraussetzungen und Mindesterfordernisse unterscheiden sich zwischen Parlamenten und richten sich kommunal nach HGO und Geschäftsordnung.",
+    "example": "Beispiel zur Veranschaulichung: Stadtverordnete beraten gemeinsam, welche Anträge sie einbringen wollen.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Geschäftsordnung der Stadtverordnetenversammlung",
+        "url": "https://www.stadt-buedingen.de/media/custom/3139_1064_1.PDF?1718280934="
+      }
+    ],
+    "id": "fraktion",
+    "letter": "F",
+    "relatedIds": [
+      "fraktionsvorsitz",
+      "mandat"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Fraktionsvorsitz",
+    "category": "Kommune",
+    "definition": "Die von einer Fraktion bestimmte Leitung ihrer gemeinsamen Arbeit.",
+    "explanation": "Der Vorsitz koordiniert Beratungen und vertritt die Fraktion nach ihren Regeln. Er ist weder die Leitung des gesamten Parlaments noch automatisch Teil der Verwaltungsleitung.",
+    "example": "Beispiel zur Veranschaulichung: Der Vorsitz organisiert die Fraktionssitzung vor einer öffentlichen Beratung.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Geschäftsordnung der Stadtverordnetenversammlung",
+        "url": "https://www.stadt-buedingen.de/media/custom/3139_1064_1.PDF?1718280934="
+      }
+    ],
+    "id": "fraktionsvorsitz",
+    "letter": "F",
+    "relatedIds": [
+      "fraktion",
+      "stadtverordnetenvorsteherin-stadtverordnetenvorsteher"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Freiwillige Aufgabe",
+    "category": "Kommune",
+    "definition": "Eine kommunale Aufgabe, deren Übernahme nicht gesetzlich vorgeschrieben ist.",
+    "explanation": "Ob und wie eine Gemeinde eine solche Leistung anbietet, hängt von politischen Entscheidungen und finanziellen Möglichkeiten ab. Auch freiwillige Leistungen unterliegen Haushaltsrecht und gesetzlichen Grenzen.",
+    "example": "Beispiel zur Veranschaulichung: Eine Kommune prüft, ob sie ein zusätzliches Kulturangebot finanzieren kann.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Hessisches Innenministerium: Kommunale Finanzen",
+        "url": "https://innen.hessen.de/Kommunales/Kommunale-Finanzen/Kommunale-Finanzen"
+      }
+    ],
+    "id": "freiwillige-aufgabe",
+    "letter": "F",
+    "relatedIds": [
+      "pflichtaufgabe",
+      "haushaltsplan"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Gemeindevorstand",
+    "category": "Kommune",
+    "definition": "Das kollegiale Verwaltungsorgan einer hessischen Gemeinde.",
+    "explanation": "In hessischen Städten heißt dieses Organ Magistrat. Ihm gehören die Bürgermeisterin oder der Bürgermeister und Beigeordnete an; seine Aufgaben ergeben sich insbesondere aus der HGO.",
+    "example": "Beispiel zur Veranschaulichung: In einer Stadt wird eine Verwaltungsangelegenheit im Magistrat beraten.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      }
+    ],
+    "id": "gemeindevorstand",
+    "letter": "G",
+    "relatedIds": [
+      "magistrat",
+      "buergermeisterin-buergermeister"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Geschäftsordnung",
+    "category": "Kommune",
+    "definition": "Regeln für die innere Arbeit eines Gremiums.",
+    "explanation": "Sie konkretisiert beispielsweise Einladungen, Anträge, Redezeiten und Abstimmungen im gesetzlich zulässigen Rahmen. Eine Geschäftsordnung kann höherrangiges Recht wie die HGO nicht außer Kraft setzen.",
+    "example": "Beispiel zur Veranschaulichung: Eine Regel legt fest, wie ein Antrag fristgerecht eingereicht wird.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Geschäftsordnung der Stadtverordnetenversammlung",
+        "url": "https://www.stadt-buedingen.de/media/custom/3139_1064_1.PDF?1718280934="
+      }
+    ],
+    "id": "geschaeftsordnung",
+    "letter": "G",
+    "relatedIds": [
+      "antrag",
+      "abstimmung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Gesetzesentwurf",
+    "category": "Bund",
+    "definition": "Ein ausformulierter Vorschlag für ein neues oder geändertes Gesetz.",
+    "explanation": "In amtlichen Texten heißt es meist Gesetzentwurf. Er enthält Regelungstext und Begründung und wird im zuständigen Parlament beraten; erst ein abgeschlossenes Gesetzgebungsverfahren kann verbindliches Recht schaffen.",
+    "example": "Beispiel zur Veranschaulichung: Ein Entwurf schlägt eine Änderung eines bestehenden Gesetzes vor.",
+    "sources": [
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      },
+      {
+        "title": "Deutscher Bundestag: Weg der Gesetzgebung",
+        "url": "https://www.bundestag.de/parlament/aufgaben/gesetzgebung_neu/gesetzgebung/weg-255468"
+      }
+    ],
+    "id": "gesetzesentwurf",
+    "letter": "G",
+    "relatedIds": [
+      "gesetzgebungsverfahren",
+      "antrag"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Gesetzgebungsverfahren",
+    "category": "Bund",
+    "definition": "Die geregelten Schritte vom Gesetzentwurf bis zum geltenden Gesetz.",
+    "explanation": "Für Bundesgesetze wirken unter anderem Bundestag und Bundesrat zusammen. Die Beteiligungsrechte des Bundesrates unterscheiden sich bei Einspruchs- und Zustimmungsgesetzen; Verkündung und Inkrafttreten sind weitere eigene Schritte.",
+    "example": "Beispiel zur Veranschaulichung: Nach Beratungen und Abstimmungen wird ein Gesetz im Bundesgesetzblatt verkündet.",
+    "sources": [
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      },
+      {
+        "title": "Deutscher Bundestag: Weg der Gesetzgebung",
+        "url": "https://www.bundestag.de/parlament/aufgaben/gesetzgebung_neu/gesetzgebung/weg-255468"
+      }
+    ],
+    "id": "gesetzgebungsverfahren",
+    "letter": "G",
+    "relatedIds": [
+      "gesetzesentwurf",
+      "einspruchsgesetz",
+      "zustimmungsgesetz"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Gewaltenteilung",
+    "category": "Demokratie",
+    "definition": "Die Verteilung staatlicher Macht auf Gesetzgebung, Verwaltung und Rechtsprechung.",
+    "explanation": "Die Gewalten haben unterschiedliche Aufgaben und kontrollieren einander. Auf kommunaler Ebene ist die Aufgabenverteilung zwischen Vertretung und Verwaltung nicht einfach eine verkleinerte Kopie des Bundesstaats.",
+    "example": "Beispiel zur Veranschaulichung: Ein Gericht prüft, ob ein Verwaltungsbescheid rechtmäßig ist.",
+    "sources": [
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      }
+    ],
+    "id": "gewaltenteilung",
+    "letter": "G",
+    "relatedIds": [
+      "demokratie",
+      "verwaltung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Gewerbesteuer",
+    "category": "Finanzen",
+    "definition": "Eine kommunale Steuer auf den Gewerbeertrag.",
+    "explanation": "Das Gewerbesteuergesetz legt die Grundlagen fest; die Gemeinde bestimmt ihren Hebesatz. Einnahmen können schwanken und werden nicht vollständig frei von Umlagen vereinnahmt. Konkrete örtliche Sätze müssen gesondert belegt werden.",
+    "example": "Beispiel zur Veranschaulichung: Ein Gewerbebetrieb zahlt nach den gesetzlichen Regeln Gewerbesteuer.",
+    "sources": [
+      {
+        "title": "Gewerbesteuergesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gewstg/"
+      }
+    ],
+    "id": "gewerbesteuer",
+    "letter": "G",
+    "relatedIds": [
+      "hebesatz",
+      "haushaltsplan"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Gremieninformationssystem",
+    "category": "Kommune",
+    "definition": "Ein digitales Informationsangebot zur Arbeit kommunaler Gremien.",
+    "explanation": "Darin lassen sich häufig Sitzungstermine, Tagesordnungen und öffentliche Vorlagen finden. Nichtöffentliche Unterlagen sind geschützt; Umfang und Veröffentlichungsstand des konkreten Systems können variieren.",
+    "example": "Beispiel zur Veranschaulichung: Jemand liest vor einer Sitzung die öffentlich zugängliche Tagesordnung.",
+    "sources": [
+      {
+        "title": "Büdingen: öffentliches Gremieninfosystem",
+        "url": "https://rim.ekom21.de/buedingen/gremien"
+      }
+    ],
+    "id": "gremieninformationssystem",
+    "letter": "G",
+    "relatedIds": [
+      "tagesordnung",
+      "beschlussvorlage",
+      "sitzungsprotokoll"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Grundsteuer",
+    "category": "Finanzen",
+    "definition": "Eine Steuer auf Grundbesitz, deren Aufkommen den Gemeinden zusteht.",
+    "explanation": "Die Höhe ergibt sich aus den gesetzlichen Bewertungs- und Messregeln sowie dem kommunalen Hebesatz. Landesrechtliche Besonderheiten und unterschiedliche Grundstücksarten sind zu beachten; örtliche Beträge werden hier nicht behauptet.",
+    "example": "Beispiel zur Veranschaulichung: Für ein Grundstück wird ein Grundsteuerbescheid erlassen.",
+    "sources": [
+      {
+        "title": "Grundsteuergesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/grstg_1973/"
+      }
+    ],
+    "id": "grundsteuer",
+    "letter": "G",
+    "relatedIds": [
+      "hebesatz",
+      "haushaltssatzung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Hauptsatzung",
+    "category": "Kommune",
+    "definition": "Eine zentrale Satzung zur Organisation einer Gemeinde.",
+    "explanation": "Sie regelt im gesetzlichen Rahmen grundlegende örtliche Fragen, beispielsweise die Ausgestaltung von Organen oder Bekanntmachungen. Ihre aktuelle Fassung ist für örtliche Zuständigkeitsfragen besonders wichtig.",
+    "example": "Beispiel zur Veranschaulichung: Eine Gemeinde legt zulässige organisatorische Einzelheiten in ihrer Hauptsatzung fest.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      }
+    ],
+    "id": "hauptsatzung",
+    "letter": "H",
+    "relatedIds": [
+      "satzung",
+      "hgo"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Haushaltsdefizit",
+    "category": "Finanzen",
+    "definition": "Eine Unterdeckung in einer klar benannten Haushaltsbetrachtung.",
+    "explanation": "Im Ergebnishaushalt können Aufwendungen die Erträge übersteigen; im Zahlungsbereich können Auszahlungen höher als Einzahlungen sein. Beide Aussagen sind zu unterscheiden und sagen für sich noch nichts über vorhandene Rücklagen aus.",
+    "example": "Beispiel zur Veranschaulichung: Eine Rechnung zeigt höhere laufende Aufwendungen als Erträge, ohne konkrete örtliche Zahlen zu behaupten.",
+    "sources": [
+      {
+        "title": "Gemeindehaushaltsverordnung Hessen, amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemHVOHE2006rahmen"
+      },
+      {
+        "title": "Hessisches Innenministerium: Kommunale Finanzen",
+        "url": "https://innen.hessen.de/Kommunales/Kommunale-Finanzen/Kommunale-Finanzen"
+      }
+    ],
+    "id": "haushaltsdefizit",
+    "letter": "H",
+    "relatedIds": [
+      "ergebnishaushalt",
+      "finanzhaushalt"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Haushaltsplan",
+    "category": "Finanzen",
+    "definition": "Die Planung der kommunalen Ressourcen und Zahlungsströme für ein Haushaltsjahr.",
+    "explanation": "Er erläutert Erträge, Aufwendungen, Einzahlungen, Auszahlungen und Aufgabenbereiche. Die Planung ist keine Garantie einer tatsächlichen Ausgabe und wird später durch die Rechnungslegung mit der Wirklichkeit verglichen.",
+    "example": "Beispiel zur Veranschaulichung: Im Plan wird eine vorgesehene Investition samt Finanzierung ausgewiesen.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Gemeindehaushaltsverordnung Hessen, amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemHVOHE2006rahmen"
+      }
+    ],
+    "id": "haushaltsplan",
+    "letter": "H",
+    "relatedIds": [
+      "ergebnishaushalt",
+      "finanzhaushalt",
+      "jahresabschluss"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Haushaltssatzung",
+    "category": "Finanzen",
+    "definition": "Die jährlich beschlossene rechtliche Grundlage des kommunalen Haushalts.",
+    "explanation": "Sie setzt zentrale Haushaltsgrößen und Ermächtigungen fest, beispielsweise für Kredite und gegebenenfalls Steuersätze. Bestimmte Bestandteile benötigen eine aufsichtsrechtliche Genehmigung; Einzelheiten regelt das Haushaltsrecht.",
+    "example": "Beispiel zur Veranschaulichung: Die Vertretung beschließt die Haushaltssatzung für das folgende Jahr.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Gemeindehaushaltsverordnung Hessen, amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemHVOHE2006rahmen"
+      }
+    ],
+    "id": "haushaltssatzung",
+    "letter": "H",
+    "relatedIds": [
+      "haushaltsplan",
+      "kommunalaufsicht"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Haushaltssicherungskonzept",
+    "category": "Finanzen",
+    "definition": "Ein gesetzlich vorgesehenes Konzept zur Stabilisierung des Haushalts.",
+    "explanation": "Es beschreibt Maßnahmen zur Haushaltskonsolidierung, wenn die gesetzlichen Voraussetzungen vorliegen. Das kann Einnahmen, Ausgaben und strukturelle Veränderungen betreffen; eine örtliche Verpflichtung wird hier nicht behauptet.",
+    "example": "Beispiel zur Veranschaulichung: Eine Kommune stellt dar, wie sie ihre finanzielle Lage nachhaltig verbessern will.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Hessisches Innenministerium: Kommunale Finanzen",
+        "url": "https://innen.hessen.de/Kommunales/Kommunale-Finanzen/Kommunale-Finanzen"
+      }
+    ],
+    "id": "haushaltssicherungskonzept",
+    "letter": "H",
+    "relatedIds": [
+      "haushaltsdefizit",
+      "kommunalaufsicht"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Haushaltssperre",
+    "category": "Finanzen",
+    "definition": "Eine Beschränkung bestimmter Haushaltsansätze während des Haushaltsvollzugs.",
+    "explanation": "Sie soll die finanzielle Handlungsfähigkeit schützen, wenn sich die Lage ungünstig entwickelt. Umfang, Zuständigkeit und Ausnahmen ergeben sich aus dem geltenden Haushaltsrecht; sie bedeutet nicht automatisch einen vollständigen Ausgabenstopp.",
+    "example": "Beispiel zur Veranschaulichung: Bestimmte freiwillige Ausgaben werden bis zur Freigabe zurückgestellt.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Gemeindehaushaltsverordnung Hessen, amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemHVOHE2006rahmen"
+      }
+    ],
+    "id": "haushaltssperre",
+    "letter": "H",
+    "relatedIds": [
+      "haushaltsdefizit",
+      "haushaltsplan"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Hebesatz",
+    "category": "Finanzen",
+    "definition": "Ein kommunal festgelegter Multiplikator bei bestimmten Steuern.",
+    "explanation": "Bei Grund- und Gewerbesteuer wird ein Steuermessbetrag mit dem einschlägigen Hebesatz verbunden. Die gesetzlichen Grundlagen bleiben vorgegeben; der Hebesatz ist nicht dasselbe wie der Anteil am gesamten Einkommen.",
+    "example": "Beispiel zur Veranschaulichung: Eine Änderung des Hebesatzes verändert bei gleichem Messbetrag die Steuerhöhe.",
+    "sources": [
+      {
+        "title": "Gewerbesteuergesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gewstg/"
+      },
+      {
+        "title": "Grundsteuergesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/grstg_1973/"
+      }
+    ],
+    "id": "hebesatz",
+    "letter": "H",
+    "relatedIds": [
+      "gewerbesteuer",
+      "grundsteuer"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "HGO",
+    "category": "Kommune",
+    "definition": "Die Abkürzung für Hessische Gemeindeordnung.",
+    "explanation": "Dieses Landesgesetz regelt zentrale Grundlagen der kommunalen Selbstverwaltung in Hessen, etwa Organe, Mandate und Haushaltswirtschaft. Für konkrete Verfahren sind daneben weitere Gesetze und örtliche Satzungen maßgeblich.",
+    "example": "Beispiel zur Veranschaulichung: Eine Zuständigkeitsfrage wird anhand der HGO und der Hauptsatzung geprüft.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      }
+    ],
+    "id": "hgo",
+    "letter": "H",
+    "relatedIds": [
+      "kommunale-selbstverwaltung",
+      "hauptsatzung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Investition",
+    "category": "Finanzen",
+    "definition": "Die Anschaffung oder Herstellung eines längerfristig nutzbaren Vermögenswerts.",
+    "explanation": "Eine Investition unterscheidet sich von laufendem Verbrauch oder Unterhaltung. Ihre Auszahlung belastet den Finanzhaushalt; der Werteverzehr kann in späteren Jahren als Abschreibung im Ergebnishaushalt erscheinen.",
+    "example": "Beispiel zur Veranschaulichung: Der Neubau eines Gebäudes ist eine Investition, seine laufende Reinigung eine andere Kostenart.",
+    "sources": [
+      {
+        "title": "Gemeindehaushaltsverordnung Hessen, amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemHVOHE2006rahmen"
+      }
+    ],
+    "id": "investition",
+    "letter": "I",
+    "relatedIds": [
+      "finanzhaushalt",
+      "abschreibung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Jahresabschluss",
+    "category": "Finanzen",
+    "definition": "Die Rechnungslegung über die tatsächliche Haushaltswirtschaft eines Jahres.",
+    "explanation": "Er zeigt unter anderem Ergebnis, Finanzrechnung und Vermögenslage. So lässt sich die Planung mit dem tatsächlichen Verlauf vergleichen; Aufstellung, Prüfung und Beschluss folgen gesetzlichen Vorgaben.",
+    "example": "Beispiel zur Veranschaulichung: Eine geplante Investition wird im Jahresabschluss mit den tatsächlichen Zahlungen verglichen.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Gemeindehaushaltsverordnung Hessen, amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemHVOHE2006rahmen"
+      }
+    ],
+    "id": "jahresabschluss",
+    "letter": "J",
+    "relatedIds": [
+      "haushaltsplan",
+      "ergebnishaushalt"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Koalition",
+    "category": "Demokratie",
+    "definition": "Eine vereinbarte Zusammenarbeit politischer Kräfte.",
+    "explanation": "Auf Bundes- und Landesebene trägt eine Koalition häufig eine Regierung. Kommunale Vereinbarungen können gemeinsame Mehrheiten organisieren; sie ändern nicht die gesetzlichen Zuständigkeiten und die freie Mandatsausübung.",
+    "example": "Beispiel zur Veranschaulichung: Zwei Fraktionen vereinbaren gemeinsame politische Vorhaben.",
+    "sources": [
+      {
+        "title": "Bundeszentrale für politische Bildung: Politiklexika",
+        "url": "https://www.bpb.de/kurz-knapp/lexika/"
+      },
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      }
+    ],
+    "id": "koalition",
+    "letter": "K",
+    "relatedIds": [
+      "fraktion",
+      "opposition",
+      "mandat"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Kommunalaufsicht",
+    "category": "Kommune",
+    "definition": "Die staatliche Aufsicht über kommunales Handeln nach den gesetzlichen Regeln.",
+    "explanation": "Bei Selbstverwaltungsaufgaben geht es grundsätzlich um die Einhaltung des Rechts. Sie ersetzt nicht die politische Entscheidung der gewählten Vertretung; besondere Genehmigungspflichten können etwa im Haushaltsrecht bestehen.",
+    "example": "Beispiel zur Veranschaulichung: Die zuständige Aufsichtsbehörde prüft einen genehmigungspflichtigen Haushaltsteil.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      }
+    ],
+    "id": "kommunalaufsicht",
+    "letter": "K",
+    "relatedIds": [
+      "kommunale-selbstverwaltung",
+      "haushaltssatzung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Kommunale Selbstverwaltung",
+    "category": "Kommune",
+    "definition": "Das Recht der Gemeinden, örtliche Angelegenheiten im gesetzlichen Rahmen selbst zu regeln.",
+    "explanation": "Das Grundgesetz schützt diese Eigenverantwortung. Sie umfasst demokratische Entscheidungen und finanzielle Grundlagen, bedeutet aber keine Unabhängigkeit von Bundes- und Landesrecht.",
+    "example": "Beispiel zur Veranschaulichung: Eine Gemeinde setzt innerhalb ihrer Zuständigkeit eigene Prioritäten für örtliche Einrichtungen.",
+    "sources": [
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      },
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      }
+    ],
+    "id": "kommunale-selbstverwaltung",
+    "letter": "K",
+    "relatedIds": [
+      "hgo",
+      "foederalismus",
+      "kommunalaufsicht"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Kommunaler Finanzausgleich",
+    "category": "Finanzen",
+    "definition": "Ein landesrechtliches System zur Finanzierung kommunaler Aufgaben und zum Ausgleich von Finanzkraftunterschieden.",
+    "explanation": "In Hessen regelt insbesondere das Finanzausgleichsgesetz die Mittelverteilung. Dazu gehören allgemeine und zweckgebundene Zuweisungen; nicht jede Förderung ist eine frei verfügbare Schlüsselzuweisung.",
+    "example": "Beispiel zur Veranschaulichung: Kommunen mit unterschiedlicher Steuerkraft erhalten nach gesetzlichen Regeln Zuweisungen.",
+    "sources": [
+      {
+        "title": "Regierungspräsidium Darmstadt: Kommunaler Finanzausgleich",
+        "url": "https://rp-darmstadt.hessen.de/sicherheit-und-kommunales/kommunalaufsicht/finanzausgleich"
+      }
+    ],
+    "id": "kommunaler-finanzausgleich",
+    "letter": "K",
+    "relatedIds": [
+      "schluesselzuweisungen",
+      "kreisumlage"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Kredit",
+    "category": "Finanzen",
+    "definition": "Geliehenes Geld, das nach vereinbarten Regeln zurückzuzahlen ist.",
+    "explanation": "Kommunale Kredite unterliegen gesetzlichen Voraussetzungen und gegebenenfalls einer Genehmigung. Kreditaufnahme schafft Liquidität, ist aber kein laufender Ertrag; Zinsen und Tilgung haben unterschiedliche Haushaltswirkungen.",
+    "example": "Beispiel zur Veranschaulichung: Eine zulässige Investition wird teilweise über einen genehmigten Kredit finanziert.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Hessisches Innenministerium: Kommunale Finanzen",
+        "url": "https://innen.hessen.de/Kommunales/Kommunale-Finanzen/Kommunale-Finanzen"
+      }
+    ],
+    "id": "kredit",
+    "letter": "K",
+    "relatedIds": [
+      "finanzhaushalt",
+      "haushaltssatzung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Kreistag",
+    "category": "Kommune",
+    "definition": "Die gewählte Vertretung eines Landkreises.",
+    "explanation": "Er entscheidet über Kreisangelegenheiten nach der Hessischen Landkreisordnung und kontrolliert die Kreisverwaltung. Er ist von Stadtverordnetenversammlung und Landtag zu unterscheiden.",
+    "example": "Beispiel zur Veranschaulichung: Der Kreistag berät den Haushalt des Landkreises.",
+    "sources": [
+      {
+        "title": "Hessische Landkreisordnung, amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-LKrOHE2005rahmen"
+      }
+    ],
+    "id": "kreistag",
+    "letter": "K",
+    "relatedIds": [
+      "landkreis",
+      "landtag",
+      "kreisumlage"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Kreisumlage",
+    "category": "Finanzen",
+    "definition": "Ein Finanzierungsbeitrag kreisangehöriger Gemeinden an ihren Landkreis.",
+    "explanation": "Die Umlage wird nach landesrechtlichen Regeln auf einer gesetzlichen Grundlage erhoben. Sie finanziert Aufgaben des Kreises und ist von einer gesonderten Schulumlage zu unterscheiden.",
+    "example": "Beispiel zur Veranschaulichung: Eine Gemeinde plant ihre Kreisumlage im Haushalt ein.",
+    "sources": [
+      {
+        "title": "Hessische Landkreisordnung, amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-LKrOHE2005rahmen"
+      },
+      {
+        "title": "Regierungspräsidium Darmstadt: Kommunaler Finanzausgleich",
+        "url": "https://rp-darmstadt.hessen.de/sicherheit-und-kommunales/kommunalaufsicht/finanzausgleich"
+      }
+    ],
+    "id": "kreisumlage",
+    "letter": "K",
+    "relatedIds": [
+      "landkreis",
+      "kreistag",
+      "kommunaler-finanzausgleich"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Kumulieren",
+    "category": "Wahlen",
+    "definition": "Mehrere Stimmen auf eine kandidierende Person häufen.",
+    "explanation": "Bei hessischen allgemeinen Kommunalwahlen sind pro Person bis zu drei Stimmen möglich. Die insgesamt verfügbare Stimmenzahl darf nicht überschritten werden; Kumulieren kann mit Panaschieren verbunden werden.",
+    "example": "Beispiel zur Veranschaulichung: Eine wahlberechtigte Person vergibt drei ihrer verfügbaren Stimmen an dieselbe Kandidatin.",
+    "sources": [
+      {
+        "title": "Land Hessen: Wahlsystem der Kommunalwahlen",
+        "url": "https://wahlen.hessen.de/kommunalwahlen/allgemeine-kommunalwahlen/wahlsystem"
+      }
+    ],
+    "id": "kumulieren",
+    "letter": "K",
+    "relatedIds": [
+      "panaschieren",
+      "verhaeltniswahl"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Landesregierung",
+    "category": "Land",
+    "definition": "Die Exekutive eines Bundeslandes.",
+    "explanation": "In Hessen besteht sie aus der Ministerpräsidentin oder dem Ministerpräsidenten sowie den Ministerinnen und Ministern. Sie leitet die Landesverwaltung und bringt politische Vorhaben in den Landtag ein.",
+    "example": "Beispiel zur Veranschaulichung: Ein Landesministerium erarbeitet einen Gesetzentwurf.",
+    "sources": [
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      },
+      {
+        "title": "Hessischer Landtag: Aufgaben des Landtags",
+        "url": "https://hessischer-landtag.de/"
+      }
+    ],
+    "id": "landesregierung",
+    "letter": "L",
+    "relatedIds": [
+      "landtag",
+      "foederalismus"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Landkreis",
+    "category": "Kommune",
+    "definition": "Ein kommunaler Verband aus kreisangehörigen Städten und Gemeinden.",
+    "explanation": "Er übernimmt überörtliche und gesetzlich zugewiesene Aufgaben. Welche Stelle konkret zuständig ist, hängt vom Fachrecht ab; Kreisaufgaben sind nicht automatisch Aufgaben jeder einzelnen Gemeinde.",
+    "example": "Beispiel zur Veranschaulichung: Eine überörtliche Aufgabe wird durch die Kreisverwaltung bearbeitet.",
+    "sources": [
+      {
+        "title": "Hessische Landkreisordnung, amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-LKrOHE2005rahmen"
+      }
+    ],
+    "id": "landkreis",
+    "letter": "L",
+    "relatedIds": [
+      "kreistag",
+      "kreisumlage"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Landtag",
+    "category": "Land",
+    "definition": "Das Parlament eines Bundeslandes.",
+    "explanation": "Der Hessische Landtag beschließt Landesgesetze und den Landeshaushalt, wählt die Ministerpräsidentin oder den Ministerpräsidenten und kontrolliert die Landesregierung. Er entscheidet nicht anstelle einer Gemeinde über jede örtliche Angelegenheit.",
+    "example": "Beispiel zur Veranschaulichung: Der Landtag berät eine Änderung des hessischen Schulrechts.",
+    "sources": [
+      {
+        "title": "Hessischer Landtag: Aufgaben des Landtags",
+        "url": "https://hessischer-landtag.de/"
+      },
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      }
+    ],
+    "id": "landtag",
+    "letter": "L",
+    "relatedIds": [
+      "landesregierung",
+      "foederalismus"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Magistrat",
+    "category": "Kommune",
+    "definition": "Das kollegiale Verwaltungsorgan einer hessischen Stadt.",
+    "explanation": "Der Magistrat bereitet unter anderem Beschlüsse vor und führt rechtmäßige Entscheidungen im Rahmen seiner Zuständigkeiten aus. Ihm gehören die Bürgermeisterin oder der Bürgermeister und Stadträtinnen beziehungsweise Stadträte an.",
+    "example": "Beispiel zur Veranschaulichung: Der Magistrat legt einer Vertretung eine Verwaltungsplanung zur Entscheidung vor.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Stadtpolitik",
+        "url": "https://www.stadt-buedingen.de/B%C3%BCrgerservice/Stadtpolitik/"
+      }
+    ],
+    "id": "magistrat",
+    "letter": "M",
+    "relatedIds": [
+      "gemeindevorstand",
+      "stadtverordnetenversammlung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Mandat",
+    "category": "Demokratie",
+    "definition": "Der durch eine Wahl erworbene Auftrag zur Vertretung.",
+    "explanation": "Mandatsträgerinnen und Mandatsträger handeln nach den gesetzlichen Regeln in eigener Verantwortung. Ein Fraktionsbeschluss ist politisch bedeutsam, ersetzt aber nicht die persönliche Entscheidung und gesetzliche Bindung des Mandats.",
+    "example": "Beispiel zur Veranschaulichung: Ein gewähltes Mitglied nimmt an Beratungen und Abstimmungen teil.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      }
+    ],
+    "id": "mandat",
+    "letter": "M",
+    "relatedIds": [
+      "fraktion",
+      "ehrenamt"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Mehrheit",
+    "category": "Demokratie",
+    "definition": "Die für eine Entscheidung erforderliche größere Zahl an Stimmen.",
+    "explanation": "Die Bezugsgröße ist entscheidend: abgegebene gültige Stimmen, anwesende Mitglieder oder die gesetzliche Mitgliederzahl. Besondere Fragen können qualifizierte Mehrheiten erfordern; eine pauschale Regel genügt daher nicht.",
+    "example": "Beispiel zur Veranschaulichung: Vor einer Abstimmung wird geklärt, welche Mehrheit das Gesetz verlangt.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      }
+    ],
+    "id": "mehrheit",
+    "letter": "M",
+    "relatedIds": [
+      "absolute-mehrheit",
+      "abstimmung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Opposition",
+    "category": "Demokratie",
+    "definition": "Politische Kräfte, die eine Regierung oder tragende Mehrheit nicht unterstützen.",
+    "explanation": "Sie kontrollieren, kritisieren und bieten Alternativen an. Kommunal können Mehrheiten je nach Sachfrage wechseln; die Bezeichnung sagt allein nichts über die formale Zugehörigkeit zu einem Verwaltungsorgan aus.",
+    "example": "Beispiel zur Veranschaulichung: Eine Fraktion legt einen Alternativantrag zu einem Mehrheitsvorschlag vor.",
+    "sources": [
+      {
+        "title": "Bundeszentrale für politische Bildung: Politiklexika",
+        "url": "https://www.bpb.de/kurz-knapp/lexika/"
+      }
+    ],
+    "id": "opposition",
+    "letter": "O",
+    "relatedIds": [
+      "koalition",
+      "fraktion",
+      "demokratie"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Ortsbeirat",
+    "category": "Kommune",
+    "definition": "Die gewählte Vertretung eines eingerichteten Ortsbezirks.",
+    "explanation": "Er wird zu wichtigen Angelegenheiten des Ortsbezirks angehört und hat Vorschlagsrechte. Weitere Zuständigkeiten können rechtmäßig übertragen werden; er ist keine eigenständige Gemeindevertretung.",
+    "example": "Beispiel zur Veranschaulichung: Ein Ortsbeirat nimmt zu einer Planung in seinem Stadtteil Stellung.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Stadtpolitik",
+        "url": "https://www.stadt-buedingen.de/B%C3%BCrgerservice/Stadtpolitik/"
+      }
+    ],
+    "id": "ortsbeirat",
+    "letter": "O",
+    "relatedIds": [
+      "ortsvorsteherin-ortsvorsteher",
+      "stadtverordnetenversammlung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Ortsvorsteherin / Ortsvorsteher",
+    "category": "Kommune",
+    "definition": "Die vom Ortsbeirat gewählte Person, die dessen Vorsitz führt.",
+    "explanation": "Sie leitet die Arbeit des Ortsbeirats und vertritt dessen Anliegen im gesetzlichen Rahmen. Das Amt ist von der hauptamtlichen Verwaltungsleitung einer Stadt zu unterscheiden.",
+    "example": "Beispiel zur Veranschaulichung: Der Vorsitz führt durch eine Sitzung des Ortsbeirats.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      }
+    ],
+    "id": "ortsvorsteherin-ortsvorsteher",
+    "letter": "O",
+    "relatedIds": [
+      "ortsbeirat",
+      "buergermeisterin-buergermeister"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Öffentlichkeit",
+    "category": "Demokratie",
+    "definition": "Die grundsätzliche Zugänglichkeit politischer Beratungen für die Allgemeinheit.",
+    "explanation": "Kommunale Vertretungssitzungen sind nach den gesetzlichen Regeln grundsätzlich öffentlich. Zum Schutz überwiegender öffentlicher oder privater Interessen können Gegenstände nichtöffentlich beraten werden; das ist zu begründen.",
+    "example": "Beispiel zur Veranschaulichung: Zuhörende besuchen eine öffentliche Sitzung, haben aber nicht automatisch ein Rederecht.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Geschäftsordnung der Stadtverordnetenversammlung",
+        "url": "https://www.stadt-buedingen.de/media/custom/3139_1064_1.PDF?1718280934="
+      }
+    ],
+    "id": "oeffentlichkeit",
+    "letter": "Ö",
+    "relatedIds": [
+      "stadtverordnetenversammlung",
+      "geschaeftsordnung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Panaschieren",
+    "category": "Wahlen",
+    "definition": "Personenstimmen auf verschiedene Wahlvorschläge verteilen.",
+    "explanation": "Bei hessischen allgemeinen Kommunalwahlen können Stimmen an Personen unterschiedlicher Listen gehen. Die Gesamtstimmenzahl und die Höchstzahl je Person bleiben begrenzt.",
+    "example": "Beispiel zur Veranschaulichung: Eine wahlberechtigte Person verteilt ihre Stimmen auf Kandidierende aus mehreren Listen.",
+    "sources": [
+      {
+        "title": "Land Hessen: Wahlsystem der Kommunalwahlen",
+        "url": "https://wahlen.hessen.de/kommunalwahlen/allgemeine-kommunalwahlen/wahlsystem"
+      }
+    ],
+    "id": "panaschieren",
+    "letter": "P",
+    "relatedIds": [
+      "kumulieren",
+      "verhaeltniswahl"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Petition",
+    "category": "Beteiligung",
+    "definition": "Eine Bitte oder Beschwerde an eine zuständige öffentliche Stelle oder Volksvertretung.",
+    "explanation": "Das Petitionsrecht ist im Grundgesetz verankert. Eine Petition löst keine automatische Zustimmung oder Volksabstimmung aus; Zuständigkeit und Behandlung hängen vom angerufenen Organ ab.",
+    "example": "Beispiel zur Veranschaulichung: Eine Person bittet die zuständige Stelle schriftlich um Überprüfung eines Anliegens.",
+    "sources": [
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      }
+    ],
+    "id": "petition",
+    "letter": "P",
+    "relatedIds": [
+      "buergerbeteiligung",
+      "buergerbegehren"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Pflichtaufgabe",
+    "category": "Kommune",
+    "definition": "Eine Aufgabe, deren Erfüllung gesetzlich vorgeschrieben ist.",
+    "explanation": "Das Gesetz kann der Kommune Entscheidungsspielräume lassen oder genauere Vorgaben machen. Ob eine konkrete Aufgabe Gemeinde, Kreis oder einer anderen Stelle zugewiesen ist, muss anhand des Fachrechts geprüft werden.",
+    "example": "Beispiel zur Veranschaulichung: Eine Kommune muss eine ihr gesetzlich zugewiesene Aufgabe organisieren.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Hessisches Innenministerium: Kommunale Finanzen",
+        "url": "https://innen.hessen.de/Kommunales/Kommunale-Finanzen/Kommunale-Finanzen"
+      }
+    ],
+    "id": "pflichtaufgabe",
+    "letter": "P",
+    "relatedIds": [
+      "freiwillige-aufgabe",
+      "landkreis"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Satzung",
+    "category": "Kommune",
+    "definition": "Eine örtliche Rechtsnorm einer dazu ermächtigten Körperschaft.",
+    "explanation": "Gemeinden können im gesetzlichen Rahmen Satzungen erlassen, etwa zur Organisation oder zu Gebühren. Dafür sind ein ordnungsgemäßer Beschluss und die vorgeschriebene öffentliche Bekanntmachung erforderlich.",
+    "example": "Beispiel zur Veranschaulichung: Eine Gebührensatzung regelt die zulässige Erhebung einer Benutzungsgebühr.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      }
+    ],
+    "id": "satzung",
+    "letter": "S",
+    "relatedIds": [
+      "hauptsatzung",
+      "haushaltssatzung",
+      "beschluss"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Schlüsselzuweisungen",
+    "category": "Finanzen",
+    "definition": "Allgemeine Finanzzuweisungen nach gesetzlichen Berechnungsschlüsseln.",
+    "explanation": "Sie sollen kommunale Aufgaben finanzieren und Unterschiede der Finanzkraft verringern. Anders als zweckgebundene Zuschüsse sind sie grundsätzlich nicht einem einzelnen Projekt zugeordnet.",
+    "example": "Beispiel zur Veranschaulichung: Eine Gemeinde berücksichtigt ihre erwartete Schlüsselzuweisung in der Haushaltsplanung.",
+    "sources": [
+      {
+        "title": "Regierungspräsidium Darmstadt: Kommunaler Finanzausgleich",
+        "url": "https://rp-darmstadt.hessen.de/sicherheit-und-kommunales/kommunalaufsicht/finanzausgleich"
+      }
+    ],
+    "id": "schluesselzuweisungen",
+    "letter": "S",
+    "relatedIds": [
+      "kommunaler-finanzausgleich",
+      "haushaltsplan"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Sitzungsprotokoll",
+    "category": "Kommune",
+    "definition": "Die förmliche Niederschrift über eine Gremiensitzung.",
+    "explanation": "Sie dokumentiert insbesondere behandelte Gegenstände und Entscheidungen nach den geltenden Vorgaben. Eine Niederschrift ist nicht notwendigerweise ein Wortprotokoll; nichtöffentliche Inhalte bleiben geschützt.",
+    "example": "Beispiel zur Veranschaulichung: In der Niederschrift lässt sich der Wortlaut eines Beschlusses nachlesen.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Geschäftsordnung der Stadtverordnetenversammlung",
+        "url": "https://www.stadt-buedingen.de/media/custom/3139_1064_1.PDF?1718280934="
+      }
+    ],
+    "id": "sitzungsprotokoll",
+    "letter": "S",
+    "relatedIds": [
+      "beschluss",
+      "gremieninformationssystem"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Stadtverordnetenversammlung",
+    "category": "Kommune",
+    "definition": "Die gewählte Vertretung der Bürgerinnen und Bürger einer hessischen Stadt.",
+    "explanation": "Sie entscheidet über Stadtangelegenheiten, soweit das Gesetz die Zuständigkeit nicht anders zuweist, und kontrolliert die Verwaltung. Der Magistrat ist ein anderes Organ mit eigenen Aufgaben.",
+    "example": "Beispiel zur Veranschaulichung: Die Stadtverordnetenversammlung beschließt eine Satzung.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Stadtpolitik",
+        "url": "https://www.stadt-buedingen.de/B%C3%BCrgerservice/Stadtpolitik/"
+      }
+    ],
+    "id": "stadtverordnetenversammlung",
+    "letter": "S",
+    "relatedIds": [
+      "magistrat",
+      "ausschuss",
+      "satzung"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Stadtverordnetenvorsteherin / Stadtverordnetenvorsteher",
+    "category": "Kommune",
+    "definition": "Die gewählte Leitung der Stadtverordnetenversammlung.",
+    "explanation": "Sie lädt im gesetzlichen Rahmen zu Sitzungen ein, leitet die Beratungen und sorgt für die Einhaltung der Ordnung. Das Amt ist vom Bürgermeisteramt und von einem Fraktionsvorsitz zu unterscheiden.",
+    "example": "Beispiel zur Veranschaulichung: Die Sitzungsleitung erteilt das Wort und stellt das Abstimmungsergebnis fest.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Geschäftsordnung der Stadtverordnetenversammlung",
+        "url": "https://www.stadt-buedingen.de/media/custom/3139_1064_1.PDF?1718280934="
+      }
+    ],
+    "id": "stadtverordnetenvorsteherin-stadtverordnetenvorsteher",
+    "letter": "S",
+    "relatedIds": [
+      "stadtverordnetenversammlung",
+      "fraktionsvorsitz"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Tagesordnung",
+    "category": "Kommune",
+    "definition": "Die angekündigte Liste der Gegenstände einer Sitzung.",
+    "explanation": "Sie ermöglicht Mitgliedern und Öffentlichkeit die Vorbereitung. Öffentlichkeit, Fristen, Ergänzungen und Dringlichkeit richten sich nach den geltenden gesetzlichen und örtlichen Regeln.",
+    "example": "Beispiel zur Veranschaulichung: Eine Tagesordnung kündigt die Beratung einer Haushaltssatzung an.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Geschäftsordnung der Stadtverordnetenversammlung",
+        "url": "https://www.stadt-buedingen.de/media/custom/3139_1064_1.PDF?1718280934="
+      }
+    ],
+    "id": "tagesordnung",
+    "letter": "T",
+    "relatedIds": [
+      "geschaeftsordnung",
+      "gremieninformationssystem"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Verhältniswahl",
+    "category": "Wahlen",
+    "definition": "Ein Wahlsystem, das Sitze grundsätzlich im Verhältnis der Stimmen verteilt.",
+    "explanation": "Die konkrete Berechnung hängt vom jeweiligen Wahlgesetz ab. In Hessen verbinden allgemeine Kommunalwahlen bei mehreren zugelassenen Listen die Verhältniswahl mit Personenstimmen; bei nur einem Wahlvorschlag gelten besondere Regeln.",
+    "example": "Beispiel zur Veranschaulichung: Die Stimmenanteile bestimmen zunächst, wie viele Sitze auf einen Wahlvorschlag entfallen.",
+    "sources": [
+      {
+        "title": "Land Hessen: Wahlsystem der Kommunalwahlen",
+        "url": "https://wahlen.hessen.de/kommunalwahlen/allgemeine-kommunalwahlen/wahlsystem"
+      },
+      {
+        "title": "Land Hessen: Informationen und Rechtsgrundlagen der Kommunalwahlen",
+        "url": "https://wahlen.hessen.de/kommunalwahlen/allgemeine-kommunalwahlen/allgemeine-informationen-und-rechtsgrundlagen"
+      }
+    ],
+    "id": "verhaeltniswahl",
+    "letter": "V",
+    "relatedIds": [
+      "kumulieren",
+      "panaschieren"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Vermittlungsausschuss",
+    "category": "Bund",
+    "definition": "Ein gemeinsames Gremium von Bundestag und Bundesrat zur Suche nach Kompromissen.",
+    "explanation": "Er kann bei Meinungsverschiedenheiten im Gesetzgebungsverfahren angerufen werden. Er beschließt kein Gesetz anstelle der Verfassungsorgane; Änderungen müssen anschließend die erforderlichen weiteren Entscheidungen durchlaufen.",
+    "example": "Beispiel zur Veranschaulichung: Ein Vermittlungsvorschlag wird dem Bundestag erneut zur Entscheidung vorgelegt.",
+    "sources": [
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      },
+      {
+        "title": "Deutscher Bundestag: Vermittlungsverfahren",
+        "url": "https://www.bundestag.de/parlament/aufgaben/gesetzgebung_neu/gesetzgebung/verm-255464"
+      }
+    ],
+    "id": "vermittlungsausschuss",
+    "letter": "V",
+    "relatedIds": [
+      "einspruchsgesetz",
+      "zustimmungsgesetz"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Verwaltung",
+    "category": "Kommune",
+    "definition": "Die Organisation, die öffentliche Aufgaben nach Recht und Gesetz bearbeitet.",
+    "explanation": "Kommunale Beschäftigte bereiten Entscheidungen fachlich vor, vollziehen rechtmäßige Beschlüsse und erbringen Dienstleistungen. Gesetzliche Zuständigkeiten begrenzen, welche politischen Weisungen und Entscheidungen möglich sind.",
+    "example": "Beispiel zur Veranschaulichung: Ein Fachamt prüft die rechtlichen und technischen Voraussetzungen einer Planung.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Stadt Büdingen: Stadtpolitik",
+        "url": "https://www.stadt-buedingen.de/B%C3%BCrgerservice/Stadtpolitik/"
+      }
+    ],
+    "id": "verwaltung",
+    "letter": "V",
+    "relatedIds": [
+      "magistrat",
+      "beschlussvorlage"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Wahlkreis",
+    "category": "Wahlen",
+    "definition": "Ein gesetzlich bestimmtes Gebiet, in dem eine Wahl durchgeführt wird.",
+    "explanation": "Die Bedeutung unterscheidet sich je nach Wahl: Bei einer hessischen Gemeindewahl ist das Wahlgebiet die Gemeinde, bei anderen Wahlen kann es anders zugeschnitten sein. Ein Wahlbezirk für ein Wahllokal ist davon zu unterscheiden.",
+    "example": "Beispiel zur Veranschaulichung: Die Kreiswahl und die Gemeindewahl haben unterschiedliche Wahlgebiete.",
+    "sources": [
+      {
+        "title": "Land Hessen: Informationen und Rechtsgrundlagen der Kommunalwahlen",
+        "url": "https://wahlen.hessen.de/kommunalwahlen/allgemeine-kommunalwahlen/allgemeine-informationen-und-rechtsgrundlagen"
+      }
+    ],
+    "id": "wahlkreis",
+    "letter": "W",
+    "relatedIds": [
+      "wahlrecht",
+      "landkreis"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Wahlperiode",
+    "category": "Wahlen",
+    "definition": "Der gesetzlich bestimmte Zeitraum, für den eine Vertretung gewählt wird.",
+    "explanation": "Ihre Länge richtet sich nach der jeweiligen Ebene und dem geltenden Recht. Die regelmäßige Wahlzeit kommunaler Vertretungen in Hessen beträgt fünf Jahre; eine Bürgermeisteramtszeit folgt eigenen Regeln.",
+    "example": "Beispiel zur Veranschaulichung: Eine neue Wahlperiode beginnt nach der gesetzlich geregelten Kommunalwahl.",
+    "sources": [
+      {
+        "title": "Hessische Gemeindeordnung (HGO), amtliche Fassung",
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-GemOHE2005rahmen"
+      },
+      {
+        "title": "Land Hessen: Informationen und Rechtsgrundlagen der Kommunalwahlen",
+        "url": "https://wahlen.hessen.de/kommunalwahlen/allgemeine-kommunalwahlen/allgemeine-informationen-und-rechtsgrundlagen"
+      }
+    ],
+    "id": "wahlperiode",
+    "letter": "W",
+    "relatedIds": [
+      "mandat",
+      "wahlrecht"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Wahlrecht",
+    "category": "Wahlen",
+    "definition": "Die Regeln über Wahlen und die Berechtigung, zu wählen oder gewählt zu werden.",
+    "explanation": "Aktives Wahlrecht meint die Stimmabgabe, passives Wahlrecht die Wählbarkeit. Voraussetzungen wie Alter, Staatsangehörigkeit und Wohnsitz hängen von der jeweiligen Wahl ab.",
+    "example": "Beispiel zur Veranschaulichung: Eine Person prüft ihre Wahlberechtigung für die Gemeindevertretung.",
+    "sources": [
+      {
+        "title": "Land Hessen: Informationen und Rechtsgrundlagen der Kommunalwahlen",
+        "url": "https://wahlen.hessen.de/kommunalwahlen/allgemeine-kommunalwahlen/allgemeine-informationen-und-rechtsgrundlagen"
+      },
+      {
+        "title": "Hessisches Statistisches Landesamt: Wahlberechtigung 2026",
+        "url": "https://statistik.hessen.de/presse/kommunalwahlen-am-15-maerz-2026-in-hessen-wahlberechtigte"
+      }
+    ],
+    "id": "wahlrecht",
+    "letter": "W",
+    "relatedIds": [
+      "direktwahl",
+      "verhaeltniswahl"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Wählerverzeichnis",
+    "category": "Wahlen",
+    "definition": "Das amtliche Verzeichnis der Wahlberechtigten für eine bestimmte Wahl.",
+    "explanation": "Es dient dazu, die Wahlberechtigung zu prüfen und eine mehrfache Stimmabgabe zu verhindern. Einsicht, Berichtigung und Wahlschein richten sich nach gesetzlichen Fristen und Verfahren.",
+    "example": "Beispiel zur Veranschaulichung: Eine Person klärt rechtzeitig mit dem Wahlamt, warum sie keine Wahlbenachrichtigung erhalten hat.",
+    "sources": [
+      {
+        "title": "Land Hessen: Informationen und Rechtsgrundlagen der Kommunalwahlen",
+        "url": "https://wahlen.hessen.de/kommunalwahlen/allgemeine-kommunalwahlen/allgemeine-informationen-und-rechtsgrundlagen"
+      }
+    ],
+    "id": "waehlerverzeichnis",
+    "letter": "W",
+    "relatedIds": [
+      "wahlrecht",
+      "briefwahl"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  },
+  {
+    "term": "Zustimmungsgesetz",
+    "category": "Bund",
+    "definition": "Ein Bundesgesetz, das nur mit Zustimmung des Bundesrates zustande kommt.",
+    "explanation": "Das Grundgesetz bestimmt die Fälle der Zustimmungsbedürftigkeit. Eine verweigerte Zustimmung kann nicht einfach vom Bundestag überstimmt werden; ein Vermittlungsverfahren kann einen Kompromiss ermöglichen.",
+    "example": "Beispiel zur Veranschaulichung: Ein zustimmungsbedürftiges Vorhaben erhält ohne die nötige Bundesratsmehrheit kein abgeschlossenes Gesetzgebungsverfahren.",
+    "sources": [
+      {
+        "title": "Grundgesetz, amtliche Fassung",
+        "url": "https://www.gesetze-im-internet.de/gg/"
+      },
+      {
+        "title": "Deutscher Bundestag: Vermittlungsverfahren",
+        "url": "https://www.bundestag.de/parlament/aufgaben/gesetzgebung_neu/gesetzgebung/verm-255464"
+      }
+    ],
+    "id": "zustimmungsgesetz",
+    "letter": "Z",
+    "relatedIds": [
+      "einspruchsgesetz",
+      "vermittlungsausschuss"
+    ],
+    "reviewStatus": "Grundlagenwissen; Quellenabgleich 12.11.2026 teilweise erfolgt. Vollständige fachliche und rechtliche Schlussprüfung vor Veröffentlichung offen.",
+    "reviewedAt": "2026-11-12"
+  }
+]

@@ -1,0 +1,1051 @@
+[
+  {
+    "id": "germany-1863",
+    "year": 1863,
+    "dateLabel": "23. Mai 1863",
+    "title": "Der Allgemeine Deutsche Arbeiterverein",
+    "summary": "In Leipzig entsteht eine wichtige Vorläuferorganisation der SPD.",
+    "body": [
+      "Der Allgemeine Deutsche Arbeiterverein unter Ferdinand Lassalle gehört zu den organisatorischen Wurzeln der deutschen Sozialdemokratie. Er entsteht 1863.",
+      "Die spätere SPD entwickelt sich aus mehreren Strömungen der Arbeiterbewegung; ihr heutiger Name besteht zu diesem Zeitpunkt noch nicht."
+    ],
+    "category": "Parteigeschichte",
+    "level": "germany",
+    "era": "1863–1893",
+    "sources": [
+      {
+        "title": "Deutsches Historisches Museum: Sozialdemokratische Partei Deutschlands",
+        "url": "https://www.dhm.de/lemo/kapitel/kaiserreich/innenpolitik/spd2"
+      },
+      {
+        "title": "Bundeszentrale für politische Bildung: Sozialdemokratische Partei Deutschlands",
+        "url": "https://www.bpb.de/kurz-knapp/lexika/politiklexikon/18220/sozialdemokratische-partei-deutschlands-spd/"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": "germany-1875",
+    "year": 1875,
+    "dateLabel": "1875",
+    "title": "Vereinigung in Gotha",
+    "summary": "ADAV und SDAP schließen sich zur Sozialistischen Arbeiterpartei zusammen.",
+    "body": [
+      "Der Allgemeine Deutsche Arbeiterverein und die 1869 gegründete Sozialdemokratische Arbeiterpartei vereinigen sich in Gotha. Die neue Organisation heißt Sozialistische Arbeiterpartei Deutschlands.",
+      "Der Zusammenschluss führt unterschiedliche organisatorische und politische Traditionen der Arbeiterbewegung zusammen."
+    ],
+    "category": "Parteigeschichte",
+    "level": "germany",
+    "era": "1863–1893",
+    "sources": [
+      {
+        "title": "Deutsches Historisches Museum: Sozialdemokratische Partei Deutschlands",
+        "url": "https://www.dhm.de/lemo/kapitel/kaiserreich/innenpolitik/spd2"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": "germany-1878",
+    "year": 1878,
+    "dateLabel": "1878–1890",
+    "title": "Das Sozialistengesetz",
+    "summary": "Repression schränkt die organisatorische Arbeit der Sozialdemokratie ein.",
+    "body": [
+      "Das Sozialistengesetz verbietet sozialdemokratische Vereine, Versammlungen und Publikationen. Die Partei arbeitet unter Verfolgungsdruck; Kandidaturen und die Arbeit gewählter Abgeordneter werden dadurch nicht vollständig ausgeschlossen.",
+      "Nach dem Ende des Gesetzes 1890 kann sich die Organisation wieder offen entfalten."
+    ],
+    "category": "Verfolgung",
+    "level": "germany",
+    "era": "1863–1893",
+    "sources": [
+      {
+        "title": "Deutsches Historisches Museum: Sozialdemokratische Partei Deutschlands",
+        "url": "https://www.dhm.de/lemo/kapitel/kaiserreich/innenpolitik/spd2"
+      },
+      {
+        "title": "SPD: Geschichte der Grundsatzprogramme",
+        "url": "https://www.spd.de/programm/geschichte-der-spd-grundsatzprogramme"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": "germany-1890",
+    "year": 1890,
+    "dateLabel": "1890",
+    "title": "Der Name SPD",
+    "summary": "Nach dem Ende des Sozialistengesetzes entsteht die heutige Parteibezeichnung.",
+    "body": [
+      "Die Sozialistische Arbeiterpartei nimmt 1890 den Namen Sozialdemokratische Partei Deutschlands an. Im Jahr darauf folgt das Erfurter Programm.",
+      "Das Ende des Sozialistengesetzes eröffnet neue Möglichkeiten für öffentliche Organisation und politische Beteiligung."
+    ],
+    "category": "Parteigeschichte",
+    "level": "germany",
+    "era": "1863–1893",
+    "sources": [
+      {
+        "title": "Deutsches Historisches Museum: Sozialdemokratische Partei Deutschlands",
+        "url": "https://www.dhm.de/lemo/kapitel/kaiserreich/innenpolitik/spd2"
+      },
+      {
+        "title": "SPD: Geschichte der Grundsatzprogramme",
+        "url": "https://www.spd.de/programm/geschichte-der-spd-grundsatzprogramme"
+      }
+    ],
+    "status": "verified",
+    "relatedIds": [
+      "buedingen-1893"
+    ]
+  },
+  {
+    "id": "buedingen-1893",
+    "year": 1893,
+    "dateLabel": "28. Mai 1893",
+    "title": "Die frühen Sozialdemokraten in Büdingen",
+    "summary": "Ein Zeitungsbericht belegt eine sozialdemokratische Versammlung in Büdingen.",
+    "body": [
+      "Die bereitgestellte Chronik nennt einen Zeitungsbericht vom 29. Mai 1893 über eine Versammlung am Vortag. Darin wurde der Frankfurter Gastwirt Heinrich Prinz als Kandidat zur Reichstagswahl aufgestellt. Es handelt sich um einen frühen erhaltenen Nachweis, nicht um einen belegten Gründungstag des Ortsvereins.",
+      "Politische Beteiligung im Kaiserreich war gesellschaftlich ungleich verteilt. Frauen hatten kein Reichstagswahlrecht. Die Chronik beschreibt den Druck, dem abhängig Beschäftigte bei der Stimmabgabe ausgesetzt sein konnten.",
+      "Die genaue Zeitungsausgabe und das Original müssen noch archivalisch nachgewiesen werden. Die in der Chronik genannten Detaildaten zur Einführung von Wahlurnen werden nicht ungeprüft übernommen."
+    ],
+    "category": "Parteigeschichte",
+    "level": "buedingen",
+    "era": "1893–1903",
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "SPD Büdingen: Sozialdemokratie in Büdingen",
+        "url": "https://www.spd-buedingen.de/sozialdemokratie-in-buedingen/",
+        "note": "Öffentlich zugängliche Fassung der lokalen Chronik; keine unabhängige Zweitquelle."
+      }
+    ],
+    "status": "chronicle",
+    "relatedIds": [
+      "germany-1890",
+      "buedingen-1903"
+    ]
+  },
+  {
+    "id": "buedingen-1903",
+    "year": 1903,
+    "dateLabel": "1903",
+    "title": "Heinrich Busold folgt auf Heinrich Prinz",
+    "summary": "Die Chronik nennt Busold als neuen Reichstagskandidaten im Wahlkreis Friedberg-Büdingen.",
+    "body": [
+      "Heinrich Busold aus Friedberg war wie Heinrich Prinz gelernter Schreiner. Die Chronik beschreibt, wie Arbeitervertreter politische Aufgaben im Wahlkreis übernahmen.",
+      "Die Quelle nennt widersprüchlich zu anderen biografischen Nachweisen ein Sterbedatum 1917. Lebensdaten werden deshalb hier nicht als gesichert veröffentlicht. Seine Biografie und die Mandatszeiten sollen vor einer ausführlichen Veröffentlichung gesondert geprüft werden."
+    ],
+    "category": "Parteigeschichte",
+    "level": "buedingen",
+    "era": "1903–1919",
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "SPD Büdingen: Sozialdemokratie in Büdingen",
+        "url": "https://www.spd-buedingen.de/sozialdemokratie-in-buedingen/",
+        "note": "Öffentlich zugängliche Fassung der lokalen Chronik; keine unabhängige Zweitquelle."
+      }
+    ],
+    "status": "chronicle",
+    "relatedIds": [
+      "buedingen-1893",
+      "buedingen-1910"
+    ]
+  },
+  {
+    "id": "buedingen-1905-vereine",
+    "year": 1905,
+    "dateLabel": "Um die Jahrhundertwende",
+    "title": "Arbeiterbewegung als gelebte Gemeinschaft",
+    "summary": "Gesang, Sport und gemeinsame Feste gehörten zur politischen Alltagskultur.",
+    "body": [
+      "Die Chronik nennt einen Radfahrclub, einen Arbeitergesangverein und einen Arbeiterturnverein. Sie beschreibt Konzerte, Bälle, Sommerfeste, Sportwettkämpfe und Radrennen als Teil des sozialen Lebens.",
+      "Der Saalbau Valentin wird als zentraler Veranstaltungsort genannt. Der Jahresanker 1905 dient nur der Einordnung im Zeitstrahl; konkrete Gründungsdaten dieser Vereine sind in der Quelle nicht angegeben."
+    ],
+    "category": "Kultur und Soziales",
+    "level": "buedingen",
+    "era": "1903–1919",
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "SPD Büdingen: Sozialdemokratie in Büdingen",
+        "url": "https://www.spd-buedingen.de/sozialdemokratie-in-buedingen/",
+        "note": "Öffentlich zugängliche Fassung der lokalen Chronik; keine unabhängige Zweitquelle."
+      }
+    ],
+    "status": "chronicle"
+  },
+  {
+    "id": "buedingen-1910",
+    "year": 1910,
+    "dateLabel": "Juni 1910",
+    "title": "Ein Reichstagsmandat für Heinrich Busold",
+    "summary": "Busold gewinnt die Nachwahl im Wahlkreis Friedberg-Büdingen.",
+    "body": [
+      "Das Hessische Landesgeschichtliche Informationssystem dokumentiert die Reichstagsnachwahl von 1910 und Busolds Wahl. Damit lässt sich die zentrale Mandatsangabe der Chronik unabhängig einordnen.",
+      "Die Nachwahl war nach dem Tod des bisherigen Abgeordneten Waldemar von Oriola notwendig geworden."
+    ],
+    "category": "Parteigeschichte",
+    "level": "buedingen",
+    "era": "1903–1919",
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "LAGIS: Reichstagsnachwahl im Juni 1910",
+        "url": "https://www.lagis-hessen.de/de/subjects/idrec/sn/edbx/id/3120"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": "buedingen-1912",
+    "year": 1912,
+    "dateLabel": "1912",
+    "title": "Die Glasarbeiter verlassen Büdingen",
+    "summary": "Die Stilllegung der Glashütte schwächt nach der Chronik auch die örtliche Arbeiterbewegung.",
+    "body": [
+      "Die Glashütte war für die Wirtschaft und die lokale Sozialdemokratie wichtig. Nach ihrer Stilllegung zogen laut Chronik viele Glasarbeiter mit ihren Familien 1912 ins Saarland.",
+      "Die Quelle verbindet diesen Wegzug mit einer organisatorischen Schwächung der örtlichen Bewegung bis zum Ersten Weltkrieg. Die Chronik liefert keine belastbaren Mitglieder- oder Beschäftigtenzahlen für diesen Vorgang."
+    ],
+    "category": "Kultur und Soziales",
+    "level": "buedingen",
+    "era": "1903–1919",
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "SPD Büdingen: Sozialdemokratie in Büdingen",
+        "url": "https://www.spd-buedingen.de/sozialdemokratie-in-buedingen/",
+        "note": "Öffentlich zugängliche Fassung der lokalen Chronik; keine unabhängige Zweitquelle."
+      }
+    ],
+    "status": "chronicle"
+  },
+  {
+    "id": "buedingen-1918",
+    "year": 1918,
+    "dateLabel": "November 1918",
+    "title": "Ein Rat in der Revolution",
+    "summary": "Auch Büdingen erlebt die politische Neuordnung nach dem Ersten Weltkrieg.",
+    "body": [
+      "Die Chronik nennt für Büdingen einen Soldaten-, Arbeiter- und Bürgerrat im November 1918. Nähere Angaben zu Mitgliedern, Beschlüssen und Dauer fehlen in der bereitgestellten Darstellung.",
+      "Lokale Ereignisse und die Ausrufung der Republik auf Reichsebene sind miteinander verbunden, werden im Zeitstrahl jedoch als unterschiedliche historische Ebenen geführt."
+    ],
+    "category": "Demokratie",
+    "level": "buedingen",
+    "era": "1903–1919",
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "SPD Büdingen: Sozialdemokratie in Büdingen",
+        "url": "https://www.spd-buedingen.de/sozialdemokratie-in-buedingen/",
+        "note": "Öffentlich zugängliche Fassung der lokalen Chronik; keine unabhängige Zweitquelle."
+      }
+    ],
+    "status": "chronicle",
+    "relatedIds": [
+      "germany-1918",
+      "buedingen-1919"
+    ]
+  },
+  {
+    "id": "germany-1918",
+    "year": 1918,
+    "dateLabel": "November 1918",
+    "title": "Revolution und Republik",
+    "summary": "Das Ende der Monarchie eröffnet den Weg zur parlamentarischen Demokratie.",
+    "body": [
+      "Nach dem Ersten Weltkrieg wird Deutschland zur Republik. Sozialdemokraten übernehmen zentrale politische Verantwortung im Übergang zur neuen Staatsordnung.",
+      "Das Reichswahlgesetz vom 30. November 1918 verankert das aktive und passive Frauenwahlrecht für die Wahl zur Nationalversammlung."
+    ],
+    "category": "Demokratie",
+    "level": "germany",
+    "era": "1903–1919",
+    "sources": [
+      {
+        "title": "Deutscher Bundestag: Reichswahlgesetz und Frauenwahlrecht",
+        "url": "https://www.bundestag.de/dokumente/textarchiv/1918-11-30-frauenwahlrecht-580156"
+      },
+      {
+        "title": "Bundeszentrale für politische Bildung: Sozialdemokratische Partei Deutschlands",
+        "url": "https://www.bpb.de/kurz-knapp/lexika/politiklexikon/18220/sozialdemokratische-partei-deutschlands-spd/"
+      }
+    ],
+    "status": "verified",
+    "relatedIds": [
+      "buedingen-1918",
+      "germany-1919"
+    ]
+  },
+  {
+    "id": "buedingen-1919",
+    "year": 1919,
+    "dateLabel": "1919",
+    "title": "Der Ortsverein organisiert sich neu",
+    "summary": "Friedrich Stübing steht dem neuen Ortsverein in den Anfangsjahren vor.",
+    "body": [
+      "Nach Darstellung der Chronik organisierte sich die Büdinger Sozialdemokratie 1919 erneut in einem Ortsverein. Die überlieferte Vorsitzendenliste nennt Friedrich Stübing für die Jahre 1919 bis 1925.",
+      "Die Quelle beschreibt die Weimarer Jahre als eine Phase organisatorischen Wachstums und zunehmender kommunalpolitischer Beteiligung."
+    ],
+    "category": "Neubeginn",
+    "level": "buedingen",
+    "era": "1919–1933",
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "SPD Büdingen: Sozialdemokratie in Büdingen",
+        "url": "https://www.spd-buedingen.de/sozialdemokratie-in-buedingen/",
+        "note": "Öffentlich zugängliche Fassung der lokalen Chronik; keine unabhängige Zweitquelle."
+      }
+    ],
+    "status": "chronicle",
+    "relatedIds": [
+      "buedingen-1922",
+      "germany-1919"
+    ]
+  },
+  {
+    "id": "germany-1919",
+    "year": 1919,
+    "dateLabel": "19. Februar 1919",
+    "title": "Marie Juchacz ergreift das Wort",
+    "summary": "Erstmals spricht eine Frau vor einem demokratisch gewählten deutschen Parlament.",
+    "body": [
+      "Die SPD-Abgeordnete Marie Juchacz spricht in der Weimarer Nationalversammlung. Ihre Rede steht für den Durchbruch parlamentarischer Beteiligung von Frauen.",
+      "Die neue Republik erweitert politische Rechte. Damit sind gesellschaftliche Gleichstellung und Schutz der Demokratie jedoch noch nicht dauerhaft gesichert."
+    ],
+    "category": "Demokratie",
+    "level": "germany",
+    "era": "1919–1933",
+    "sources": [
+      {
+        "title": "Deutscher Bundestag: Erste Rede einer Frau im deutschen Parlament",
+        "url": "https://www.bundestag.de/dokumente/textarchiv/1919-02-19-juchacz-591728"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": "buedingen-1922",
+    "year": 1922,
+    "dateLabel": "1922",
+    "title": "Die Sozialistische Arbeiterjugend entsteht",
+    "summary": "Junge Menschen schaffen eine eigene sozialdemokratische Jugendorganisation.",
+    "body": [
+      "Die Chronik datiert die Gründung einer Gruppe der Sozialistischen Arbeiterjugend in Büdingen auf 1922. Weitere Einzelheiten zu Gründungsmitgliedern, Ort und Programm sind darin nicht enthalten.",
+      "Diese historische Gruppe belegt keine heutige örtliche Jusos-Struktur. Gegenwärtige Organisationen müssen unabhängig und aktuell bestätigt werden."
+    ],
+    "category": "Jugend",
+    "level": "buedingen",
+    "era": "1919–1933",
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "SPD Büdingen: Sozialdemokratie in Büdingen",
+        "url": "https://www.spd-buedingen.de/sozialdemokratie-in-buedingen/",
+        "note": "Öffentlich zugängliche Fassung der lokalen Chronik; keine unabhängige Zweitquelle."
+      }
+    ],
+    "status": "chronicle",
+    "relatedIds": [
+      "buedingen-1919"
+    ]
+  },
+  {
+    "id": "buedingen-1925",
+    "year": 1925,
+    "dateLabel": "1925",
+    "title": "Reichsbanner Schwarz-Rot-Gold in Büdingen",
+    "summary": "Die Chronik beschreibt die örtliche Organisation des republikanischen Schutzbundes.",
+    "body": [
+      "Für 1925 nennt die Chronik die Formierung des Reichsbanners Schwarz-Rot-Gold in Büdingen. Der Schutz der Republik gewinnt in den folgenden Krisenjahren an Bedeutung.",
+      "Konkrete örtliche Mitgliederlisten und Aktivitäten sind aus der vorliegenden Datei allein nicht rekonstruierbar."
+    ],
+    "category": "Demokratie",
+    "level": "buedingen",
+    "era": "1919–1933",
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "SPD Büdingen: Sozialdemokratie in Büdingen",
+        "url": "https://www.spd-buedingen.de/sozialdemokratie-in-buedingen/",
+        "note": "Öffentlich zugängliche Fassung der lokalen Chronik; keine unabhängige Zweitquelle."
+      }
+    ],
+    "status": "chronicle"
+  },
+  {
+    "id": "buedingen-1929",
+    "year": 1929,
+    "dateLabel": "1929–1931",
+    "title": "Der Ortsverein wächst",
+    "summary": "Die Chronik nennt einen deutlichen Anstieg der Mitgliedschaft vor 1933.",
+    "body": [
+      "Für 1929 nennt die Chronik 133 Mitglieder, für 1930 163 und für 1931 ungefähr 200. Diese Zahlen sind überlieferte Angaben der historischen Darstellung und keine aktuellen Organisationsdaten.",
+      "Parallel beschreibt die Quelle kommunalpolitisches Engagement. Die dort genannte Bürgermeisteramtszeit eines Hildner von 1926 bis 1929 wird ohne unabhängigen kommunalen Nachweis nicht als gesicherte Personalangabe übernommen."
+    ],
+    "category": "Parteigeschichte",
+    "level": "buedingen",
+    "era": "1919–1933",
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "SPD Büdingen: Sozialdemokratie in Büdingen",
+        "url": "https://www.spd-buedingen.de/sozialdemokratie-in-buedingen/",
+        "note": "Öffentlich zugängliche Fassung der lokalen Chronik; keine unabhängige Zweitquelle."
+      }
+    ],
+    "status": "chronicle"
+  },
+  {
+    "id": "buedingen-1932-frauen",
+    "year": 1932,
+    "dateLabel": "Oktober 1932",
+    "title": "Frauen organisieren Hilfe in der Krise",
+    "summary": "Eine eigenständige Frauengruppe engagiert sich für Menschen in wirtschaftlicher Not.",
+    "body": [
+      "Die Chronik beschreibt die Gründung einer selbstständigen Frauengruppe im Oktober 1932. Sie beteiligte sich an der Winterhilfe und der Verteilung von Lebensmitteln und Kleidung.",
+      "Die Darstellung nennt die Genossin Mörschel als überregional engagierte Teilnehmerin an Frauen- und AWO-Konferenzen. Vollständige Namen und genaue Funktionen sind noch zu prüfen.",
+      "Der Text spricht von sechs führenden Frauen, nennt aber sieben Nachnamen. Deshalb wird daraus keine scheinbar vollständige Personenliste abgeleitet."
+    ],
+    "category": "Kultur und Soziales",
+    "level": "buedingen",
+    "era": "1919–1933",
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "SPD Büdingen: Sozialdemokratie in Büdingen",
+        "url": "https://www.spd-buedingen.de/sozialdemokratie-in-buedingen/",
+        "note": "Öffentlich zugängliche Fassung der lokalen Chronik; keine unabhängige Zweitquelle."
+      }
+    ],
+    "status": "chronicle"
+  },
+  {
+    "id": "buedingen-1933",
+    "year": 1933,
+    "dateLabel": "2. März und 25. Juni 1933",
+    "title": "Unterdrückung und Auflösung",
+    "summary": "Die letzte öffentliche Versammlung findet unter Bedrohung statt; der Ortsverein wird aufgelöst.",
+    "body": [
+      "Die Chronik berichtet, dass die Polizei am 2. März 1933 eine öffentliche SPD-Versammlung im unteren Rathaussaal vor einem nationalsozialistischen Störversuch schützte.",
+      "Für den 25. Juni 1933 nennt die Quelle einen Vorstandsbeschluss zur Auflösung des Ortsvereins. Als Absicht wird darin genannt, illegale Arbeit zu erleichtern. Daraus lässt sich nicht ableiten, welche konkreten Widerstandsaktivitäten tatsächlich stattfanden.",
+      "Die nationalsozialistische Verfolgung und die Zerstörung demokratischer Organisationen werden sachlich dargestellt. Individuelle Schicksale werden nur aufgenommen, wenn sie quellenmäßig nachgewiesen sind."
+    ],
+    "category": "Verfolgung",
+    "level": "buedingen",
+    "era": "1933–1945",
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "SPD Büdingen: Sozialdemokratie in Büdingen",
+        "url": "https://www.spd-buedingen.de/sozialdemokratie-in-buedingen/",
+        "note": "Öffentlich zugängliche Fassung der lokalen Chronik; keine unabhängige Zweitquelle."
+      }
+    ],
+    "status": "chronicle",
+    "relatedIds": [
+      "germany-1933",
+      "buedingen-1933-1945"
+    ]
+  },
+  {
+    "id": "buedingen-1933-1945",
+    "year": 1933,
+    "dateLabel": "1933–1945",
+    "title": "Verfolgung und eine lückenhafte Überlieferung",
+    "summary": "Für die NS-Zeit fehlen in der Chronik konkrete lokale Nachweise.",
+    "body": [
+      "Die Chronik beschreibt Arbeitsplatzverlust, Verfolgung, Flucht, Haft und Tod als Erfahrungen von Sozialdemokraten unter der NS-Diktatur. Für Büdingen nennt sie jedoch keine ausreichend belegten einzelnen Opferbiografien.",
+      "Die Behauptung, belastende Akten seien nach Kriegsende gezielt vernichtet worden, ist eine Aussage der Chronik und in der vorliegenden Datei nicht nachgewiesen. Sie wird deshalb nicht als gesicherte Erklärung der Quellenlücke übernommen.",
+      "Der Abschnitt bleibt ausdrücklich eine Forschungsaufgabe. Fehlende Dokumentation bedeutet nicht, dass Verfolgung oder Widerstand nicht stattgefunden hätten."
+    ],
+    "category": "Verfolgung",
+    "level": "buedingen",
+    "era": "1933–1945",
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "SPD Büdingen: Sozialdemokratie in Büdingen",
+        "url": "https://www.spd-buedingen.de/sozialdemokratie-in-buedingen/",
+        "note": "Öffentlich zugängliche Fassung der lokalen Chronik; keine unabhängige Zweitquelle."
+      }
+    ],
+    "status": "chronicle"
+  },
+  {
+    "id": "germany-1933",
+    "year": 1933,
+    "dateLabel": "23. März und 22. Juni 1933",
+    "title": "Nein zum Ermächtigungsgesetz",
+    "summary": "Die anwesenden SPD-Abgeordneten stimmen gegen die Entmachtung des Parlaments.",
+    "body": [
+      "Otto Wels begründet im Reichstag die Ablehnung des Ermächtigungsgesetzes. Die anwesenden SPD-Abgeordneten stimmen dagegen. Kommunistische Abgeordnete können nach Repression und Ausschaltung nicht an der Abstimmung teilnehmen.",
+      "Am 22. Juni 1933 wird die SPD verboten. Verfolgung, Haft, Exil und Widerstand prägen die folgende Zeit. Die Ereignisse markieren die Zerstörung demokratischer Handlungsmöglichkeiten."
+    ],
+    "category": "Verfolgung",
+    "level": "germany",
+    "era": "1933–1945",
+    "sources": [
+      {
+        "title": "Deutscher Bundestag: Reichstag billigt das Ermächtigungsgesetz",
+        "url": "https://www.bundestag.de/dokumente/textarchiv/1933-03-23-ermaechtigungsgesetz-938540"
+      }
+    ],
+    "status": "verified",
+    "relatedIds": [
+      "buedingen-1933"
+    ]
+  },
+  {
+    "id": "buedingen-1945",
+    "year": 1945,
+    "dateLabel": "1945–1949",
+    "title": "Demokratischer Neubeginn",
+    "summary": "Frühere Sozialdemokraten knüpfen nach Kriegsende wieder Kontakte.",
+    "body": [
+      "Die bereitgestellte Chronik beschreibt kleine Treffen ehemaliger Parteimitglieder in Büdingen und die Wiederaufnahme langjähriger persönlicher Verbindungen. Ein genaues lokales Wiedergründungsdatum nennt sie nicht.",
+      "Der Aufbau demokratischer Parteistrukturen stand unter den Bedingungen der alliierten Besatzung und erforderte Genehmigungen. Die Chronik vermischt an dieser Stelle lokale, hessische und bundesweite Entwicklungen; der Zeitstrahl trennt diese Ebenen.",
+      "Die historische Vorsitzendenliste nennt W. Pebler für 1945 und Karl Geyer für 1946. Diese Angaben sind noch mit Originalunterlagen abzugleichen."
+    ],
+    "category": "Neubeginn",
+    "level": "buedingen",
+    "era": "1945–1949",
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "SPD Büdingen: Sozialdemokratie in Büdingen",
+        "url": "https://www.spd-buedingen.de/sozialdemokratie-in-buedingen/",
+        "note": "Öffentlich zugängliche Fassung der lokalen Chronik; keine unabhängige Zweitquelle."
+      }
+    ],
+    "status": "chronicle",
+    "relatedIds": [
+      "germany-1945",
+      "germany-1946"
+    ]
+  },
+  {
+    "id": "germany-1945",
+    "year": 1945,
+    "dateLabel": "1945",
+    "title": "Wiederaufbau nach der NS-Diktatur",
+    "summary": "Sozialdemokraten beginnen nach der Befreiung erneut mit politischer Organisation.",
+    "body": [
+      "Nach dem Ende der NS-Herrschaft entstehen wieder sozialdemokratische Parteistrukturen. Kurt Schumacher wird zu einer zentralen Persönlichkeit des Wiederaufbaus in den westlichen Besatzungszonen.",
+      "In den unterschiedlichen Besatzungszonen entwickeln sich Parteien unter verschiedenen politischen Bedingungen."
+    ],
+    "category": "Neubeginn",
+    "level": "germany",
+    "era": "1945–1949",
+    "sources": [
+      {
+        "title": "Bundeszentrale für politische Bildung: Sozialdemokratische Partei Deutschlands",
+        "url": "https://www.bpb.de/kurz-knapp/lexika/politiklexikon/18220/sozialdemokratische-partei-deutschlands-spd/"
+      }
+    ],
+    "status": "verified",
+    "relatedIds": [
+      "buedingen-1945"
+    ]
+  },
+  {
+    "id": "germany-1946",
+    "year": 1946,
+    "dateLabel": "1946",
+    "title": "Geteilte Wege in den Besatzungszonen",
+    "summary": "Wiederaufbau im Westen und Zwangsvereinigung in der sowjetischen Besatzungszone.",
+    "body": [
+      "In Hannover wählt ein SPD-Parteitag Kurt Schumacher zum Vorsitzenden. In der sowjetischen Besatzungszone werden SPD und KPD unter erheblichem Druck zur SED vereinigt.",
+      "Diese Vorgänge unterscheiden sich grundlegend und werden nicht als einheitlicher demokratischer Parteiaufbau dargestellt."
+    ],
+    "category": "Neubeginn",
+    "level": "germany",
+    "era": "1945–1949",
+    "sources": [
+      {
+        "title": "Bundeszentrale für politische Bildung: Sozialdemokratische Partei Deutschlands",
+        "url": "https://www.bpb.de/kurz-knapp/lexika/politiklexikon/18220/sozialdemokratische-partei-deutschlands-spd/"
+      },
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": "buedingen-1949-1969",
+    "year": 1949,
+    "dateLabel": "1949–1969",
+    "title": "Lokale Geschichte ergänzen",
+    "summary": "Für diesen Zeitraum fehlen ausreichend geprüfte lokale Ereignisse.",
+    "body": [
+      "Die bereitgestellte Chronik widmet sich in diesem Abschnitt überwiegend der bundesweiten SPD-Geschichte. Aus ihr lassen sich keine ausreichend belegten Büdinger Wahlergebnisse, Projekte oder politischen Leistungen ableiten.",
+      "Die überlieferte Vorsitzendenliste bietet Rechercheansätze, ersetzt aber keine Ereignischronik. Benötigt werden datierte Protokolle, kommunale Unterlagen, Presseberichte sowie Bildmaterial mit geklärten Rechten.",
+      "Dieser Zeitraum ist redaktionell zu ergänzen. Das Feld bezeichnet eine Quellenlücke und kein behauptetes historisches Ereignis."
+    ],
+    "category": "Quellenlücke",
+    "level": "buedingen",
+    "era": "1949–1969",
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "SPD Büdingen: Sozialdemokratie in Büdingen",
+        "url": "https://www.spd-buedingen.de/sozialdemokratie-in-buedingen/",
+        "note": "Öffentlich zugängliche Fassung der lokalen Chronik; keine unabhängige Zweitquelle."
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "germany-1959",
+    "year": 1959,
+    "dateLabel": "1959",
+    "title": "Das Godesberger Programm",
+    "summary": "Die SPD öffnet ihr Selbstverständnis zur Volkspartei.",
+    "body": [
+      "Das Godesberger Grundsatzprogramm markiert eine programmatische Neuorientierung. Die Partei erweitert ihren politischen und gesellschaftlichen Anspruch über das traditionelle Arbeitermilieu hinaus.",
+      "Programme dokumentieren politische Ziele ihrer jeweiligen Zeit; sie sind von bereits umgesetzter Regierungspolitik zu unterscheiden."
+    ],
+    "category": "Programme",
+    "level": "germany",
+    "era": "1949–1969",
+    "sources": [
+      {
+        "title": "SPD: Geschichte der Grundsatzprogramme",
+        "url": "https://www.spd.de/programm/geschichte-der-spd-grundsatzprogramme"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": "buedingen-1969-1982",
+    "year": 1969,
+    "dateLabel": "1969–1982",
+    "title": "Lokale Geschichte ergänzen",
+    "summary": "Für diesen Zeitraum fehlen ausreichend geprüfte lokale Ereignisse.",
+    "body": [
+      "Die bereitgestellte Chronik widmet sich in diesem Abschnitt überwiegend der bundesweiten SPD-Geschichte. Aus ihr lassen sich keine ausreichend belegten Büdinger Wahlergebnisse, Projekte oder politischen Leistungen ableiten.",
+      "Die überlieferte Vorsitzendenliste bietet Rechercheansätze, ersetzt aber keine Ereignischronik. Benötigt werden datierte Protokolle, kommunale Unterlagen, Presseberichte sowie Bildmaterial mit geklärten Rechten.",
+      "Dieser Zeitraum ist redaktionell zu ergänzen. Das Feld bezeichnet eine Quellenlücke und kein behauptetes historisches Ereignis."
+    ],
+    "category": "Quellenlücke",
+    "level": "buedingen",
+    "era": "1969–1982",
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "SPD Büdingen: Sozialdemokratie in Büdingen",
+        "url": "https://www.spd-buedingen.de/sozialdemokratie-in-buedingen/",
+        "note": "Öffentlich zugängliche Fassung der lokalen Chronik; keine unabhängige Zweitquelle."
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "germany-1969",
+    "year": 1969,
+    "dateLabel": "1969",
+    "title": "Willy Brandt wird Bundeskanzler",
+    "summary": "Eine sozialliberale Koalition übernimmt die Bundesregierung.",
+    "body": [
+      "Willy Brandt steht von 1969 bis 1974 an der Spitze der Bundesregierung. Innenpolitische Reformen und eine neue Ostpolitik prägen diese Regierungszeit.",
+      "Die Zusammenarbeit mit der FDP eröffnet neue parlamentarische Mehrheiten."
+    ],
+    "category": "Regierung",
+    "level": "germany",
+    "era": "1969–1982",
+    "sources": [
+      {
+        "title": "Bundesregierung: Bundeskanzler seit 1949",
+        "url": "https://www.bundeskanzler.de/bk-de/kanzleramt/bundeskanzler-seit-1949"
+      },
+      {
+        "title": "Bundesregierung: Willy Brandt",
+        "url": "https://www.bundeskanzler.de/bk-de/kanzleramt/bundeskanzler-seit-1949/willy-brandt"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": "germany-1971",
+    "year": 1971,
+    "dateLabel": "1971",
+    "title": "Friedensnobelpreis für Willy Brandt",
+    "summary": "Brandts Politik der Aussöhnung zwischen West und Ost wird ausgezeichnet.",
+    "body": [
+      "Der Friedensnobelpreis würdigt Willy Brandts Beitrag zur Entspannung und Aussöhnung. Die Ostpolitik wird gemeinsam mit weiteren politischen Akteuren entwickelt, darunter Egon Bahr.",
+      "Der Preis steht im Zusammenhang mit dem Versuch, Beziehungen über die Grenzen des Kalten Krieges hinweg zu verbessern."
+    ],
+    "category": "Demokratie",
+    "level": "germany",
+    "era": "1969–1982",
+    "sources": [
+      {
+        "title": "Bundesregierung: Willy Brandt",
+        "url": "https://www.bundeskanzler.de/bk-de/kanzleramt/bundeskanzler-seit-1949/willy-brandt"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": "germany-1974",
+    "year": 1974,
+    "dateLabel": "1974",
+    "title": "Helmut Schmidt wird Bundeskanzler",
+    "summary": "Die sozialliberale Koalition wird unter einem neuen Kanzler fortgesetzt.",
+    "body": [
+      "Helmut Schmidt folgt 1974 auf Willy Brandt. Seine Kanzlerschaft dauert bis 1982.",
+      "Wirtschaftliche Krisen, Sicherheitspolitik und die Auseinandersetzung mit terroristischer Gewalt gehören zu den Herausforderungen dieser Jahre."
+    ],
+    "category": "Regierung",
+    "level": "germany",
+    "era": "1969–1982",
+    "sources": [
+      {
+        "title": "Bundesregierung: Bundeskanzler seit 1949",
+        "url": "https://www.bundeskanzler.de/bk-de/kanzleramt/bundeskanzler-seit-1949"
+      },
+      {
+        "title": "Bundeskanzler-Helmut-Schmidt-Stiftung: Helmut Schmidt",
+        "url": "https://www.helmut-schmidt.de/ueber-uns/helmut-schmidt"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": "buedingen-1982-1989",
+    "year": 1982,
+    "dateLabel": "1982–1989",
+    "title": "Lokale Geschichte ergänzen",
+    "summary": "Für diesen Zeitraum fehlen ausreichend geprüfte lokale Ereignisse.",
+    "body": [
+      "Die bereitgestellte Chronik widmet sich in diesem Abschnitt überwiegend der bundesweiten SPD-Geschichte. Aus ihr lassen sich keine ausreichend belegten Büdinger Wahlergebnisse, Projekte oder politischen Leistungen ableiten.",
+      "Die überlieferte Vorsitzendenliste bietet Rechercheansätze, ersetzt aber keine Ereignischronik. Benötigt werden datierte Protokolle, kommunale Unterlagen, Presseberichte sowie Bildmaterial mit geklärten Rechten.",
+      "Dieser Zeitraum ist redaktionell zu ergänzen. Das Feld bezeichnet eine Quellenlücke und kein behauptetes historisches Ereignis."
+    ],
+    "category": "Quellenlücke",
+    "level": "buedingen",
+    "era": "1982–1989",
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "SPD Büdingen: Sozialdemokratie in Büdingen",
+        "url": "https://www.spd-buedingen.de/sozialdemokratie-in-buedingen/",
+        "note": "Öffentlich zugängliche Fassung der lokalen Chronik; keine unabhängige Zweitquelle."
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "germany-1982",
+    "year": 1982,
+    "dateLabel": "1982",
+    "title": "Die SPD geht in die Opposition",
+    "summary": "Die sozialliberale Koalition auf Bundesebene endet.",
+    "body": [
+      "Mit dem Ende der Koalition mit der FDP endet Helmut Schmidts Kanzlerschaft. Die SPD übernimmt im Bund die Oppositionsrolle.",
+      "Die folgenden Jahre sind auch von innerparteilichen Debatten über Frieden, Sicherheit und gesellschaftlichen Wandel geprägt."
+    ],
+    "category": "Parteigeschichte",
+    "level": "germany",
+    "era": "1982–1989",
+    "sources": [
+      {
+        "title": "Bundesregierung: Bundeskanzler seit 1949",
+        "url": "https://www.bundeskanzler.de/bk-de/kanzleramt/bundeskanzler-seit-1949"
+      },
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": "buedingen-1989-2000",
+    "year": 1989,
+    "dateLabel": "1989–2000",
+    "title": "Lokale Geschichte ergänzen",
+    "summary": "Für diesen Zeitraum fehlen ausreichend geprüfte lokale Ereignisse.",
+    "body": [
+      "Die bereitgestellte Chronik widmet sich in diesem Abschnitt überwiegend der bundesweiten SPD-Geschichte. Aus ihr lassen sich keine ausreichend belegten Büdinger Wahlergebnisse, Projekte oder politischen Leistungen ableiten.",
+      "Die überlieferte Vorsitzendenliste bietet Rechercheansätze, ersetzt aber keine Ereignischronik. Benötigt werden datierte Protokolle, kommunale Unterlagen, Presseberichte sowie Bildmaterial mit geklärten Rechten.",
+      "Dieser Zeitraum ist redaktionell zu ergänzen. Das Feld bezeichnet eine Quellenlücke und kein behauptetes historisches Ereignis."
+    ],
+    "category": "Quellenlücke",
+    "level": "buedingen",
+    "era": "1989–2000",
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "SPD Büdingen: Sozialdemokratie in Büdingen",
+        "url": "https://www.spd-buedingen.de/sozialdemokratie-in-buedingen/",
+        "note": "Öffentlich zugängliche Fassung der lokalen Chronik; keine unabhängige Zweitquelle."
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "germany-1989",
+    "year": 1989,
+    "dateLabel": "7. Oktober 1989",
+    "title": "Neugründung der Sozialdemokratie in der DDR",
+    "summary": "In Schwante entsteht die SDP als eigenständige demokratische Partei.",
+    "body": [
+      "Bürgerrechtlerinnen und Bürgerrechtler gründen in Schwante die Sozialdemokratische Partei in der DDR. Zu den Initiatoren gehören Markus Meckel und Martin Gutzeit.",
+      "Die Gründung erfolgt vor dem Fall der Berliner Mauer und bricht mit dem Machtanspruch der SED."
+    ],
+    "category": "Demokratie",
+    "level": "germany",
+    "era": "1989–2000",
+    "sources": [
+      {
+        "title": "Bundesregierung: Chronik der Deutschen Einheit – 7. Oktober 1989",
+        "url": "https://www.bundesregierung.de/breg-de/schwerpunkte/deutsche-einheit/sozialdemokratische-partei-353988"
+      },
+      {
+        "title": "SPD: Schwante 1989",
+        "url": "https://www.spd.de/160-jahre/1989-schwante"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": "germany-1989-programm",
+    "year": 1989,
+    "dateLabel": "1989",
+    "title": "Das Berliner Programm",
+    "summary": "Soziale und ökologische Fragen prägen das neue Grundsatzprogramm.",
+    "body": [
+      "Die SPD verabschiedet in Berlin ein neues Grundsatzprogramm. Es bündelt Debatten über gesellschaftliche Veränderung, Gleichstellung und ökologische Verantwortung.",
+      "Das Berliner Programm wird 2007 vom Hamburger Programm abgelöst."
+    ],
+    "category": "Programme",
+    "level": "germany",
+    "era": "1989–2000",
+    "sources": [
+      {
+        "title": "SPD: Geschichte der Grundsatzprogramme",
+        "url": "https://www.spd.de/programm/geschichte-der-spd-grundsatzprogramme"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": "germany-1990",
+    "year": 1990,
+    "dateLabel": "26. September 1990",
+    "title": "Die sozialdemokratischen Parteien vereinigen sich",
+    "summary": "Ost- und westdeutsche SPD schließen sich vor der staatlichen Einheit zusammen.",
+    "body": [
+      "Auf einem Vereinigungsparteitag in Berlin kommen die SPD in der DDR und die westdeutsche SPD zusammen. Die Vereinigung der Parteien erfolgt wenige Tage vor der deutschen Einheit am 3. Oktober.",
+      "Gemeinsame Organisationsstrukturen müssen anschließend aufgebaut werden; unterschiedliche historische Erfahrungen bleiben Teil der Parteigeschichte."
+    ],
+    "category": "Parteigeschichte",
+    "level": "germany",
+    "era": "1989–2000",
+    "sources": [
+      {
+        "title": "Friedrich-Ebert-Stiftung: Vereinigungsparteitag",
+        "url": "https://www.fes.de/themenportal-geschichte-kultur-medien-netz/geschichte/veranstaltungen/vereinigungsparteitag"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": "germany-1998",
+    "year": 1998,
+    "dateLabel": "1998",
+    "title": "Gerhard Schröder wird Bundeskanzler",
+    "summary": "Eine Koalition aus SPD und Grünen übernimmt die Bundesregierung.",
+    "body": [
+      "Nach der Bundestagswahl 1998 wird Gerhard Schröder Bundeskanzler. Seine Kanzlerschaft dauert bis 2005.",
+      "Damit endet die seit 1982 bestehende Regierungszeit Helmut Kohls."
+    ],
+    "category": "Regierung",
+    "level": "germany",
+    "era": "1989–2000",
+    "sources": [
+      {
+        "title": "Bundesregierung: Bundeskanzler seit 1949",
+        "url": "https://www.bundeskanzler.de/bk-de/kanzleramt/bundeskanzler-seit-1949"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": "buedingen-2000-heute",
+    "year": 2000,
+    "dateLabel": "2000 bis heute",
+    "title": "Lokale Geschichte ergänzen",
+    "summary": "Für diesen Zeitraum fehlen ausreichend geprüfte lokale Ereignisse.",
+    "body": [
+      "Die bereitgestellte Chronik widmet sich in diesem Abschnitt überwiegend der bundesweiten SPD-Geschichte. Aus ihr lassen sich keine ausreichend belegten Büdinger Wahlergebnisse, Projekte oder politischen Leistungen ableiten.",
+      "Die überlieferte Vorsitzendenliste bietet Rechercheansätze, ersetzt aber keine Ereignischronik. Benötigt werden datierte Protokolle, kommunale Unterlagen, Presseberichte sowie Bildmaterial mit geklärten Rechten.",
+      "Dieser Zeitraum ist redaktionell zu ergänzen. Das Feld bezeichnet eine Quellenlücke und kein behauptetes historisches Ereignis."
+    ],
+    "category": "Quellenlücke",
+    "level": "buedingen",
+    "era": "2000 bis heute",
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "SPD Büdingen: Sozialdemokratie in Büdingen",
+        "url": "https://www.spd-buedingen.de/sozialdemokratie-in-buedingen/",
+        "note": "Öffentlich zugängliche Fassung der lokalen Chronik; keine unabhängige Zweitquelle."
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "germany-2007",
+    "year": 2007,
+    "dateLabel": "28. Oktober 2007",
+    "title": "Das Hamburger Programm",
+    "summary": "Die SPD verabschiedet ein neues Grundsatzprogramm.",
+    "body": [
+      "Der Hamburger Parteitag beschließt das neue Grundsatzprogramm der SPD. Es bezieht sozialdemokratische Grundwerte auf Herausforderungen des 21. Jahrhunderts.",
+      "Die Programmdokumente ermöglichen den Vergleich politischer Zielsetzungen über unterschiedliche Zeiträume hinweg."
+    ],
+    "category": "Programme",
+    "level": "germany",
+    "era": "2000 bis heute",
+    "sources": [
+      {
+        "title": "SPD: Hamburger Programm 2007",
+        "url": "https://www.spd.de/160-jahre/2007-hamburger-programm"
+      },
+      {
+        "title": "Friedrich-Ebert-Stiftung: Grundsatzprogramme nach 1945",
+        "url": "https://www.fes.de/bibliothek/grundsatz-regierungs-und-wahlprogramme-der-spd-nach-1945"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": "germany-2015",
+    "year": 2015,
+    "dateLabel": "1. Januar 2015",
+    "title": "Ein allgemeiner gesetzlicher Mindestlohn",
+    "summary": "Die 2014 beschlossene Lohnuntergrenze wird wirksam.",
+    "body": [
+      "Der Bundestag beschließt 2014 das Tarifautonomiestärkungsgesetz. Seit dem 1. Januar 2015 gilt in Deutschland ein allgemeiner gesetzlicher Mindestlohn; gesetzliche Ausnahmen sind gesondert geregelt.",
+      "Der Zeitstrahl unterscheidet den parlamentarischen Beschluss und den Beginn der Wirksamkeit. Er nennt keinen vermeintlich aktuellen Mindestlohnbetrag."
+    ],
+    "category": "Sozialpolitik",
+    "level": "germany",
+    "era": "2000 bis heute",
+    "sources": [
+      {
+        "title": "Deutscher Bundestag: Mindestlohn ab 2015 beschlossen",
+        "url": "https://www.bundestag.de/webarchiv/textarchiv/2014/kw27_de_tarifautonomie-286268"
+      },
+      {
+        "title": "BMAS: Mindestlohngesetz",
+        "url": "https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/mindestlohngesetz.html"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": "germany-2021",
+    "year": 2021,
+    "dateLabel": "2021–2025",
+    "title": "Die Kanzlerschaft von Olaf Scholz",
+    "summary": "Olaf Scholz ist von 2021 bis 2025 Bundeskanzler.",
+    "body": [
+      "Nach der Bundestagswahl 2021 übernimmt Olaf Scholz das Kanzleramt. Seine Kanzlerschaft endet 2025.",
+      "Der Eintrag ist historisch formuliert und behauptet keine gegenwärtige Amtsinhaberschaft. Weitere Entwicklungen bis zum aktuellen Stand werden redaktionell ergänzt."
+    ],
+    "category": "Regierung",
+    "level": "germany",
+    "era": "2000 bis heute",
+    "sources": [
+      {
+        "title": "Bundesregierung: Bundeskanzler seit 1949",
+        "url": "https://www.bundeskanzler.de/bk-de/kanzleramt/bundeskanzler-seit-1949"
+      }
+    ],
+    "status": "verified"
+  },
+  {
+    "id": "germany-2026",
+    "year": 2026,
+    "dateLabel": "Stand November 2026",
+    "title": "Die Chronik bleibt offen",
+    "summary": "Weitere aktuelle Entwicklungen werden nach Quellenprüfung ergänzt.",
+    "body": [
+      "Diese Ausstellung ist ein kuratierter Einstieg in die Parteigeschichte, keine vollständige Tageschronik. Weitere Meilensteine nach 2025 benötigen eine eigene redaktionelle Auswahl und Quellenprüfung.",
+      "Es werden keine Wahlergebnisse, Ämter oder Regierungsbeteiligungen für die Gegenwart aus früheren Angaben fortgeschrieben."
+    ],
+    "category": "Quellenlücke",
+    "level": "germany",
+    "era": "2000 bis heute",
+    "sources": [
+      {
+        "title": "Redaktioneller Bearbeitungsstand",
+        "note": "12. November 2026; kein historisches Ereignis."
+      }
+    ],
+    "status": "pending"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "artifact-1893",
+    "title": "Zeitungsbericht zur Versammlung von 1893",
+    "dateLabel": "29. Mai 1893 laut Chronik",
+    "description": "Gesucht wird ein Scan des in der Chronik genannten Zeitungsberichts. Das Original liegt diesem Projekt nicht vor.",
+    "source": "Fundstelle und Zeitungstitel noch zu ermitteln",
+    "copyright": "Rechte und Nutzungsfreigabe ungeklärt",
+    "eventId": "buedingen-1893",
+    "status": "pending",
+    "image": null
+  },
+  {
+    "id": "artifact-protokoll",
+    "title": "Protokollbuch 1928–1933",
+    "dateLabel": "1928–1933 laut Chronik",
+    "description": "Die historische Darstellung beruft sich auf ein erhaltenes Protokollbuch. Ein Digitalisat wurde nicht bereitgestellt.",
+    "source": "Archivsignatur und Aufbewahrungsort noch zu ergänzen",
+    "copyright": "Rechte und Nutzungsfreigabe ungeklärt",
+    "eventId": "buedingen-1933",
+    "status": "pending",
+    "image": null
+  },
+  {
+    "id": "artifact-saalbau",
+    "title": "Historische Aufnahme des Saalbaus Valentin",
+    "dateLabel": "Datierung offen",
+    "description": "Bildplatz für eine authentische, freigegebene historische Aufnahme des in der Chronik beschriebenen Versammlungsortes.",
+    "source": "Bild noch bereitzustellen",
+    "copyright": "Rechte und Nutzungsfreigabe ungeklärt",
+    "eventId": "buedingen-1905-vereine",
+    "status": "pending",
+    "image": null
+  },
+  {
+    "id": "artifact-jugend",
+    "title": "Materialien zur Sozialistischen Arbeiterjugend",
+    "dateLabel": "Ab 1922",
+    "description": "Bildplatz für nachgewiesene Fotografien oder Dokumente der historischen Jugendgruppe. Aktuell wurde kein Objekt bereitgestellt.",
+    "source": "Archivrecherche erforderlich",
+    "copyright": "Rechte und Nutzungsfreigabe ungeklärt",
+    "eventId": "buedingen-1922",
+    "status": "pending",
+    "image": null
+  }
+]
