@@ -1,5 +1,6 @@
-/* Hallmark · theme: SPD CD (by request) · genre: editorial · shape: youth political magazine · hero: typographic poster · nav: shared masthead · footer: civic directory · signature: young voices in Büdingen · posture: drenched · v2.0.0 */
-/* Hallmark · pre-emit critique: P4 H5 E4 S4 R4 V4 · weakest: S, local group is unconfirmed; show participation without invented members */
+/* Hallmark · theme: SPD CD (by request) · genre: editorial · shape: youth participation page · hero: typographic poster · nav: shared masthead · footer: civic directory · signature: clear ways to participate in Büdingen · posture: drenched · redesign: polish · v2.0.0 */
+/* Hallmark · pre-emit critique: the red poster and factual introduction stay; concrete participation replaces the abstract topic switcher and archive */
+/* Hallmark · dropped #JusosTopics, Junge Politik im Archiv, Die Jusos kennenlernen · user explicitly retires the archive, topic switcher and introduction link */
 .jusos-hero { background: var(--color-accent); color: var(--color-paper); padding-block: var(--space-3xl); }
 .jusos-hero h1 { font-size: clamp(3rem,6.3vw,5.5rem); max-width: none; }
 .jusos-hero p { font-size: var(--text-lg); margin-block: var(--space-xl); max-width: 36ch; }
@@ -9,15 +10,11 @@
 .jusos-hero :focus-visible { outline-color: var(--color-inverse-focus); }
 .jusos-intro { display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: var(--space-3xl); }
 .jusos-intro h2 { max-width: 12ch; }
-.jusos-topic-controls { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); border-bottom: 1px solid var(--color-muted); }
-.jusos-topic-controls button { text-align: left; background: var(--color-transparent); border: 0; padding: var(--space-sm) var(--space-md); min-height: 50px; font-weight: 700; font-size: var(--text-lg); }
-.jusos-topic-controls button[aria-pressed='true'] { background: var(--color-accent); color: var(--color-paper); }
-.jusos-topic-controls button:hover { background: var(--color-paper-3); color: var(--color-ink); }
-.jusos-topic-panel { padding-block: var(--space-3xl); display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); column-gap: var(--space-3xl); }
-.jusos-topic-panel h3 { font-size: var(--text-section); grid-row: span 2; }
-.jusos-topic-panel .text-link { width: fit-content; }
-.youth-link-row { display: flex; justify-content: space-between; align-items: baseline; gap: var(--space-lg); border-top: 1px solid var(--color-rule); padding-block: var(--space-lg); }
-.youth-link-row h3 { max-width: 25ch; }
-@media(max-width:700px) { .jusos-hero .container,.jusos-intro,.jusos-topic-panel { grid-template-columns: minmax(0,1fr); gap: var(--space-xl); } .jusos-hero { padding-block: var(--space-2xl); } .jusos-hero .image-placeholder { min-height: 280px; } .jusos-topic-controls button { padding: var(--space-sm); font-size: var(--text-md); } .youth-link-row { flex-direction: column; } }
-
-@media(max-width:700px) { .jusos-topic-controls { grid-template-columns: minmax(0,1fr); } .jusos-topic-controls button { min-height: 48px; white-space: nowrap; } .jusos-hero h1 { font-size: clamp(2.5rem,11vw,4.5rem); } }
+.jusos-participation { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: var(--gap-columns); }
+.jusos-participation article { padding-top: var(--space-xl); border-top: 1px solid var(--color-rule); }
+.jusos-participation h3,.jusos-meetings h3 { margin-bottom: var(--space-lg); max-width: 30ch; }
+.jusos-participation .text-link { margin-bottom: var(--space-lg); }
+.jusos-meetings { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); column-gap: var(--gap-columns); margin-top: var(--space-3xl); padding-top: var(--space-xl); border-top: 1px solid var(--color-rule); }
+.jusos-meetings h3 { grid-row: span 2; }
+.jusos-meetings .text-link { justify-self: start; }
+@media(max-width:700px) { .jusos-hero .container,.jusos-intro,.jusos-participation,.jusos-meetings { grid-template-columns: minmax(0,1fr); gap: var(--space-xl); } .jusos-hero { padding-block: var(--space-2xl); } .jusos-hero .image-placeholder { min-height: 280px; } .jusos-hero h1 { font-size: clamp(2.5rem,11vw,4.5rem); } .jusos-meetings h3 { grid-row: auto; margin-bottom: var(--space-0); } }

@@ -60,15 +60,13 @@ Die Kategorien sind zentral definiert: `Gespräch`, `Sitzung`, `Veranstaltung`, 
 
 ## Politische Themen und Wahlprogramm
 
-`content/topics/topics.json` enthält die Themen. Die `id` bestimmt `/politik/themen/<id>`. `intro` und `localRelevance` erklären das Thema; `position` darf nur aus einer belegten Position abgeleitet sein. `sourceTitle` und `sourceUrl` dokumentieren diese. `relatedNewsIds` verknüpft vorhandene Artikel-IDs. `programChapterId` verweist auf ein Kapitel im Wahlprogramm. `measuresNotice` trennt Ziel und überprüften Umsetzungsstand.
+`content/topics/topics.json` enthält die Themen. Die `id` bestimmt den Abschnitt `/politik#<id>` auf der zentralen Politikseite. Es gibt keine politischen Themen-Detailrouten mehr. `intro` und `localRelevance` erklären das Thema; `position` darf nur aus einer belegten Position abgeleitet sein. `sourceTitle` und `sourceUrl` dokumentieren diese. `relatedNewsIds` verknüpft vorhandene Artikel-IDs. `programChapterId` verweist auf ein Kapitel im Wahlprogramm. `measuresNotice` trennt Ziel und überprüften Umsetzungsstand.
 
-`content/politics/program.json` enthält Quellenangaben und `chapters` mit `id`, `title`, `summary`, `topicIds`. Ein PDF nur dann als Link ergänzen, wenn eine reale freigegebene Datei vorliegt und der Link in der Oberfläche eingebunden wurde. Der aktuelle Prototyp enthält eine belegte Webzusammenfassung und keinen vorgetäuschten PDF-Download.
+`content/politics/program.json` enthält Quellenangaben und `chapters` mit `id`, `title`, `summary`, `topicIds`. Die Kapitel werden direkt auf `/politik#programm-<id>` dargestellt. Ein PDF nur dann als Link ergänzen, wenn eine reale freigegebene Datei vorliegt und der Link in der Oberfläche eingebunden wurde. Der aktuelle Prototyp enthält eine belegte Webzusammenfassung und keinen vorgetäuschten PDF-Download.
 
 ## Anträge und Beschlüsse
 
-`content/politics/motions.json` enthält `Motion`-Einträge. Erforderlich sind `id`, `title`, `date`, `type`, `applicants`, `committee`, `summary`, `status` und `source`. Optional: `outcome`, `implementation`, `documentUrl`.
-
-Zulässige Statuswerte sind `Antrag`, `Ausschussempfehlung`, `Beschluss`, `In Umsetzung`, `Umgesetzt`, `Abgelehnt`. Einen Status nur mit passendem Nachweis setzen. Eine Parteimeldung über eine Ausschusssitzung reicht nicht automatisch für einen abschließenden Beschluss oder eine Umsetzung. Amtliche Originaldokumente bevorzugen.
+`content/politics/motions.json` ist die zentrale Datenquelle für die eigenständige Seite `/politik/antraege`. Die neue Ampellogik, Pflichtfelder, Quellenanforderungen und ein Datenvorlagen-Beispiel stehen in [MOTIONS-GUIDE.md](MOTIONS-GUIDE.md). Eingereichte, noch nicht entschiedene Anträge dürfen nicht als „In Planung“ bezeichnet werden. Beschluss und tatsächliche Umsetzung bleiben getrennt.
 
 ## Glossarbegriff ergänzen
 
@@ -85,7 +83,7 @@ Das Lexikon sortiert die Begriffe und erzeugt A–Z-Zugänge und Filter aus den 
 
 ## Politikablauf ergänzen
 
-`content/guides/guides.json` enthält Erklärmodule mit `id`, `title`, `intro`, `source` und `steps`. Jeder Schritt hat `id`, `title`, `summary`, `detail` und `glossaryIds`. Optionale `branches` erläutern Verfahrensvarianten. Die Reihenfolge im Array ist die dargestellte Schrittreihenfolge. Verlinkte Begriffe müssen im Glossar existieren. Bei Zuständigkeitsfragen keine schematische Reihenfolge als ausnahmslos geltendes Recht darstellen.
+`content/guides/guides.json` enthält Erklärmodule mit `id`, `title`, `intro`, `source` und `steps`. Jeder Schritt hat `id`, `title`, `summary`, `detail` und `glossaryIds`. Optionale `branches` erläutern Verfahrensvarianten. Bei tatsächlichen Abläufen bestimmt die Reihenfolge im Array den Beratungs- beziehungsweise Verfahrensweg. Gremien, Haushalt, Ebenen und Beteiligung werden als Beziehungen, unterschiedliche Sichten oder Wahlmöglichkeiten dargestellt, nicht als zwingende zeitliche Folge. Die sieben Diagrammformen und ihre Zuordnung zu stabilen Modul- und Schritt-IDs liegen in `src/components/education/GuideExplorer.tsx`; bei neuen Kategorien muss auch diese fachliche Zuordnung ergänzt werden. Verlinkte Begriffe müssen im Glossar existieren. Bei Zuständigkeitsfragen keine schematische Reihenfolge als ausnahmslos geltendes Recht darstellen.
 
 ## Historisches Ereignis ergänzen
 
