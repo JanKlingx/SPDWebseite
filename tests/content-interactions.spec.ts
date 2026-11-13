@@ -16,6 +16,7 @@ test('educational and historical content meets required coverage and referential
     for (const id of entry.relatedIds) expect(glossaryIds.has(id), `${entry.id} -> ${id}`).toBe(true);
   }
   const historyIds = new Set(history.map(entry => entry.id));
+  expect(history).toHaveLength(41);
   expect(historyIds.size).toBe(history.length);
   expect(history.some(entry => entry.level === 'buedingen' && entry.year === 1893)).toBe(true);
   expect(history.some(entry => entry.level === 'germany' && entry.year === 1863)).toBe(true);
@@ -60,6 +61,7 @@ test('history level, search, view and event permalinks preserve state', async ({
   const perspectives = page.getByRole('navigation', { name: 'Historische Perspektive' });
   await perspectives.getByRole('link', { name: /^Deutschland/ }).click();
   await expect(page).toHaveURL(/level=germany/);
+  await page.locator('summary').filter({ hasText: /^Suche und Werkzeuge/ }).click();
   await page.getByLabel('Geschichte durchsuchen').fill('1863');
   await expect(page).toHaveURL(/q=1863/);
   await expect(page.locator('.history-events > li')).toHaveCount(1);
@@ -72,13 +74,13 @@ test('history level, search, view and event permalinks preserve state', async ({
   await expect(page.getByRole('button', { name: 'Detailgröße vergrößern' })).toBeDisabled();
   await page.getByRole('link', { name: /^Direktlink:/ }).click();
   await expect(page).toHaveURL(/event=germany-1863/);
-  await expect(page.locator('#germany-1863 details')).toHaveAttribute('open', '');
+  await expect(page.locator('#history-event-panel .history-context')).toHaveAttribute('open', '');
   await page.reload();
   await expect(page.getByLabel('Geschichte durchsuchen')).toHaveValue('1863');
-  await expect(page.locator('#germany-1863 details')).toHaveAttribute('open', '');
+  await expect(page.locator('#history-event-panel')).toContainText('Allgemeine Deutsche Arbeiterverein');
   await page.goto('/geschichte?level=buedingen&event=buedingen-1893#buedingen-1893');
-  await expect(page.locator('#buedingen-1893 details')).toHaveAttribute('open', '');
-  await expect(page.locator('#buedingen-1893')).toContainText('Aus der Chronik');
+  await expect(page.locator('#history-event-panel .history-context')).toHaveAttribute('open', '');
+  await expect(page.locator('#history-event-panel')).toContainText('Aus der Chronik');
   await page.goto('/geschichte?level=buedingen&event=buedingen-1949-1969#buedingen-1949-1969');
   await expect(page.locator('details#buedingen-1949-1969')).toHaveAttribute('open', '');
   await expect(page.locator('details#buedingen-1949-1969')).toContainText('Redaktionell zu ergänzen');
@@ -86,6 +88,7 @@ test('history level, search, view and event permalinks preserve state', async ({
 
 test('history filters, date range, empty state and gallery operate', async ({ page }) => {
   await page.goto('/geschichte?level=all');
+  await page.locator('summary').filter({ hasText: /^Suche und Werkzeuge/ }).click();
   await page.getByLabel('Thema', { exact: true }).selectOption('Verfolgung');
   await expect(page).toHaveURL(/category=Verfolgung/);
   expect(await page.locator('.history-events > li').count()).toBeGreaterThan(0);
@@ -99,6 +102,7 @@ test('history filters, date range, empty state and gallery operate', async ({ pa
   await page.getByRole('button', { name: 'Alle Einträge zeigen' }).click();
   await expect(page.getByLabel('Geschichte durchsuchen')).toHaveValue('');
   expect(await page.locator('.history-events > li').count()).toBeGreaterThan(10);
+  await page.locator('summary').filter({ hasText: /^Fotos und Dokumente/ }).click();
   const gallery = page.locator('.history-gallery');
   const title = await gallery.locator('h3').textContent();
   await page.getByRole('button', { name: 'Nächsten Materialplatz anzeigen' }).click();
@@ -106,4 +110,29 @@ test('history filters, date range, empty state and gallery operate', async ({ pa
   await page.getByRole('button', { name: 'Materialangaben' }).click();
   await expect(gallery.locator('dl')).toBeVisible();
   await expect(gallery.locator('dl')).toContainText('Bildrechte');
+});
+
+test('history starts with six milestones and preserves all records through epochs and archive views', async ({ page }) => {
+  await page.goto('/geschichte');
+  await expect(page.getByRole('list', { name: 'Ausgewählte Meilensteine' }).getByRole('listitem')).toHaveCount(6);
+  await expect(page.getByRole('button', { name: 'Überblick', exact: true })).toHaveAttribute('aria-pressed', 'true');
+  await expect(page.getByLabel('Geschichte durchsuchen')).toBeHidden();
+  await page.locator('summary').filter({ hasText: /^Eine Epoche vertiefen/ }).click();
+  await page.getByRole('navigation', { name: 'Historische Epochen' }).getByRole('button', { name: /1919–1933/ }).click();
+  await expect.poll(() => new URL(page.url()).searchParams.get('era')).toBe('1919–1933');
+  const weimar = history.filter(event => event.level === 'buedingen' && event.era === '1919–1933' && event.status !== 'pending');
+  await expect(page.getByRole('list', { name: 'Historische Ereignisse' }).getByRole('listitem')).toHaveCount(weimar.length);
+  await page.locator('.history-stations a').first().click();
+  await expect(page.locator('#history-event-panel .history-context')).toHaveAttribute('open', '');
+  await page.getByRole('navigation', { name: 'Historische Perspektive' }).getByRole('link', { name: /^Zusammen/ }).click();
+  await page.getByRole('button', { name: 'Alle Ereignisse', exact: true }).click();
+  await expect(page).toHaveURL(/mode=all/);
+  await page.locator('summary').filter({ hasText: /^Offene Zeiträume/ }).click();
+  const ids = await page.locator('.history-stations > li, .history-open-periods details[id]').evaluateAll(nodes => nodes.map(node => node.id));
+  expect(new Set(ids)).toEqual(new Set(history.map(event => event.id)));
+  await page.goto('/geschichte?level=germany&event=germany-1875#germany-1875');
+  await expect(page.locator('#history-detail-title')).toContainText('Vereinigung in Gotha');
+  await expect(page.locator('#germany-1875 a')).toHaveAttribute('aria-current', 'step');
+  await page.reload();
+  await expect(page.locator('#history-detail-title')).toContainText('Vereinigung in Gotha');
 });

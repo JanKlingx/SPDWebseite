@@ -1,1 +1,43 @@
-{"scanned":"2026-11-12","findings":{"repository":"README.md:1; empty initial repository JanKlingx/SPDWebseite","fonts":"SPD-CD-Manual 2024 p.44 and user master prompt: Open Sans, local licensed files","palette":"SPD-CD-Manual p.10 and p.44: #E3000F, #FFFFFF, #000000, #EDEDED","motion":"new project; functional transitions only","spacing":"new token scale","framework":"new Next.js App Router with TypeScript"},"preserve":["official brand colours","Open Sans","future unmodified official logo"],"introduce":["editorial magazine structure","shared accessible controls","structured source-based content","two history timelines","Hallmark checks"],"material":{"real":["SPD Büdingen name","local chronicle since 1893","SPD CD PDF","master requirements","official election programme source"],"pictures":"none supplied; explicit replaceable placeholders at user request","absent":["approved original logo","local photo licenses","verified current personnel","verified future events"]}}
+{
+  "scanned": "2026-11-13",
+  "findings": {
+    "repository": "existing merged implementation at main 7d641ce; clean starting tree",
+    "fonts": "src/app/layout.tsx: local Open Sans; src/styles/tokens.css: --font-body/--font-display",
+    "palette": "src/styles/tokens.css: SPD manual palette; new user-requested semantic motion statuses",
+    "motion": "functional transitions with reduced-motion fallback",
+    "framework": "package.json: Next.js App Router / React / TypeScript",
+    "lockedSystem": "design.md"
+  },
+  "preserve": [
+    "SPD red/white identity",
+    "Open Sans",
+    "existing content facts and source files",
+    "unchanged glossary and Ein Wort portal",
+    "unrelated news/person/event/contact functions"
+  ],
+  "introduce": [
+    "central policy page instead of topic/programme subroutes",
+    "clear Jusos participation",
+    "interactive political system diagrams",
+    "epoch and milestone history overview",
+    "prominent accessible motion traffic lights"
+  ],
+  "material": {
+    "real": [
+      "SPD Büdingen name",
+      "local chronicle since 1893",
+      "SPD CD PDF",
+      "master requirements",
+      "official election programme source"
+    ],
+    "pictures": "none supplied; explicit replaceable placeholders at user request",
+    "absent": [
+      "approved original logo",
+      "local photo licenses",
+      "verified current personnel",
+      "verified future events"
+    ]
+  },
+  "authorization": "User explicitly requests route and section deletion in supplied UX revision brief; see .hallmark/revision-plan.md",
+  "previousScan": "2026-11-12"
+}

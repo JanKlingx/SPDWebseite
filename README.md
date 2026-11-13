@@ -9,7 +9,7 @@ npm ci
 npm run dev
 ```
 
-Lokal `http://localhost:3000` öffnen. In der ausgewählten Cloud-Umgebung `SPDWebseite` die Vorschau für Port `3000` öffnen. Der Server muss währenddessen laufen. Der Arbeitsbranch heißt `codex/spd-buedingen-website`; ausführliche Anleitung für Git-Clone und lokale Produktionsvorschau: [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md).
+Lokal `http://localhost:3000` öffnen. In der ausgewählten Cloud-Umgebung `SPDWebseite` die Vorschau für Port `3000` öffnen. Der Server muss währenddessen laufen. Der Arbeitsbranch heißt `codex/ux-navigation-inhalte`; ausführliche Anleitung für Git-Clone und lokale Produktionsvorschau: [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md).
 
 ## Inhalte und Pflege
 
@@ -21,7 +21,10 @@ Nachrichten liegen als Markdown unter `content/news/`. Strukturierte Inhalte fü
 - [Anforderungskatalog](docs/REQUIREMENTS.md)
 - [Quellenrecherche und offene Angaben](docs/SOURCE-RESEARCH.md)
 - [Historische Quellenkritik](docs/HISTORY-SOURCES.md)
-- [Prüfbericht](docs/QA.md)
+- [Überarbeitete Navigation und Inhalte](docs/UX-REVISION.md)
+- [Anträge und Beschlüsse pflegen](docs/MOTIONS-GUIDE.md)
+- [Prüfbericht der UX-Überarbeitung](docs/QA-REVISION.md)
+- [Erstimplementierung: Prüfbericht](docs/QA.md)
 
 Personen, aktuelle Funktionen, kommende Termine und Bilder werden nur mit belastbaren Quellen und Freigaben ergänzt. Deshalb sind einzelne Bestände bewusst leer und Bildstellen klar als Platzhalter gekennzeichnet. Impressum und Datenschutz sind redaktionelle Entwürfe. Die Bildungsinhalte nennen ihren tatsächlichen Prüfstand.
 

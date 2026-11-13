@@ -1,6 +1,44 @@
 [
  {
   "date": "2026-11-13",
+  "mode": "redesign",
+  "depth": "full",
+  "scope": "site",
+  "theme": "locked SPD CD",
+  "shape": "central policy document and connected civic workbenches",
+  "axes": "light/grotesk-heavy/warm",
+  "hero": "existing brand heroes retained; guide and history intros compacted",
+  "nav": "shared masthead with prominent motions destination",
+  "footer": "existing civic directory retained",
+  "imagery": "existing explicit user-requested photo/logo placeholders retained",
+  "photos": [],
+  "entry": "src/app/politik/page.tsx",
+  "fingerprint": "6500d6e265cc4c1a7213118242552165fca9897c332214edbffe6a86d8509f25",
+  "sections": [
+   "central politics with anchors",
+   "clear youth participation",
+   "seven graphical systems",
+   "six-milestone epoch explorer",
+   "sourced motion traffic lights"
+  ],
+  "signature": "connected explanations and source-preserving overview before detail",
+  "waived": [
+   "inherited brand and reading exceptions from design.md"
+  ],
+  "prompt": "Revise the existing SPD Büdingen website within its visual identity: consolidate political routes, clarify Jusos, create graphical processes, improve history and add prominent motion traffic lights without invented data",
+  "verification": {
+   "mainTests": 50,
+   "mobileGraphTests": 1,
+   "targetedFinalTests": 8,
+   "mainAxeViews": 16,
+   "targetedAxeViews": 4,
+   "designFailures": 0,
+   "finishReview": "independent fix; two findings resolved",
+   "inventoryComparison": "one acknowledged anonymous-field count limitation; no full kept-inventory pass claimed"
+  }
+ },
+ {
+  "date": "2026-11-13",
   "mode": "build",
   "theme": "brand: SPD CD (by request)",
   "shape": "local political magazine",
