@@ -21,7 +21,7 @@ Die Portvorschau ist ein Arbeitszugang für diesen Prototyp. Sie ändert keine b
 Voraussetzung: Git, eine zum Lockfile passende Node.js-Version (Next.js 16 benötigt mindestens Node.js 20.9; empfohlen Node.js 22 LTS) und npm.
 
 ```bash
-git clone --branch codex/spd-buedingen-website https://github.com/JanKlingx/SPDWebseite.git
+git clone --branch codex/ux-navigation-inhalte https://github.com/JanKlingx/SPDWebseite.git
 cd SPDWebseite
 npm ci
 npm run dev
