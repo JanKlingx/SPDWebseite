@@ -1,0 +1,10 @@
+import type { Metadata } from 'next';
+import Image from 'next/image';
+import Link from 'next/link';
+import { notFound } from 'next/navigation';
+import { people,formatLocalDate } from '@/lib/local-data';
+import { ImagePlaceholder } from '@/components/ui/ImagePlaceholder';
+import '@/styles/directories.css';
+type Props={params:Promise<{slug:string}>};
+export async function generateMetadata({params}:Props):Promise<Metadata>{const {slug}=await params;return {title:people.find(p=>p.id===slug)?.name||'Profil nicht gefunden'}}
+export default async function PersonPage({params}:Props){const {slug}=await params;const person=people.find(p=>p.id===slug);if(!person)notFound();return <article className="container directory-content"><nav className="directory-breadcrumb" aria-label="Brotkrumennavigation"><Link href="/">Startseite</Link><span aria-hidden="true">/</span><Link href="/menschen">Unsere Menschen</Link></nav><header className="directory-detail-head"><p className="directory-category">{person.groups.join(', ')}</p><h1>{person.name}</h1><p className="directory-lede">{person.role}</p></header><div className="person-detail">{person.image?<div className="person-image"><Image src={person.image} alt={person.imageAlt||person.name} width={800} height={800}/></div>:<ImagePlaceholder title="Porträt folgt" description={`Freigegebenes Foto von ${person.name}`}/>}<div><p>{person.biography}</p><dl>{person.body&&<><dt>Gremium</dt><dd>{person.body}</dd></>}{person.district&&<><dt>Stadtteil</dt><dd>{person.district}</dd></>}</dl>{person.interests.length>0&&<><h2>Politische Schwerpunkte</h2><ul>{person.interests.map(i=><li key={i}>{i}</li>)}</ul></>}{person.email&&<><h2>Kontakt</h2><p><a href={`mailto:${person.email}`}>{person.email}</a></p></>}<h2>Quelle & Freigabe</h2><p className="small"><a href={person.source.url}>{person.source.title}</a><br/>Funktion überprüft am {formatLocalDate(person.verifiedAt)}.</p><Link className="text-link" href="/menschen">Zur Personenübersicht</Link></div></div></article>}

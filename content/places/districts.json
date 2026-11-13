@@ -1,0 +1,23 @@
+{
+  "sourceTitle": "Stadt Büdingen: Stadtteile",
+  "sourceUrl": "https://www.stadt-buedingen.de/Stadtleben/Die-Stadt/Stadtteile/",
+  "checkedAt": "2026-11-12",
+  "districts": [
+    {"id":"aulendiebach","name":"Aulendiebach"},
+    {"id":"bueches","name":"Büches"},
+    {"id":"buedingen","name":"Büdingen"},
+    {"id":"calbach","name":"Calbach"},
+    {"id":"diebach-am-haag","name":"Diebach am Haag"},
+    {"id":"dudenrod","name":"Dudenrod"},
+    {"id":"duedelsheim","name":"Düdelsheim"},
+    {"id":"eckartshausen","name":"Eckartshausen"},
+    {"id":"lorbach","name":"Lorbach"},
+    {"id":"michelau","name":"Michelau"},
+    {"id":"orleshausen","name":"Orleshausen"},
+    {"id":"rinderbuegen","name":"Rinderbügen"},
+    {"id":"rohrbach","name":"Rohrbach"},
+    {"id":"vonhausen","name":"Vonhausen"},
+    {"id":"wolf","name":"Wolf"},
+    {"id":"wolferborn","name":"Wolferborn"}
+  ]
+}

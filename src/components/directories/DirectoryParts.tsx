@@ -1,0 +1,4 @@
+import Link from 'next/link';
+import { ArrowUpRight } from 'lucide-react';
+export function DirectoryIntro({title,children}:{title:string;children:React.ReactNode}){return <section className="directory-intro"><div className="container"><nav className="directory-breadcrumb" aria-label="Brotkrumennavigation"><Link href="/">Startseite</Link><span aria-hidden="true">/</span><span>{title}</span></nav><h1>{title}</h1><div className="directory-lede">{children}</div></div></section>}
+export function EmptyDirectory({title,children,filtered=false,onReset}:{title:string;children:React.ReactNode;filtered?:boolean;onReset?:()=>void}){return <div className="directory-empty"><div className="empty-rule" aria-hidden="true"/><h2>{title}</h2><div>{children}</div>{filtered&&onReset?<button className="button quiet" onClick={onReset}>Filter zurücksetzen</button>:<Link className="text-link" href="/kontakt">Kontakt zur SPD Büdingen<ArrowUpRight size={20} aria-hidden="true"/></Link>}</div>}

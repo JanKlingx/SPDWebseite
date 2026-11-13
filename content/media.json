@@ -1,0 +1,29 @@
+{
+  "homeHero": {
+    "src": null,
+    "alt": "Freigegebene lokale Aufnahme aus Büdingen",
+    "width": 1600,
+    "height": 1200,
+    "credit": null,
+    "sourceUrl": null,
+    "rights": "Originalfoto und Nutzungsfreigabe fehlen"
+  },
+  "jusosHero": {
+    "src": null,
+    "alt": "Freigegebenes authentisches Foto junger politisch engagierter Menschen",
+    "width": 1600,
+    "height": 1200,
+    "credit": null,
+    "sourceUrl": null,
+    "rights": "Gruppenfoto, Einwilligungen und Nutzungsfreigabe fehlen"
+  },
+  "logo": {
+    "src": null,
+    "alt": "SPD, Soziale Politik für Dich.",
+    "width": 240,
+    "height": 120,
+    "credit": null,
+    "sourceUrl": null,
+    "rights": "Offizielle unveränderte PNG-Datei wird vom Nutzer ergänzt; Originalmaße nachtragen"
+  }
+}

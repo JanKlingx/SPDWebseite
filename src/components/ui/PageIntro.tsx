@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export function PageIntro({title,description,section='SPD Büdingen',parent='/'}:{title:string;description:string;section?:string;parent?:string}){return <div className="page-intro container"><nav className="breadcrumbs" aria-label="Brotkrumennavigation"><Link href={parent}>{section}</Link><span aria-hidden="true">/</span><span>{title}</span></nav><h1>{title}</h1><p>{description}</p></div>}

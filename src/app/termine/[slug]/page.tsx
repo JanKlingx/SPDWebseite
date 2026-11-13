@@ -1,0 +1,8 @@
+import type { Metadata } from 'next';
+import Link from 'next/link';
+import { notFound } from 'next/navigation';
+import { events,formatLocalDate } from '@/lib/local-data';
+import '@/styles/directories.css';
+type Props={params:Promise<{slug:string}>};
+export async function generateMetadata({params}:Props):Promise<Metadata>{const {slug}=await params;return {title:events.find(e=>e.id===slug)?.title||'Termin nicht gefunden'}}
+export default async function EventPage({params}:Props){const {slug}=await params;const event=events.find(e=>e.id===slug);if(!event)notFound();return <article className="container directory-content"><nav aria-label="Brotkrumennavigation" className="directory-breadcrumb"><Link href="/">Startseite</Link><span aria-hidden="true">/</span><Link href="/termine">Termine</Link></nav><header className="directory-detail-head"><p className="directory-category">{event.category}</p><h1>{event.title}</h1><p className="directory-lede">{event.summary}</p></header><div className="event-detail-body"><dl className="event-detail-facts"><div><dt>Beginn</dt><dd><time dateTime={event.start}>{formatLocalDate(event.start,true)} Uhr</time></dd></div>{event.end&&<div><dt>Ende</dt><dd><time dateTime={event.end}>{formatLocalDate(event.end,true)} Uhr</time></dd></div>}<div><dt>Ort</dt><dd>{event.location}</dd></div>{event.audience&&<div><dt>Für wen?</dt><dd>{event.audience}</dd></div>}</dl>{event.description.map((p,i)=><p key={i}>{p}</p>)}{event.registrationUrl&&<p><a className="button" href={event.registrationUrl}>Zur Anmeldung</a></p>}<h2>Quelle</h2><p><a href={event.source.url}>{event.source.title}</a></p><Link className="text-link" href="/termine">Zur Terminübersicht</Link></div></article>}

@@ -1,0 +1,208 @@
+[
+  {
+    "id": "heinrich-prinz",
+    "name": "Heinrich Prinz",
+    "level": "buedingen",
+    "role": "Früher Reichstagskandidat im Wahlkreis Friedberg-Büdingen",
+    "period": "Kandidaturen 1890, 1893 und 1898 laut Chronik",
+    "summary": "Schreiner und Gastwirt aus Frankfurt; die Chronik verbindet seine Kandidatur mit dem frühen öffentlichen Nachweis der Büdinger Sozialdemokratie.",
+    "body": [
+      "Die Chronik beschreibt sein Engagement im Allgemeinen Deutschen Arbeiterverein und seine Verfolgung unter dem Sozialistengesetz. Lebensdaten und biografische Einzelheiten bedürfen eines gesonderten Abgleichs."
+    ],
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "SPD Büdingen: Sozialdemokratie in Büdingen",
+        "url": "https://www.spd-buedingen.de/sozialdemokratie-in-buedingen/",
+        "note": "Öffentlich zugängliche Fassung der lokalen Chronik; keine unabhängige Zweitquelle."
+      }
+    ],
+    "status": "chronicle",
+    "eventIds": [
+      "buedingen-1893"
+    ]
+  },
+  {
+    "id": "heinrich-busold",
+    "name": "Heinrich Busold",
+    "level": "buedingen",
+    "role": "Reichstagsabgeordneter aus dem Wahlkreis Friedberg-Büdingen",
+    "period": "Wahl 1910",
+    "summary": "Der gelernte Schreiner aus Friedberg folgte laut Chronik 1903 als Reichstagskandidat auf Heinrich Prinz.",
+    "body": [
+      "Die Reichstagsnachwahl 1910 ist durch LAGIS dokumentiert. Das in der Chronik genannte Sterbejahr 1917 widerspricht anderen Nachweisen; deshalb erscheinen hier keine ungeprüften Lebensdaten."
+    ],
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      },
+      {
+        "title": "LAGIS: Reichstagsnachwahl 1910",
+        "url": "https://www.lagis-hessen.de/de/subjects/idrec/sn/edbx/id/3120"
+      }
+    ],
+    "status": "chronicle",
+    "eventIds": [
+      "buedingen-1903",
+      "buedingen-1910"
+    ]
+  },
+  {
+    "id": "friedrich-stuebing",
+    "name": "Friedrich Stübing",
+    "level": "buedingen",
+    "role": "Vorsitzender des Ortsvereins laut Chronik",
+    "period": "1919–1925",
+    "summary": "Die historische Darstellung nennt Stübing als Vorsitzenden in den Anfangsjahren des 1919 neu organisierten Ortsvereins.",
+    "body": [
+      "Lebensdaten, Porträt und eine weiterführende Biografie liegen in der bereitgestellten Datei nicht vor."
+    ],
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      }
+    ],
+    "status": "chronicle",
+    "eventIds": [
+      "buedingen-1919"
+    ]
+  },
+  {
+    "id": "georg-philipp-glenz",
+    "name": "Georg Philipp Glenz",
+    "level": "buedingen",
+    "role": "Ortsvereinsvorsitzender und Landtagsabgeordneter laut Chronik",
+    "period": "Vorsitz 1925–1933 laut überlieferter Liste",
+    "summary": "Die Chronik beschreibt Glenz als zentrale Person der Büdinger Sozialdemokratie vor 1933.",
+    "body": [
+      "Name, Lebensdaten und genaue Mandatszeiten müssen mit parlamentarischen biografischen Unterlagen abgeglichen werden. Die Chronik nennt seine Entlassung aus dem Justizdienst 1933. Diese Angaben sind keine unabhängig verifizierte Biografie."
+    ],
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      }
+    ],
+    "status": "chronicle",
+    "eventIds": [
+      "buedingen-1929",
+      "buedingen-1933"
+    ]
+  },
+  {
+    "id": "moerschel",
+    "name": "Genossin Mörschel",
+    "level": "buedingen",
+    "role": "In der Chronik genannte Frauen- und AWO-Aktive",
+    "period": "Späte 1920er- und frühe 1930er-Jahre",
+    "summary": "Sie nahm laut Chronik an überregionalen Frauen- und AWO-Konferenzen sowie Schulungen teil.",
+    "body": [
+      "Ein vollständiger Vorname, Lebensdaten und genaue Funktionen sind aus der Quelle nicht zu ermitteln. Der überlieferte Name wird bewusst nicht ergänzt."
+    ],
+    "sources": [
+      {
+        "title": "Bereitgestellte Chronik „Sozialdemokratie in Büdingen“",
+        "note": "Historische Ausgangsdarstellung; Entstehungszeit und vollständige archivalische Nachweise fehlen. Angaben sind als Chronikdarstellung zu lesen."
+      }
+    ],
+    "status": "chronicle",
+    "eventIds": [
+      "buedingen-1932-frauen"
+    ]
+  },
+  {
+    "id": "marie-juchacz",
+    "name": "Marie Juchacz",
+    "level": "germany",
+    "role": "Sozialdemokratische Abgeordnete der Nationalversammlung",
+    "period": "Rede am 19. Februar 1919",
+    "summary": "Juchacz sprach als erste Frau vor einem demokratisch gewählten deutschen Parlament.",
+    "body": [
+      "Ihre Rede steht für die neue parlamentarische Beteiligung von Frauen nach Einführung des Frauenwahlrechts."
+    ],
+    "sources": [
+      {
+        "title": "Deutscher Bundestag: Marie Juchacz",
+        "url": "https://www.bundestag.de/dokumente/textarchiv/1919-02-19-juchacz-591728"
+      }
+    ],
+    "status": "verified",
+    "eventIds": [
+      "germany-1919"
+    ]
+  },
+  {
+    "id": "otto-wels",
+    "name": "Otto Wels",
+    "level": "germany",
+    "role": "SPD-Partei- und Fraktionsvorsitzender 1933",
+    "period": "Rede am 23. März 1933",
+    "summary": "Wels begründete im Reichstag die Ablehnung des Ermächtigungsgesetzes.",
+    "body": [
+      "Die anwesenden SPD-Abgeordneten stimmten gegen das Gesetz. Die parlamentarischen Handlungsmöglichkeiten waren bereits durch nationalsozialistische Gewalt massiv eingeschränkt."
+    ],
+    "sources": [
+      {
+        "title": "Deutscher Bundestag: Ermächtigungsgesetz",
+        "url": "https://www.bundestag.de/dokumente/textarchiv/1933-03-23-ermaechtigungsgesetz-938540"
+      }
+    ],
+    "status": "verified",
+    "eventIds": [
+      "germany-1933"
+    ]
+  },
+  {
+    "id": "willy-brandt",
+    "name": "Willy Brandt",
+    "level": "germany",
+    "role": "Bundeskanzler 1969–1974",
+    "period": "1969–1974",
+    "summary": "Seine Kanzlerschaft verband gesellschaftliche Reformen mit einer Politik der Aussöhnung und Entspannung.",
+    "body": [
+      "1971 erhielt Brandt den Friedensnobelpreis."
+    ],
+    "sources": [
+      {
+        "title": "Bundesregierung: Willy Brandt",
+        "url": "https://www.bundeskanzler.de/bk-de/kanzleramt/bundeskanzler-seit-1949/willy-brandt"
+      }
+    ],
+    "status": "verified",
+    "eventIds": [
+      "germany-1969",
+      "germany-1971"
+    ]
+  },
+  {
+    "id": "helmut-schmidt",
+    "name": "Helmut Schmidt",
+    "level": "germany",
+    "role": "Bundeskanzler 1974–1982",
+    "period": "1974–1982",
+    "summary": "Schmidt führte nach Willy Brandt die sozialliberale Bundesregierung.",
+    "body": [
+      "Wirtschaftliche Krisen und Sicherheitsfragen prägten seine Regierungszeit."
+    ],
+    "sources": [
+      {
+        "title": "Bundesregierung: Bundeskanzler seit 1949",
+        "url": "https://www.bundeskanzler.de/bk-de/kanzleramt/bundeskanzler-seit-1949"
+      },
+      {
+        "title": "Bundeskanzler-Helmut-Schmidt-Stiftung",
+        "url": "https://www.helmut-schmidt.de/ueber-uns/helmut-schmidt"
+      }
+    ],
+    "status": "verified",
+    "eventIds": [
+      "germany-1974",
+      "germany-1982"
+    ]
+  }
+]
