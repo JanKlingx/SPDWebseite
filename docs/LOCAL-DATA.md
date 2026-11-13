@@ -40,11 +40,11 @@ Die Verzeichnisse sind unter `/menschen`, `/menschen/vorstand`, `/menschen/ortsb
 
 Datei: `content/politics/motions.json`, Array von `Motion`.
 
-Erforderlich: `id`, `title`, `date` (ISO-Datum), `type` (`Antrag` oder `Beschluss`), `applicants` (Array), `committee`, `summary`, `status`, `source` (`title`, `url`). Optional: `outcome` (nachgewiesenes Abstimmungsergebnis), `implementation` (belegter Umsetzungsstand), `documentUrl` (Originaldokument).
+Für neue Vorgänge werden `id`, `title`, `status`, `reason`, `citizenImpact`, `impactKind` und `source` (`title`, `url`) gepflegt. Antragstag, Beschlusstag, Gremium, Antragstellende und Originaldokument werden ergänzt, soweit belegt. Das vollständige Modell, eine Redaktionsvorlage und die Statusregeln stehen in [MOTIONS-GUIDE.md](MOTIONS-GUIDE.md).
 
-Zulässige Status: `Antrag`, `Ausschussempfehlung`, `Beschluss`, `In Umsetzung`, `Umgesetzt`, `Abgelehnt`. Eine Ausschussempfehlung darf nicht als endgültiger Beschluss und ein Beschluss nicht als abgeschlossene Umsetzung dargestellt werden. Fehlende Ergebnisse werden als nicht dokumentiert bezeichnet. Quelle und Dokument müssen den angezeigten Status tatsächlich belegen.
+Die Ampel unterscheidet `Angenommen`, `In Planung` und `Abgelehnt`. Eingereichte, noch nicht entschiedene Anträge erscheinen neutral als `Entscheidung offen` in der Ansicht „Alle“. Eine Ausschussempfehlung darf nicht als endgültiger Beschluss und ein Beschluss nicht als abgeschlossene Umsetzung dargestellt werden. Frühere Datenwerte bleiben lesbar und werden sachlich normalisiert; es werden keine Vorgänge aus anderen Texten abgeleitet oder erfunden.
 
-Unter `/politik/antraege` werden Suche, Status und Gremium in `q`, `status` und `gremium` gespeichert. Einzelne Vorgänge besitzen aufklappbare Details und einen Direktlink über den jeweiligen ID-Anker. Gremienoptionen entstehen aus den Datensätzen.
+Unter `/politik/antraege` werden Suche, Status und Gremium in `q`, `status` und `gremium` gespeichert. Einzelne Vorgänge besitzen aufklappbare Karten mit Begründung, Auswirkungen und Quellen; `?antrag=ID#ID` öffnet eine Karte direkt. Gremienoptionen entstehen aus den Datensätzen.
 
 ## Stadtteile
 

@@ -1,6 +1,6 @@
 /* Hallmark · theme: brand (SPD CD by request) · brand: SPD (manual 2024) · genre: editorial · shape: local political magazine · hero: poster · nav: two-level editorial masthead · footer: civic directory · signature: Büdingen since 1893 · job: join · posture: drenched · surface: absolute · fonts: Open Sans by request · imagery: explicit editorial placeholders by request · v2.0.0 */
 /* Hallmark · pre-emit critique: P4 H5 E4 S4 R4 V4 · weakest: S, absent local photography; use the real Büdingen chronicle as the signature */
-/* Hallmark · hero-review: subagent fix, 3 findings, 3 resolved · finish-review: subagent fix, 5 findings, 5 resolved by recapture and source inspection · Floor: 0 FAIL · user override: Open Sans */
+/* Hallmark · previous build: hero review 3 resolved and finish review 5 resolved; current UX revision is checked separately in .hallmark/revision-review.md */
 /* Hallmark · user override 1: the supplied SPD manual and explicit brief require Open Sans as the sole family; the script assumes a second family and cannot accept this brand requirement. */
 /* Hallmark · waive 7b · surface: absolute; contrast verified in render · SPD Büdingen requires pure white and black in its official corporate design */
 /* Hallmark · waive 22 · user requires neutral surfaces · SPD Büdingen manual specifies white, black and light grey without additional brand colours */
@@ -90,3 +90,7 @@ svg { flex-shrink: 0; }
 
 .footer-brand { display: block; text-decoration: none; margin-bottom: var(--space-md); }
 .button { white-space: nowrap; }
+
+@media (max-width: 1100px) { .menu-button { display: flex; } .header-tools>.text-link { display: none; } .primary-nav { display: none; } .primary-nav.is-open { display: block; } .nav-inner { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: var(--space-0) var(--space-lg); padding-block: var(--space-md); } .nav-inner a { font-size: var(--text-sm); } }
+
+@media (max-width: 600px) { .nav-inner a[href="/politik/antraege"] { grid-column: 1 / -1; } }

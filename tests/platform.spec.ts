@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
 import { readFile } from 'node:fs/promises';
 
-const primaryRoutes = ['/', '/aktuelles', '/politik', '/menschen', '/jusos', '/wissen', '/geschichte', '/termine', '/mitmachen'];
+const primaryRoutes = ['/', '/aktuelles', '/politik', '/politik/antraege', '/menschen', '/jusos', '/wissen', '/geschichte', '/termine', '/mitmachen'];
 
 test('all primary pages render and internal navigation resolves', async ({ page, request, baseURL }) => {
   const found = new Set<string>(primaryRoutes);
@@ -107,8 +107,10 @@ test('essential content and native history disclosures remain available without 
   await expect(page.locator('main h1')).toBeVisible();
   await page.goto('/geschichte/buedingen');
   await expect(page.locator('#buedingen-1893')).toBeVisible();
-  await page.locator('#buedingen-1893 summary').click();
-  await expect(page.locator('#buedingen-1893 details')).toHaveAttribute('open', '');
+  await page.locator('#history-event-panel').getByText('Kontext und Details', { exact: true }).click();
+  await expect(page.locator('#history-event-panel .history-context')).toHaveAttribute('open', '');
+  await page.getByText('Vollständiges Archiv ohne interaktive Auswahl', { exact: true }).click();
+  await expect(page.locator('#archive-buedingen-1893')).toBeVisible();
   await page.goto('/aktuelles?q=Wohnraum');
   await expect(page.locator('main article')).toHaveCount(1);
   await expect(page.locator('main article')).toBeVisible();
@@ -133,13 +135,23 @@ for (const width of [320, 375, 768, 1440]) {
         viewport: window.innerWidth,
       }));
       if (overflow.document > overflow.viewport + 1 || overflow.body > overflow.viewport + 1) issues.push({ route, ...overflow });
+      if (route === '/politik' && width === 320) {
+        const links = page.getByRole('navigation', { name: 'Politische Themen auf dieser Seite' }).getByRole('link');
+        for (const link of await links.all()) {
+          const box = await link.boundingBox();
+          expect(box).toBeTruthy();
+          expect(box!.height).toBeGreaterThanOrEqual(44);
+          expect(box!.x).toBeGreaterThanOrEqual(0);
+          expect(box!.x + box!.width).toBeLessThanOrEqual(width);
+        }
+      }
     }
     expect(issues, 'All tested pages must fit the viewport').toEqual([]);
   });
 }
 
 for (const width of [375, 1440]) {
-  for (const route of ['/', '/jusos', '/wissen/lexikon', '/wissen/ablaeufe', '/geschichte', '/termine']) {
+  for (const route of ['/', '/politik', '/politik/antraege', '/jusos', '/wissen/lexikon', '/wissen/ablaeufe', '/geschichte', '/termine']) {
     test(`WCAG automated checks ${route} at ${width}px`, async ({ page }) => {
       await page.setViewportSize({ width, height: width > 1000 ? 900 : 812 });
       await page.goto(route);

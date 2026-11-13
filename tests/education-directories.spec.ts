@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 import guides from '../content/guides/guides.json';
 import glossary from '../content/glossary/entries.json';
-import { filterEvents, filterPeople, filterMotions, localDay, type LocalEvent, type Person, type Motion } from '../src/lib/local-data';
+import { filterEvents, filterPeople, localDay, type LocalEvent, type Person } from '../src/lib/local-data';
 
 test('glossary supports search, alphabet, topics, empty results and direct links', async ({ page }) => {
   await page.goto('/wissen/lexikon');
@@ -37,12 +37,23 @@ test('all seven political guides support step changes, direct links and keyboard
     await expect(page).toHaveURL(new RegExp(`modul=${guide.id}`));
     const panel = page.getByRole('tabpanel', { name: guide.title, exact: true });
     await expect(panel).toBeVisible();
+    await expect(panel.locator('[data-diagram]')).toBeVisible();
+    await expect(panel.getByText(/^(Quelle|Quellen) und Vertiefung$/)).toHaveCount(0);
     await expect(panel.getByRole('button', { name: 'Zurück', exact: true })).toBeDisabled();
     await panel.getByRole('button', { name: 'Weiter', exact: true }).click();
-    await expect(panel.getByRole('status')).toContainText(`Station 2 von ${guide.steps.length}`);
+    const linear = ['bundesgesetz', 'kommunaler-beschluss'].includes(guide.id);
+    await expect(panel.getByRole('status')).toContainText(linear ? `Station 2 von ${guide.steps.length}` : guide.steps[1].title);
     await expect(page).toHaveURL(new RegExp(`schritt=${guide.steps[1].id}`));
+    if (linear) {
+      await expect(panel.getByRole('list', { name: 'Verbundene Stationen' }).getByRole('listitem')).toHaveCount(guide.steps.length);
+      await expect(panel.getByRole('progressbar')).toHaveAttribute('value', '2');
+    }
     await panel.getByRole('button', { name: guide.steps[guide.steps.length - 1].title, exact: false }).click();
+    await expect(panel.getByRole('heading', { name: guide.steps[guide.steps.length - 1].title, exact: true })).toBeVisible();
     await expect(panel.getByRole('button', { name: 'Weiter', exact: true })).toBeDisabled();
+    const sourceDisclosure = panel.locator('section').filter({ has: page.getByRole('heading', { name: guide.steps[guide.steps.length - 1].title, exact: true }) }).getByText('Quellen zu diesem Inhalt', { exact: true });
+    await sourceDisclosure.click();
+    await expect(panel.getByRole('link', { name: guide.source[0].title }).first()).toBeVisible();
   }
   await tabs.getByRole('tab').last().focus();
   await page.keyboard.press('Home');
@@ -55,18 +66,63 @@ test('all seven political guides support step changes, direct links and keyboard
   await expect(tabs.getByRole('tab').nth(1)).toHaveAttribute('aria-selected', 'true');
 });
 
-test('mobile political guides offer native module and station selection', async ({ page }) => {
-  await page.setViewportSize({ width: 375, height: 812 });
-  await page.goto('/wissen/ablaeufe');
-  const guide = guides.find(item => item.id === 'kommunalwahl')!;
-  await page.getByRole('combobox', { name: 'Erklärung auswählen', exact: true }).selectOption(guide.id);
-  await expect(page).toHaveURL(/modul=kommunalwahl/);
-  await page.getByRole('combobox', { name: 'Station auswählen', exact: true }).selectOption(guide.steps[2].id);
-  await expect(page).toHaveURL(new RegExp(`schritt=${guide.steps[2].id}`));
-  const panel = page.getByRole('tabpanel');
-  await expect(panel.getByRole('heading', { name: guide.steps[2].title, exact: true })).toBeVisible();
-  await panel.getByRole('button', { name: 'Weiter', exact: true }).click();
-  await expect(panel.getByRole('status')).toContainText(`Station 4 von ${guide.steps.length}`);
+test('mobile political diagrams support touch, direct selection and URL state', async ({ browser, baseURL }) => {
+  const context = await browser.newContext({ baseURL, viewport: { width: 375, height: 812 }, hasTouch: true, isMobile: true });
+  const page = await context.newPage();
+  try {
+    await page.goto('/wissen/ablaeufe');
+    const guide = guides.find(item => item.id === 'kommunalwahl')!;
+    await page.getByRole('combobox', { name: 'Erklärung auswählen', exact: true }).selectOption(guide.id);
+    await expect(page).toHaveURL(/modul=kommunalwahl/);
+    const panel = page.getByRole('tabpanel');
+    await panel.getByRole('button', { name: 'Kumulieren', exact: true }).tap();
+    await expect(page).toHaveURL(new RegExp(`schritt=${guide.steps[2].id}`));
+    await expect(panel.getByRole('button', { name: 'Kumulieren', exact: true })).toHaveAttribute('aria-pressed', 'true');
+    await expect(panel.getByRole('heading', { name: guide.steps[2].title, exact: true })).toBeVisible();
+    await panel.getByText('Anderes Thema auswählen', { exact: true }).tap();
+    await page.getByRole('combobox', { name: 'Station auswählen', exact: true }).selectOption(guide.steps[3].id);
+    await expect(page).toHaveURL(new RegExp(`schritt=${guide.steps[3].id}`));
+    await page.reload();
+    await expect(page.getByRole('tabpanel').getByRole('button', { name: 'Panaschieren', exact: true })).toHaveAttribute('aria-pressed', 'true');
+    await page.screenshot({ path: 'work/qa/guide-touch-375.png', fullPage: true });
+  } finally { await context.close(); }
+});
+
+test('all seven political diagrams fit narrow screens and expose usable touch stations', async ({ browser, baseURL }) => {
+  test.setTimeout(120_000);
+  const context = await browser.newContext({ baseURL, viewport: { width: 375, height: 812 }, hasTouch: true, isMobile: true });
+  const page = await context.newPage();
+  const issues: { width: number; module: string; issue: string }[] = [];
+  try {
+    await page.goto('/wissen/ablaeufe');
+    for (const width of [375, 320]) {
+      await page.setViewportSize({ width, height: 812 });
+      for (const guide of guides) {
+        await page.getByRole('combobox', { name: 'Erklärung auswählen', exact: true }).selectOption(guide.id);
+        const panel = page.getByRole('tabpanel');
+        const nodes = panel.locator('button[data-guide-node]');
+        await expect(nodes).toHaveCount(guide.steps.length);
+        for (const [index, step] of guide.steps.entries()) {
+          const node = nodes.nth(index);
+          await node.scrollIntoViewIfNeeded();
+          await expect(node).toBeVisible();
+          const box = await node.boundingBox();
+          if (!box || box.width < 44 || box.height < 44) issues.push({ width, module: guide.id, issue: `Touch station ${step.title} is smaller than 44 × 44px` });
+          await node.tap();
+          await expect.poll(() => new URL(page.url()).searchParams.get('schritt')).toBe(step.id);
+          await expect(panel.getByRole('heading', { name: step.title, exact: true })).toBeVisible();
+        }
+        await page.evaluate(() => document.fonts.ready);
+        const dimensions = await page.evaluate(() => ({ body: document.body.scrollWidth, document: document.documentElement.scrollWidth, viewport: innerWidth }));
+        if (dimensions.body > width + 1 || dimensions.document > width + 1) issues.push({ width, module: guide.id, issue: `Horizontal overflow: ${JSON.stringify(dimensions)}` });
+        if (width === 375) {
+          await page.evaluate(() => window.scrollTo({ top: 0, behavior: 'instant' }));
+          await page.screenshot({ path: `work/qa-revision/guide-${guide.id}-375.png`, fullPage: true });
+        }
+      }
+    }
+    expect(issues).toEqual([]);
+  } finally { await context.close(); }
 });
 
 test('calendar changes months, selects days and preserves URL filters', async ({ page }) => {
@@ -102,10 +158,10 @@ test('people and motions expose honest empty states and usable filters', async (
   await expect(page.getByRole('heading', { name: 'Menschen verdienen ein richtiges Porträt.' })).toBeVisible();
   await page.goto('/politik/antraege');
   await page.getByLabel('Vorgänge suchen', { exact: true }).fill('Testsuche');
-  await page.getByRole('combobox', { name: 'Status', exact: true }).selectOption('Beschluss');
-  await expect(page).toHaveURL(/status=Beschluss/);
+  await page.getByRole('button', { name: 'Angenommen', exact: true }).click();
+  await expect(page).toHaveURL(/status=Angenommen/);
   await expect(page.getByRole('status')).toContainText('0 Vorgänge');
-  await expect(page.getByRole('heading', { name: 'Vom Antrag bis zur Umsetzung.' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Noch keine verifizierten Anträge.' })).toBeVisible();
 });
 
 test('district search opens local context and links to filtered news', async ({ page }) => {
@@ -126,30 +182,32 @@ test('home history preview selects real events and opens their details', async (
   await expect(page.locator('.home-history-story')).toContainText('Arbeiterjugend');
   await page.getByRole('link', { name: 'Das Ereignis entdecken' }).click();
   await expect(page).toHaveURL(/event=buedingen-1922/);
-  await expect(page.locator('#buedingen-1922 details')).toHaveAttribute('open', '');
+  await expect(page.locator('#history-event-panel .history-context')).toHaveAttribute('open', '');
+  await expect(page.locator('#history-event-panel')).toContainText('Arbeiterjugend');
 });
 
-test('Jusos topics update the page and link to relevant content', async ({ page }) => {
+test('Jusos explains participation and leads to usable contact and youth event filters', async ({ page }) => {
   await page.goto('/jusos');
-  await page.getByRole('button', { name: 'Zuhause finden', exact: true }).click();
-  await expect(page).toHaveURL(/thema=wohnen/);
-  await expect(page.locator('.jusos-topic-panel h3')).toHaveText('Zuhause finden');
-  await page.reload();
-  await expect(page.getByRole('button', { name: 'Zuhause finden', exact: true })).toHaveAttribute('aria-pressed', 'true');
-  await page.getByRole('link', { name: 'Zum Thema', exact: true }).click();
-  await expect(page).toHaveURL(/\/politik\/themen\/wohnen/);
-  await expect(page.locator('main h1')).toContainText('Wohnen');
+  await expect(page.getByRole('heading', { name: /Was sind.*die Jusos/ })).toBeVisible();
+  await expect(page.getByRole('heading', { name: /Junge Politik im Archiv|Was dich bewegt/ })).toHaveCount(0);
+  await expect(page.getByRole('link', { name: /Jusos kennenlernen|Die Jusos kennenlernen/ })).toHaveCount(0);
+  await page.getByRole('link', { name: 'So kannst du mitmachen', exact: true }).click();
+  await expect(page).toHaveURL(/#mitmachen$/);
+  await expect(page.getByRole('heading', { name: 'So kannst du mitmachen.', exact: true })).toBeVisible();
+  await page.getByRole('link', { name: 'Nachricht vorbereiten', exact: true }).click();
+  await expect(page).toHaveURL(/\/kontakt$/);
+  await expect(page.getByRole('button', { name: 'Entwurf herunterladen', exact: true })).toBeVisible();
   await page.goto('/jusos');
-  await page.getByRole('link', { name: 'Junge Engagierte', exact: true }).click();
-  await expect(page).toHaveURL(/gruppe=Jusos/);
-  await expect(page.getByRole('combobox', { name: 'Bereich', exact: true })).toHaveValue('Jusos');
+  await page.getByRole('link', { name: 'Möglichkeiten entdecken', exact: true }).click();
+  await expect(page).toHaveURL(/modul=beteiligung/);
+  await expect(page.getByRole('tabpanel')).toContainText('Wie kann ich mich beteiligen?');
   await page.goto('/jusos');
-  await page.getByRole('link', { name: 'Jugendtermine', exact: true }).click();
+  await page.getByRole('link', { name: 'Zu den Jugendterminen', exact: true }).click();
   await expect(page).toHaveURL(/kategorie=Jusos/);
   await expect(page.getByRole('combobox', { name: 'Kategorie', exact: true })).toHaveValue('Jusos');
 });
 
-test('local data filters handle populated records, date boundaries and chronology', () => {
+test('local event and people filters handle populated records, date boundaries and chronology', () => {
   // These fixtures exist only in tests and are never published as local political facts.
   const source = { title: 'Testquelle', url: 'https://example.org/test' };
   const records: LocalEvent[] = [
@@ -168,10 +226,4 @@ test('local data filters handle populated records, date boundaries and chronolog
   expect(filterPeople(persons, { group: 'alle' })).toHaveLength(2);
   expect(filterPeople(persons, { group: 'Jusos', query: 'jugend' }).map(person => person.id)).toEqual(['test-b']);
   expect(filterPeople(persons, { district: 'Testviertel' }).map(person => person.id)).toEqual(['test-a']);
-  const motions: Motion[] = [
-    { id: 'test-proposal', title: 'Testvorgang', date: '2026-10-01', type: 'Antrag', applicants: ['Testgruppe'], committee: 'Testgremium', summary: 'Test', status: 'Antrag', source },
-    { id: 'test-resolution', title: 'Testbeschluss', date: '2026-11-01', type: 'Beschluss', applicants: ['Testgruppe'], committee: 'Testgremium', summary: 'Test', status: 'Beschluss', source },
-  ];
-  expect(filterMotions(motions, { status: 'Beschluss' }).map(motion => motion.id)).toEqual(['test-resolution']);
-  expect(filterMotions(motions, { query: 'Testgruppe' }).map(motion => motion.id)).toEqual(['test-resolution', 'test-proposal']);
 });

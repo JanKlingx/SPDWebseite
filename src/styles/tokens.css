@@ -13,6 +13,11 @@
   --color-focus: #000000;
   --color-inverse-focus: #ffffff;
   --color-error: #a4000c;
+  --color-status-accepted: #126c3a;
+  --color-status-planning: #f6c744;
+  --color-status-rejected: var(--color-accent);
+  --color-status-on-dark: var(--color-paper);
+  --color-status-on-light: var(--color-ink);
   --color-transparent: transparent;
   --font-body: 'Open Sans', sans-serif;
   --font-display: 'Open Sans', sans-serif;

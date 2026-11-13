@@ -10,5 +10,6 @@ Basis: supplied SPD-CD-Manual, August 2024, and the user's explicit website brie
 - The official logo is an unmodified future asset, separate from the local text name. Missing images are explicit placeholders at the user's request; no invented faces or photographs.
 - Article headlines, glossary office names and source citations may wrap. Navigation and action labels remain compact. Large process and timeline selectors are the reading material being selected.
 - One primary action recipe. Filled selected states are filters, not competing calls to action. Visible instant focus, readable contrast, 44px touch targets, reduced motion, native accessible disclosures.
+- Revision of 13 November 2026: green and yellow are reserved for the explicitly requested semantic motion statuses. They do not become brand or decorative colours. Rejected uses the SPD red; every status includes a text label and distinct icon. Submitted but undecided motions stay neutral and are never labelled as preparation.
 
 Hallmark's automatic Open Sans gate assumes a second font family. The explicit SPD requirement takes precedence; this is documented as a user override, not a fabricated lint pass.
